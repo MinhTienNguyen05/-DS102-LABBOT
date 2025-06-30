@@ -1,0 +1,24 @@
+2025-06-07 11:21:23,224 - INFO - __main__ - Configuration successed
+2025-06-07 11:21:23,244 - INFO - __main__ - Loaded data from ../data/df_llama3_3.csv. Columns: 21. Rows: 1225
+2025-06-07 11:50:38,674 - ERROR - gemini_2_5_pro - Error with calling Gemini API: 504 Deadline Exceeded
+2025-06-07 11:50:38,672 - ERROR - gemini_2_5_pro - Error with calling Gemini API: 504 Deadline Exceeded
+2025-06-07 11:50:38,696 - ERROR - gemini_2_5_pro - API Response Error: 504 Deadline Exceeded
+2025-06-07 11:50:38,696 - ERROR - gemini_2_5_pro - API Response Error: 504 Deadline Exceeded
+2025-06-07 12:33:27,865 - ERROR - gemini_2_5_pro - Error with calling Gemini API: 504 Deadline Exceeded
+2025-06-07 12:33:27,882 - ERROR - gemini_2_5_pro - API Response Error: 504 Deadline Exceeded
+2025-06-07 13:58:36,618 - ERROR - gemini_2_5_pro - Error with calling Gemini API: 504 Deadline Exceeded
+2025-06-07 13:58:36,632 - ERROR - gemini_2_5_pro - API Response Error: 504 Deadline Exceeded
+2025-06-07 14:15:02,458 - ERROR - gemini_2_5_pro - Error with calling Gemini API: 504 Deadline Exceeded
+2025-06-07 14:15:02,474 - ERROR - gemini_2_5_pro - API Response Error: 504 Deadline Exceeded
+2025-06-07 14:35:04,572 - ERROR - gemini_2_5_pro - Error with calling Gemini API: 504 Deadline Exceeded
+2025-06-07 14:35:05,426 - ERROR - gemini_2_5_pro - API Response Error: 504 Deadline Exceeded
+2025-06-07 14:35:04,573 - ERROR - gemini_2_5_pro - Error with calling Gemini API: 504 Deadline Exceeded
+2025-06-07 14:35:05,430 - ERROR - gemini_2_5_pro - API Response Error: 504 Deadline Exceeded
+2025-06-07 15:04:36,841 - ERROR - gemini_2_5_pro - Error with calling Gemini API: 504 Deadline Exceeded
+2025-06-07 15:04:36,844 - ERROR - gemini_2_5_pro - API Response Error: 504 Deadline Exceeded
+2025-06-07 15:23:24,566 - ERROR - gemini_2_5_pro - Error with calling Gemini API: 504 Deadline Exceeded
+2025-06-07 15:23:25,315 - ERROR - gemini_2_5_pro - API Response Error: 504 Deadline Exceeded
+2025-06-07 15:41:27,878 - ERROR - gemini_2_5_pro - Error with calling Gemini API: 504 Deadline Exceeded
+2025-06-07 15:41:27,882 - ERROR - gemini_2_5_pro - API Response Error: 504 Deadline Exceeded
+2025-06-07 15:41:35,338 - INFO - __main__ - Sucessfully saved to../output/df_filled_output_gemini.csv
+2025-06-07 15:41:35,339 - INFO - __main__ - Process completed

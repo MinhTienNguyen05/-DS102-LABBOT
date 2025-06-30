@@ -1,0 +1,16 @@
+scrapy==2.12.0
+dotenv
+msal
+beautifulsoup4
+lxml
+colorama
+clickhouse-connect
+cython
+selenium
+scrapy-splash
+scrapy-selenium
+fake-useragent
+PyAutoGUI
+webdriver-manager
+pandas
+pydantic
