@@ -1,0 +1,20 @@
+Django
+django-cotton
+django-jazzmin
+django-tailwind
+django-tailwind[reload]
+django-vite
+together
+google-genai
+python-dotenv
+markdown
+psycopg2
+joblib
+numpy 
+pandas
+scikit-learn==1.6.1
+xgboost
+
+gunicorn # WSGI server cho production
+whitenoise # Phục vụ file static hiệu quả
+django-cors-headers  # Xử lý vấn đề CORS (vẫn cần thiết nếu bạn có domain riêng cho frontend sau này)

@@ -1,0 +1,13 @@
+{
+    // Cho phép Emmet (plugin hỗ trợ gõ nhanh HTML) hoạt động trong file Django template.
+    "emmet.includeLanguages": {
+      "django-html": "html"
+    },
+
+    // Yêu cầu VS Code hiểu mọi file .html bên trong thư mục templates/ là template của Django.
+    "files.associations": {
+      "**/templates/**/*.html": "django-html" // Tìm mọi file có đuôi .html trong thư mục hiện tại và mọi thư mục con (đệ quy).
+    },
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }

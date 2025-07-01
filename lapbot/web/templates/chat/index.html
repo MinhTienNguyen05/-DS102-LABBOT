@@ -1,0 +1,63 @@
+{% extends "partials/base.html" %} {% load static %} {% block content %}
+
+<div id="chat-container" class="flex flex-col h-full w-full relative">
+    {% comment %} Phần hỏi đáp chatbot {% endcomment %}
+    <div id="chat-container_response" class="flex-1 flex overflow-y-auto overflow-auto pt-12 pb-16 ">
+        <div id='chat-container_response--body' class="scrollToEnd w-4xl flex flex-col items-stretch gap-8 m-auto">
+            {% for chat in chat_history %}
+                <c-message.user-message :data='chat' class="text-sm/6"></c-message.user-message>
+                <c-message.ai-message :data='chat'></c-message.ai-message>
+            {% endfor %}
+        </div>
+    </div>
+    {% comment %} Phần input bar {% endcomment %}
+    <form method='POST' id="chat-container_input" class="h-fit flex flex-col">
+        <div class="w-4xl m-auto rounded-[1.75rem] flex flex-col p-3 gap-5 border border-black/20">
+            <textarea
+                id="chat-container_input--bar"
+                name="message"
+                rows="1"
+                class="w-full px-3 resize-none overflow-auto focus:outline-none leading-snug bg-white"
+                placeholder="Nhập tin nhắn..."
+            ></textarea>
+            <div class="w-full flex h-fit justify-between">
+                    <c-alert-dialog>
+                        <c-alert-dialog.trigger>
+                            <c-button id='reset-chat' type='button' variant='outline' class="!rounded-full border-red-500/80 text-red-500/80 hover:text-red-500/80 hover:!bg-red-100/50 relative top-px cursor-pointer"> 
+                                <c-icon.bin></c-icon.bin>
+                                <p>Delete</p>
+                            </c-button>
+                        </c-alert-dialog.trigger>
+
+                        <c-alert-dialog.content>
+                            <c-alert-dialog.header>
+                                <c-alert-dialog.title>Are you absolutely sure?</c-alert-dialog.title>
+                                <c-alert-dialog.description>
+                                This action cannot be undone. This will permanently delete your account
+                                and remove your data from our servers.
+                                </c-alert-dialog.description>
+                            </c-alert-dialog.header>
+
+                            <c-alert-dialog.footer>
+                                {% comment %} <c-alert-dialog.cancel class="cursor-pointer">Cancel</c-alert-dialog.cancel>
+                                <c-alert-dialog.action id="reset-chat_confirm" type="button" name="form_action" value="reset_chat" class="cursor-pointer">Continue</c-alert-dialog.action> {% endcomment %}
+                                <c-button type='button' @click="hideDialog" variant='outline' class="cursor-pointer">Cancel</c-alert-dialog.cancel>
+                                <c-button type='button' @click="hideDialog" id="reset-chat_confirm" type="button" name="form_action" value="reset_chat" class="cursor-pointer">Continue</c-alert-dialog.action>
+                            </c-alert-dialog.footer>
+                        </c-alert-dialog.content>
+                    </c-alert-dialog>
+                
+                <input type="hidden" name="form_action" id="chat-container_hidden-input">
+                <button type="button" id="chat-container_input--button" class="w-9 h-9 rounded-full bg-black p-2 flex cursor-pointer hover:opacity-80 transition-all">
+                    <c-icon class="h-full w-full"></c-icon>
+                </button>
+            </div>
+        </div>
+
+        <p class="text-center text-[12px] text-gray-500 py-2">
+            <strong>Lapbot</strong> - AI thông minh tìm kiếm laptop phù hợp nhất với bạn
+        </p>
+    </div>
+</div>
+
+{% endblock content %}

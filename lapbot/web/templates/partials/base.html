@@ -1,0 +1,79 @@
+{% load static %} 
+{% comment %} {% load static tailwind_tags %} {% endcomment %}
+{% load django_vite %}
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Django Tailwind</title>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+
+        <!-- Alpine.js tag - directly from CDN (not recommended for production) -->
+        <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
+
+        <!-- Pagedone UI -->
+        <script defer src="{% static 'global/js/pagedone.js' %}"></script>
+        
+        <!-- CDN Swiper Carousel -->
+        <link href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" rel="stylesheet" />
+        <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+        <!-- CSS global self-writed -->
+        <link rel="stylesheet" href="{% static 'global/css/main.css' %}" />
+        <link rel="stylesheet" href="{% static "global/css/shadcn.css" %}">
+
+        {% vite_hmr_client %}
+        {% vite_asset 'static/global/js/main.js' %}
+    </head>
+
+    <body class="h-screen w-screen bg-teal-50 flex flex-col text-sm/7 font-montserrat text-default-black font-medium">
+        {% comment %} Header {% endcomment %}
+        <nav id="header" class="h-16 w-full bg-teal-50 flex flex-row justify-between items-center px-6 py-2">
+            <div class="h-full w-fit">
+                <img class="h-full" src="{% static 'global/img/logo_full.svg' %}" alt="Logo" />
+            </div>
+
+            <div class="h-full w-fit flex flex-row items-center gap-4">
+                <div class="text-right">
+                    <p>Phạm Hoàng Vinh</p>
+                    <p>User</p>
+                </div>
+
+                <div class="h-[80%] aspect-1">
+                    <img
+                        class="w-full h-full p-1 rounded-full ring-2 ring-teal-500"
+                        src="{% static 'global/img/avatar_demo.jpg' %}"
+                        alt="Avatar"
+                    />
+                </div>
+            </div>  
+        </nav>
+
+        <div id="content" class="flex-1 flex flex-row items-stretch bg-teal-50">
+            <aside class="w-72">
+                <ul class="w-full p-6 flex flex-col justify-stretch gap-2">
+                    {% for item in menu_items %}
+                        <li>
+                            <a href="{{ item.url }}" >
+                                <c-button
+                                    variant="ghost"
+                                    class="justify-start w-full gap-3 hover:bg-teal-100 cursor-pointer 
+                                    {% if current_path == item.url %} !bg-teal-500 !text-white {% endif %}"
+                                >
+                                    {% include item.icon_path with class="" %}
+                                    <p>{{ item.name }}</p>
+                                </c-button>
+                            </a>
+                        </li>
+                    {% endfor %}
+                </ul>
+            </aside>
+
+            <div class="flex-1 rounded-tl-4xl overflow-hidden bg-white">{% block content %} {% endblock content %}</div>
+        </div>
+        
+        {% block script %} {% endblock script %}
+    </body>
+</html>

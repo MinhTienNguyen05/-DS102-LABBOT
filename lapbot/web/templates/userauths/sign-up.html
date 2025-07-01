@@ -1,0 +1,23 @@
+{% comment %} POST để không show ra những gì trên url như username, ... (show như page thì xài GET) {% endcomment %}
+<form method="post">
+    {% csrf_token %}
+
+    {% if form.errors %}
+    <div>
+        <strong>{{ form.errors }}</strong>
+    </div>
+    {% endif %}
+
+    {% for field in form %}
+        <div class="form-group">
+            {{ field.label_tag }}
+            {{ field }}
+
+            {% if field.help_text %}
+                <small class="form-text text-muted">{{ field.help_text }}</small>
+            {% endif %}
+
+        </div>
+    {% endfor %}
+    <button type="submit">Gửi</button>
+</form>
