@@ -1,0 +1,3107 @@
+question,intent_recommend_budget,intent_recommend_usage,intent_tech_detail
+Cấu hình RAM máy là 8GB + 8GB tặng hay 16GB tặng thêm 8GB?,0,0,1
+Có nâng cấp tối đa RAM 32GB không? Giá bao nhiêu?,1,0,1
+Máy nào tầm giá dưới 15-16 triệu chơi game?,1,1,0
+Laptop Gaming Acer Nitro V ANV15-51-58AN khi mua có được tặng thêm RAM không hay phải mua riêng?,0,0,1
+Máy có MUX switch không?,0,0,1
+Dòng này sản xuất năm bao nhiêu?,0,0,1
+Cách đổi màu bàn phím và tăng độ sáng bàn phím như thế nào?,0,0,1
+mua Mac cài Windows hết bao nhiêu tiền?,1,0,0
+"Macbook Air M2 16/256GB màu bạc, vàng, xám giá sinh viên tại Hà Nội bao nhiêu?",1,0,0
+MacBook Air M2 16GB RAM 256GB màu bạc giá bao nhiêu?,1,0,0
+Giá Macbook Air M2 16GB RAM 256GB màu xám khi thanh toán qua VNPAY là bao nhiêu?,1,0,0
+Với ngân sách 6 triệu có mua trả góp được không?,1,0,0
+"Macbook M2 hoặc M3, 512GB hoặc 256GB, 16GB RAM thì giá khoảng bao nhiêu?",1,0,0
+MacBook M2 có cài sẵn Microsoft Office không hay phải mua thêm?,0,0,1
+"Cấu hình laptop 2024 có khác các mẫu cũ không, hay chỉ khác năm sản xuất?",0,0,1
+Có giá học sinh sinh viên không?,1,0,0
+Mac Air M2 có chạy mượt after effects không?,0,1,0
+GPU của máy này là 8 hay 10 nhân?,0,0,1
+MacBook Air 2015 nâng cấp lên M4 giá bao nhiêu?,1,0,0
+giá lên đời từ mac pro m1 ram 8 bộ nhớ 256 là bao nhiêu?,1,0,0
+Macbook M2 lên đời giá bao nhiêu?,1,0,0
+MacBook Air M2 16GB RAM lên MacBook Air M4 16GB RAM 256GB thì thêm bao nhiêu tiền?,1,0,1
+Có Mac Mini M1 16GB 256GB không?,0,0,1
+Máy này gắn sẵn 1 thanh RAM 16GB hay 2 thanh 8GB?,0,0,1
+Mẫu này có 2 khe SO-DIMM (nâng cấp tối đa 32GB) có chạy được 2 thanh 8GB và hỗ trợ dual channel không?,0,0,1
+laptop này sản xuất năm nào,0,0,1
+Macbook Air M3 còn màu xám không?,0,0,1
+MacBook Air M3 13 inch 2024 8CPU 8GPU 16GB - 256GB hoặc MacBook Air M2 2024 8CPU 8GPU 16GB 256GB có hỗ trợ cài Microsoft Office miễn phí không?,0,0,1
+MacBook Air M3 13 inch 2024 8CPU 8GPU 16GB - 256GB giá sau khuyến mãi còn lại bao nhiêu?,1,0,0
+MacBook Air M3 16GB RAM 256GB SSD 13 inch bù thêm bao nhiêu tiền so với MacBook Air M3 8GB RAM 256GB SSD 13 inch?,1,0,1
+MacBook Air M3 RAM 16GB SSD 256GB giá bao nhiêu và có Office miễn phí không?,1,0,1
+Macbook Air M3 16GB-256GB hay Macbook Pro M2 8GB-256GB tối ưu hơn?,0,1,1
+Mac Air M3 16-256 giá bao nhiêu?,1,0,0
+"Pin tụt nhanh khi xem phim lướt web, có ổn không?",0,0,1
+Máy này ra đời năm nào,0,0,1
+Thông tin chi tiết về card đồ họa của Laptop Acer Aspire Lite AL16-51P-55N7 NX.KX0SV.001 I5-1235U/16GB/512GB PCIE/16.0 WUXGA/WIN11/XÁM,0,0,1
+Máy này có đèn bàn phím không?,0,0,1
+Có vẽ AutoCAD 2D ổn không?,0,1,0
+Máy này chạy AutoCAD 2022 và SolidWorks được không?,0,1,1
+Mẫu này có nâng cấp được RAM không?,0,0,1
+Máy này có nâng được thêm SSD không?,0,0,1
+Laptop này có phù hợp cho ngành tự động hóa không?,0,1,0
+Thời gian sử dụng pin của máy khoảng bao lâu?,0,0,1
+Khi mua có cài Office 365 không?,0,0,1
+laptop có phù hợp cho việc học đại học và chơi game FO4 không?,0,1,0
+Thời lượng pin sử dụng được bao lâu?,0,0,1
+Máy này có đèn nền bàn phím không?,0,0,1
+Chất liệu là nhựa hay kim loại?,0,0,1
+Bản 12500H có màu đen không,0,0,1
+Máy này có gắn thêm RAM 16GB không?,0,0,1
+Bản i5-13500H có màu bạc không?,0,0,1
+Nâng ổ cứng lên 1TB được không?,0,0,1
+USB Type-C có hỗ trợ DisplayPort không?,0,0,1
+máy này có thiết kế đồ họa được không,0,1,0
+Máy có thể xuất màn hình rời tối đa bao nhiêu Hz?,0,0,1
+Máy có đèn bàn phím không?,0,0,1
+Máy có cho phép tháo thanh RAM 8GB để cắm thanh 16GB không?,0,0,1
+Máy này vỏ nhựa hay kim loại?,0,0,1
+RAM 16GB hay 8GB nâng cấp?,0,0,1
+Có nâng cấp SSD được không?,0,0,1
+tỷ lệ màn hình của laptop này là bao nhiêu?,0,0,1
+Máy có nâng cấp hoặc thay RAM được không?,0,0,1
+pin loại này dùng được bao nhiêu tiếng?,0,0,1
+Laptop HP Pavilion X360 14 ek2024TU Core 5 120U/16GB/512GB/Touch/Pen/Win11 lên đời Macbook Air M4 16GB-512GB thì giá bù là bao nhiêu?,1,0,0
+m4 có hỗ trợ chương trình giáo dục không?,0,1,0
+Macbook Air M3 13 inch 16GB - 512GB đổi lên MacBook Air M4 13 inch 10CPU 10GPU 16GB 512GB thì bù bao nhiêu tiền?,1,0,0
+Mac Air M1 2020 lên Mac Pro M4 cần bao nhiêu tiền?,1,0,0
+Cần bù thêm bao nhiêu tiền để nâng cấp từ Macbook Pro M1 16 inch lên MacBook Pro 14 M4 10CPU 10GPU 16GB 512GB?,1,0,1
+"Máy này có chạy mượt các phần mềm đồ họa như Capcut, Photoshop, Illustrator không? Thời gian sử dụng pin trung bình của máy là bao lâu?",0,1,1
+Laptop nào màu đen?,0,0,1
+Có thể nâng cấp từ MacBook Air M1 8GB 2020 lên MacBook Pro 14 M4 10CPU 10GPU 16GB 512GB không?,0,0,1
+Macbook M4 học ngành kinh tế được không?,0,1,0
+Con M1 2021 pin 82% thu lại bao nhiêu tiền và khi mua Mac mới có được giảm 2 triệu khi thu cũ đổi mới không?,1,0,0
+Mac mini này có cài đặt Windows được không?,0,0,1
+Màn hình Dell P2419H có thể sử dụng với Mac Mini M4 được không?,0,0,1
+"Mac Mini M4 nên dùng màn hình, bàn phím, chuột loại nào để tối ưu hiệu suất?",0,1,1
+Mac mini M4 có kết nối được 3 màn hình không?,0,0,1
+Máy có hỗ trợ xuất màn hình tần số quét cao hơn 60Hz không?,0,0,1
+laptop gaming nào ổn tầm 21 triệu?,1,1,0
+Máy này có card rời không và giới thiệu các mẫu có card rời.,0,1,1
+Nâng cấp RAM từ 16GB lên 32GB giá bao nhiêu?,0,0,1
+Máy tính này đã bao gồm cài đặt phần mềm Microsoft Office chưa?,0,0,1
+Nâng cấp lên 1TB có mất phí không?,0,0,1
+Hỗ trợ nâng cấp tối đa 1TB là lắp thêm 1TB hay chỉ 512GB?,0,0,1
+Thời lượng pin của máy này là bao nhiêu tiếng?,0,0,1
+có thể lắp 2 thanh RAM Laptop Corsair Vengeance 16GB 3200MHZ DDR4 1.2V không?,0,0,1
+Lựa chọn nâng cấp RAM và SSD tốt nhất cho máy này?,0,0,1
+Nâng cấp RAM lên 2 thanh 16GB DDR5 được không?,0,0,1
+RAM 16GB là một thanh hay hai thanh 8GB?,0,0,1
+Card rời hay card onboard?,0,0,1
+Laptop Asus TUF Gaming F15 FX507ZC4-HN095W nâng ổ cứng lên 1T giá bao nhiêu?,1,0,1
+Con này có hỗ trợ card đồ họa và nâng cấp RAM không?,0,0,1
+Có tiếng Việt không?,0,0,1
+Cổng Type-C có chuyển dữ liệu sang USB được không?,0,0,1
+Máy này chạy mượt AutoCAD và Revit không?,0,1,0
+Laptop Lenovo LOQ 15IAX9 83GS000RVN nâng cấp lên 32GB RAM và 1TB SSD giá bao nhiêu tiền?,1,0,0
+RAM mẫu này là 1x16GB hay 2x8GB dual channel?,0,0,1
+máy này sản xuất năm nào,0,0,1
+Cửa hàng có bán RAM 12GB DDR5 4800MHz và hỗ trợ lắp đặt không?,0,0,1
+Laptop này có dựng phim 4k và chỉnh ảnh được không?,0,1,0
+Dòng này có cổng Thunderbolt 4 không?,0,0,1
+"Laptop này có sẵn PPT, Word, Excel chưa?",0,0,1
+Mua laptop có được cài Office không?,0,0,1
+laptop nào dưới 20 triệu chơi được game Genshin Impact?,1,1,0
+laptop dưới 14 triệu để học tập,1,1,0
+màn hình có cảm ứng không?,0,0,1
+Máy có đèn LED bàn phím không?,0,0,1
+Máy này mới nguyên phải không?,0,0,1
+"Máy này học marketing dùng PTS, Canva có ổn không?",0,1,0
+laptop này sử dụng tấm nền TN hay IPS?,0,0,1
+Máy học tập được không?,0,1,0
+Chạy PTS mượt không?,0,1,0
+"Máy có cài sẵn Excel, Word không? Máy có màu đen không?",0,0,1
+"Vỏ nhựa sử dụng lâu dài có ảnh hưởng gì không, có bị nóng máy bị méo không?",0,0,1
+Laptop này có đèn bàn phím không?,0,0,1
+Máy này có cổng LAN không?,0,0,1
+Nâng thêm 8GB RAM hết bao nhiêu tiền?,1,0,1
+máy này bao nhiêu sRGB,0,0,1
+Đổi Acer Aspire 3 A315-56 lấy con này cần bù bao nhiêu?,1,0,0
+Pin máy khi chơi Liên Minh được bao nhiêu tiếng?,0,1,1
+máy này có đạt 100% sRGB không?,0,0,1
+Acer Nitro 5 Tiger có nâng cấp thêm 8GB RAM được không?,0,0,1
+Laptop Acer Nitro 5 Tiger i5 12500H RTX 3050 RAM 8GB có chơi được Elden Ring max setting không?,0,1,0
+Máy có sẵn win11 single language thì đặt lại máy có mất bản quyền không?,0,0,1
+Có tối ưu game không?,0,1,0
+"Con này có 3 cổng USB, cổng nào là 3.1 và cổng nào là 3.2?",0,0,1
+Con này vỏ gì?,0,0,1
+máy này chơi Liên Minh ổn không?,0,1,0
+Máy này sạc cổng gì?,0,0,1
+Có laptop nào pin 7 tiếng và chơi game nhẹ - trung bình không?,0,1,1
+"Laptop này pin dùng được 7 tiếng không? Nếu không, có máy nào pin 7 tiếng và chơi game nhẹ đến trung bình không?",0,1,1
+Phiên bản 13.999.000 có những mức trả góp nào và giá trả trước cụ thể là bao nhiêu?,1,0,0
+Quạt tản nhiệt kêu lớn có bình thường không?,0,0,1
+Laptop có hỗ trợ card Iris Xe Graphics khi chạy dual channel RAM không?,0,0,1
+Máy này có phù hợp để học 3D hoặc 2D không?,0,1,0
+"Máy này là loại cũ hay mới nguyên kiện, có phù hợp học 3D hoặc 2D không?",0,1,1
+Con gái mang laptop này có nặng quá không?,0,0,1
+Có màu khác không,0,0,1
+"Laptop có phù hợp để học kỹ thuật, chạy phần mềm SolidWorks, Rhino, Max, AutoCAD, AutoShip và chơi game Minecraft, TFT, LoL không?",0,1,0
+"Thời lượng pin cho tác vụ văn phòng, lướt web là bao nhiêu giờ?",0,1,1
+Máy có led bàn phím không,0,0,1
+máy này có tương thích với Ram Laptop GSkill Ripjaws 16GB DDR4 3200MHz (F4-3200C22S-16GRS) không,0,0,1
+máy này RAM DDR4 bao nhiêu MHz?,0,0,1
+Máy này có hỗ trợ nâng cấp ổ cứng không?,0,0,1
+Con này có khe nâng cấp ổ cứng không?,0,0,1
+Máy này có nâng cấp được ổ cứng không?,0,0,1
+thời gian sử dụng máy cho học đồ họa bao lâu và máy có sẵn Microsoft không?,0,1,1
+Laptop này có nâng được thêm RAM không?,0,0,1
+"So với laptop Lenovo IdeaPad Slim 3 14IRH8 83EL0023VN, máy nào phù hợp chơi game và làm việc liên tục nhiều giờ hơn?",0,1,0
+"Tốc độ đọc của ổ cứng này là bao nhiêu, có thể update thêm ổ cứng hay phải thay mới không, và RAM có thể lên tối đa bao nhiêu GB?",0,0,1
+Con này làm đồ họa được không?,0,1,0
+"Tản nhiệt máy có tốt không và có chạy được các ứng dụng Adobe, Capcut không?",0,1,1
+Nâng cấp pin cho Laptop ASUS Gaming VivoBook K3605ZC-RP564W có được không?,0,0,1
+Máy này có vừa sạc vừa dùng được không?,0,0,1
+Máy có phù hợp cho sinh viên IT và chơi game Valorant không?,0,1,0
+Máy này học truyền thông đa phương tiện được không?,0,1,0
+Mẫu này có đèn bàn phím không?,0,0,1
+So sánh độ bền và ổn định giữa máy này và Lenovo LOQ bản RTX 3050 khi chơi Genshin Impact.,0,1,0
+Laptop Asus Gaming Vivobook K3605ZF-RP634W lên 564W thì thêm bao nhiêu tiền?,1,0,0
+RTX 3050 có phải là card đồ họa rời không?,0,0,1
+máy này có bao nhiêu RAM?,0,0,1
+Chơi CS:GO high setting lên tới 100 FPS được không?,0,1,1
+Máy này tản nhiệt thiết kế như thế nào?,0,0,1
+Laptop này nâng cấp tối đa bao nhiêu GB RAM?,0,0,1
+Laptop Dell Vostro 3520 có thể nâng cấp card đồ họa được không?,0,0,1
+Giá hiện tại bao nhiêu?,1,0,0
+laptop có bảo mật vân tay và khuôn mặt không,0,0,1
+Có thể nâng cấp RAM khi mua máy không? Có mất phí hoặc ảnh hưởng đến bảo hành không?,0,0,1
+Máy có cài sẵn Office bản quyền không?,0,0,1
+Máy có đèn led bàn phím không?,0,0,1
+Máy này là mới hay đã qua sử dụng?,0,0,1
+Máy này có giá bao nhiêu tại TPHCM?,1,0,0
+Dòng máy này có màu bạc không?,0,0,1
+màn hình cảm ứng có được kích hoạt sẵn không?,0,0,1
+Máy này có cảm ứng màn hình không?,0,0,1
+Máy này chơi game Đột Kích ổn không? Máy pin rời hay pin liền?,0,1,1
+Máy này có sử dụng được Premiere không?,0,1,0
+Máy chơi được Honkai Star Rail không?,0,1,0
+Máy nặng bao nhiêu kg? Sản xuất năm bao nhiêu?,0,0,1
+Máy này chơi Valorant được không?,0,1,0
+Để đổi từ sạc 3 chân sang sạc 2 chân thì mua loại sạc Dell nào?,0,0,1
+"Máy có được trang bị sẵn Word, Powerpoint, Excel không và nếu có thì là phiên bản mấy?",0,0,1
+Thời lượng pin bao lâu?,0,0,1
+Laptop sản xuất năm nào của nước nào?,0,0,1
+Sản phẩm này có nâng cấp ổ cứng được không?,0,0,1
+Máy còn màu khác không?,0,0,1
+Màn hình laptop Dell này có đẹp và nhiều màu sắc sinh động hơn Laptop HP 15s fq5160TU i5 1235U/16GB/512GB/15.6FHD/Win 11 không?,0,0,1
+Máy này dùng eGPU được không?,0,0,1
+bàn phím laptop i7 có đèn LED không?,0,0,1
+máy này dùng thiết kế đồ họa 2D và chơi game Liên Minh Huyền Thoại tốt không?,0,1,0
+jack cắm tai nghe bao nhiêu mm?,0,0,1
+máy có cổng tai nghe không?,0,0,1
+Máy này các bộ phận bên trong là rời hay liền?,0,0,1
+vỏ nhựa hay kim loại,0,0,1
+Máy này cài Windows giá bao nhiêu và có chơi game được không?,1,1,0
+Máy này chạy ứng dụng thiết kế 3D chuyên nghiệp có mượt không?,0,1,0
+có màu space black không?,0,0,1
+Thu cũ lên đời Macbook pro 14 M3 pro 18GB - 512GB 11CPU 14GPU tầm giá bao nhiêu?,1,0,0
+Laptop 50 triệu có phiên bản 16 inch không?,1,0,1
+Việc thay SSD có làm mất bản quyền Windows 11 không?,0,0,1
+Máy này có dùng Canva và các tác vụ như Google Docs mượt mà không?,0,1,0
+Dòng máy này làm văn phòng và học tập có ổn không? Cấu hình đó chơi game giải trí thì sao?,0,1,0
+Laptop cho học sinh lớp 5,0,1,0
+Máy này có mấy khe cắm RAM và có nâng cấp được không?,0,0,1
+"Laptop nào dùng văn phòng khoảng 12 triệu, màn hình dưới 14 inch?",1,1,0
+máy này chơi Valorant ổn không?,0,1,0
+Máy này làm lập trình game có ổn không?,0,1,0
+Giá nâng cấp từ i5 lên i7 bao nhiêu?,1,0,1
+máy này chơi game ổn không,0,1,0
+laptop này có hỗ trợ game Honkai Star Rail không?,0,1,0
+Máy này có chơi được giả lập Yuzu và game Honkai Star Rail không?,0,1,0
+Máy này vẽ AutoCAD và làm văn phòng cơ bản có ổn không?,0,1,0
+máy này có chơi được Honkai Star Rail không?,0,1,0
+giá máy này cho sinh viên bao nhiêu?,1,1,0
+Máy edit video và ảnh có ổn không?,0,1,0
+máy này có nâng cấp RAM thêm không,0,0,1
+mua máy có được miễn phí Office 1 năm không,0,0,1
+máy có gắn thêm ổ cứng và RAM được không?,0,0,1
+Giá sinh viên của dòng này là bao nhiêu?,1,0,0
+Giá hiện tại cho hssv dòng này là bao nhiêu?,1,0,0
+Máy này dùng học thiết kế đồ họa và chơi game LMHT được không?,0,1,0
+Con này chơi game mượt không,0,1,0
+Giá laptop MSI Modern 14 C12MO-660VN I5-1235U/16GB/512GB bản cũ là bao nhiêu?,1,0,0
+Asus Vivobook 14 OLED A1405VA-KM095W có đèn phím không?,0,0,1
+Máy này giá bao nhiêu cho sinh viên?,1,0,0
+So sánh chip i5 13500H và i7 12700H về hiệu năng và độ bền,0,0,1
+Laptop ASUS VivoBook 14 OLED A1405VA-KM095W và ASUS Vivobook 14 OLED A1405VA-KM257W khác nhau chỗ nào?,0,0,1
+Nâng cấp ổ cứng tối đa bao nhiêu?,0,0,1
+máy này giá bao nhiêu?,1,0,0
+máy này có đèn bàn phím không,0,0,1
+pin của máy này có trâu không?,0,0,1
+máy hỗ trợ eGPU rời không?,0,0,1
+Laptop này có thể nâng cấp dung lượng không?,0,0,1
+máy có nâng cấp RAM được không,0,0,1
+Cách tắt màn hình khi máy vẫn hoạt động?,0,0,1
+máy được làm từ kim loại hay nhựa?,0,0,1
+Thời lượng pin của máy này khoảng bao lâu?,0,0,1
+máy này nguyên seal không,0,0,1
+Máy có tản nhiệt không?,0,0,1
+máy này có đèn bàn phím không?,0,0,1
+Máy này chơi Genshin được không?,0,1,0
+Laptop nào trong tầm giá này tương đương laptop này?,1,1,0
+"Laptop này pin có tốt không, có bền bỉ không, có phù hợp để chơi Liên Minh Huyền Thoại, sử dụng Photoshop và viết code không?",0,1,1
+máy này có khe để nâng cấp thêm ổ cứng không?,0,0,1
+Hỗ trợ nâng cấp lên 32GB RAM không?,0,0,1
+Giá máy khi không lấy quà và giá Microsoft Office Home khi mua kèm là bao nhiêu?,1,0,1
+"Máy có hỗ trợ ứng dụng văn phòng cơ bản (Word, Excel, PowerPoint) không?",0,1,0
+Nâng cấp RAM tại cửa hàng được không?,0,0,1
+Số khe SSD của máy là bao nhiêu và nâng cấp tối đa bao nhiêu dung lượng?,0,0,1
+Máy này có MUX Switch không?,0,0,1
+Chơi game có nóng làm giảm hiệu năng không?,0,1,1
+Máy này chơi game Wukong không?,0,1,0
+Nâng cấp RAM lên 32GB giá bao nhiêu?,1,0,1
+Máy này có hỗ trợ cài đặt Office khi mua không?,0,0,1
+Laptop 3520 có màu xám không?,0,0,1
+Loại này có cảm ứng màn hình không,0,0,1
+Thời lượng pin trung bình của laptop là bao nhiêu tiếng?,0,0,1
+máy có đèn led bàn phím không,0,0,1
+Máy này giá bao nhiêu?,1,0,0
+"Máy này có cài sẵn Windows, Word, Excel không và trả góp trước bao nhiêu tiền?",1,0,1
+Mẫu này có cài sẵn Windows chưa?,0,0,1
+Có cài Windows sẵn không?,0,0,1
+Laptop dùng ổ cứng SSD hay HDD?,0,0,1
+"Trong tầm cấu hình và giá này, có loại máy nào không phải cảm ứng màn hình không?",1,1,1
+Ổ cứng của máy là ổ HDD hay SSD?,0,0,1
+Máy này xử lý công việc nhanh không?,0,1,0
+Nâng cấp ổ cứng mất bao nhiêu?,0,0,1
+Nâng cấp RAM lên 16GB tốn bao nhiêu tiền?,1,0,1
+Dell Inspiron 15 3520 6R6NK ổ cứng là SSD hay HDD?,0,0,1
+Có hỗ trợ nâng RAM lên 16GB và giá bao nhiêu?,0,0,1
+Bản này có tặng kèm Office Home & Student 2021 vĩnh viễn không?,0,0,1
+Trọng lượng máy này là 1.66kg hay 1.9kg? Hai mã Dell Inspiron 15 3520 6R6NK và Dell Inspiron 15 3520-5124BLK GJ8W7 khác nhau thế nào và chênh lệch 500k?,0,0,1
+tần số quét máy này bao nhiêu,0,0,1
+"Macbook Air M2 16GB RAM, 10-core GPU, 8-core CPU, 256GB SSD giá bao nhiêu?",1,0,1
+Macbook air m2 8 CPU 10 GPU 16GB 256GB màu bạc giá bao nhiêu?,1,0,1
+Lenovo LOQ 15IRX9 83DV012LVN có nâng cấp ổ cứng lên 2 TB được không?,0,0,1
+Lenovo LOQ 15IRX9 83DV012LVN sạc đi kèm bao nhiêu W?,0,0,1
+Giá nâng RAM và ổ cứng khoảng bao nhiêu?,0,0,1
+giá sinh viên là bao nhiêu,1,0,0
+Laptop Lenovo LOQ 15ARP9 83JC007HVN có nâng cấp 1TB SSD không?,0,0,1
+giá sinh viên là bao nhiêu?,1,0,0
+Giá cho sinh viên là bao nhiêu?,1,1,0
+"R5-7523HS và i5-12450HX, cái nào tốt hơn cho thiết kế đồ họa và chơi game nặng?",0,1,0
+Ryzen hay Intel ổn định hơn?,0,1,0
+Máy này có đạt chuẩn Intel EVO không?,0,0,1
+Pin sử dụng được bao lâu?,0,0,1
+Máy có sẵn 16GB RAM hay cần nâng cấp?,0,0,1
+Máy có đèn phím không và cách bật như thế nào?,0,0,1
+"Máy có sẵn phần mềm Word, PowerPoint, Excel không?",0,0,1
+Máy này có đáp ứng nhu cầu học lập trình web không?,0,1,0
+Máy này có đèn LED bàn phím không?,0,0,1
+RAM dòng máy này có nâng cấp được không?,0,0,1
+"Máy này bật màn hình sáng 35%, dùng 3-4 ứng dụng học online (chrome, M.teams) 2 tiếng tụt 45% pin yếu hay lỗi?",0,0,1
+Bàn phím có đèn không?,0,0,1
+bàn phím có màu bạc không?,0,0,1
+thời lượng pin thực tế của máy là bao nhiêu?,0,0,1
+"Laptop có ổn cho đồ họa, PTS, AE, Illustrator không?",0,1,0
+Chất lượng hoàn thiện và độ bền của máy này có tốt không?,0,0,1
+Màn hình máy này có phải màn gương không?,0,0,1
+Có đèn bàn phím không?,0,0,1
+Máy này dùng để học IT có ổn không?,0,1,0
+RAM tối đa của máy này là bao nhiêu?,0,0,1
+Máy này chơi Ark hay FC4 mượt không?,0,1,0
+Máy này chạy Windows 11 Home bản Single Language hay bản Home hỗ trợ đa ngôn ngữ?,0,0,1
+laptop có nguyên seal không,0,0,1
+Laptop Lenovo IdeaPad Slim 5 15IRU9 83D00003VN có bản 14 inch không?,0,0,1
+Nâng cấp ổ cứng cho Laptop Lenovo IdeaPad Slim 5 15IRU9 83D00003VN lên 1 TB SSD hết bao nhiêu tiền?,1,0,1
+laptop này có chơi được hết các tựa game không?,0,1,0
+Thời lượng pin của máy này là bao nhiêu?,0,0,1
+"máy này có đèn bàn phím không, bật như thế nào",0,0,1
+i5 với r5 khác nhau điểm nào,0,0,1
+"muốn mua laptop 16GB-512GB nhưng có nhiều mức giá khác nhau, thì nên mua loại nào?",1,0,1
+Laptop này có góc mở màn hình tối đa bao nhiêu độ?,0,0,1
+Máy có cài sẵn win 11 không?,0,0,1
+Laptop Lenovo Ideapad Slim 5 14IAH8 và Lenovo IdeaPad Slim 3 14IAH8 khác nhau ở điểm nào,0,0,1
+Máy có sạc nhanh không?,0,0,1
+Máy này chơi Valorant max setting được không?,0,1,0
+Máy này chạy Photoshop có tốt không?,0,1,0
+Laptop Lenovo IdeaPad Slim 3 14IAH8 83EQ0005VN có độ phủ màu bao nhiêu?,0,0,1
+Con này chip dòng gì?,0,0,1
+Có nên vừa cắm sạc vừa sử dụng laptop không?,0,1,0
+Mẫu này vỏ kim loại?,0,0,1
+Máy có hỗ trợ sạc bằng cổng Type-C không?,0,0,1
+mẫu này có nâng cấp RAM được không?,0,0,1
+Máy này dùng được pin trong bao lâu?,0,0,1
+Pin máy này dùng được bao lâu?,0,0,1
+Máy có thể nâng cấp SSD lên 1TB không?,0,0,1
+Nếu không lấy khuyến mãi thì giá còn bao nhiêu?,1,0,0
+máy còn nâng cấp RAM được không,0,0,1
+máy này dùng để học tập và làm văn phòng có ổn không,0,1,0
+Máy này có nâng cấp card lên 3050 hoặc 4050 không?,0,0,1
+Thời lượng pin sử dụng được bao nhiêu tiếng?,0,0,1
+Máy này có nâng cấp ổ cứng SSD lên 1TB không?,0,0,1
+"mẫu này chạy Adobe, Capcut ổn không",0,1,0
+Máy có hỗ trợ vân tay không?,0,0,1
+Có nâng cấp ổ SSD 1TB không?,0,0,1
+máy này thiết kế đồ họa được không?,0,1,0
+Có Asus Zenbook nào thông số tương tự không có màn hình cảm ứng không?,0,1,1
+Máy này có mấy màu?,0,0,1
+Máy này học khoa học dữ liệu được không?,0,1,0
+Máy này có phù hợp cho đồ họa thiết kế không?,0,1,0
+Máy có cài sẵn Windows khi mua về không?,0,0,1
+"Máy có card đồ họa rời, phù hợp chỉnh sửa video và thiết kế không?",0,1,1
+Laptop này dùng cho IT web app có ổn không?,0,1,0
+Laptop này có ổn cho việc học thiết kế không?,0,1,0
+Máy này có khe nâng cấp card đồ họa rời không?,0,0,1
+RAM máy này có nâng cấp được không?,0,0,1
+Bản i9 hỗ trợ tối đa bao nhiêu GB RAM?,0,0,1
+máy này có hỗ trợ office vĩnh viễn không,0,0,1
+Sản phẩm có hỗ trợ nâng cấp không?,0,0,1
+máy này nâng cấp RAM tối đa bao nhiêu GB?,0,0,1
+mẫu này có đèn led phím không,0,0,1
+Máy có tương thích nâng cấp RAM lên 16GB không?,0,0,1
+Bản i9 có nâng cấp RAM được không?,0,0,1
+Thời lượng pin của máy này khi đi học là bao lâu?,0,1,1
+Nâng RAM lên 16GB được không?,0,0,1
+Loại này chạy AI và PTS có ổn không?,0,1,0
+Máy này chơi FO4 có ổn không?,0,1,0
+Acer Aspire 3 có bút không?,0,0,1
+Máy này chơi được FC online không?,0,1,0
+Máy này có lắp sim trực tiếp dùng được không hay cần thêm thiết bị hỗ trợ?,0,0,1
+Laptop Acer Aspire 3 Spin A3SP14-31PT-387Z có chạy được Photoshop hay Blender không,0,1,0
+"Laptop Acer Aspire 3 Spin A3SP14-31PT-387Z hơn 9 triệu có xài được Excel, Word, PowerPoint không?",1,1,0
+Máy tính này còn kèm bút cảm ứng không?,0,0,1
+máy này chơi game ổn không?,0,1,0
+Máy này chơi FIFA ổn không?,0,1,0
+Máy này chơi Liên Minh Huyền Thoại 4-5 ván có ổn không?,0,1,0
+Máy có kèm bút cảm ứng không?,0,0,1
+Máy đã cài sẵn phần mềm hay cần mua thêm?,0,0,1
+Lên Apple MacBook Air M2 2024 8CPU 10GPU 16GB 512GB từ Apple MacBook Air M1 2024 16GB 256GB bù thêm bao nhiêu tiền?,1,0,0
+MacBook Air M2 bản 16/256 có nâng cấp lên 16/512 được không và có mất phí không?,0,0,1
+MacBook Air M2 8/256 muốn đổi lên 16/512 thì bù bao nhiêu tiền?,1,0,1
+"Có cấu hình 24GB RAM, 512GB SSD không?",0,0,1
+"Bản 16GB RAM, 512GB SSD có sạc 35W không?",0,0,1
+Cần bù bao nhiêu tiền khi thu cũ đổi mới từ Laptop Asus Tuf Gaming F15 i5 12500 8GB RAM lên Macbook M2 16GB RAM 512GB?,1,0,0
+MacBook Air có giá không?,1,0,0
+bản lề máy này có 180 độ không?,0,0,1
+Laptop này bàn phím có đèn nền không?,0,0,1
+Máy chơi Valorant max setting không?,0,1,1
+"Laptop này có bao nhiêu khe RAM, có thể nâng cấp lên 32GB và tối đa bao nhiêu GB RAM?",0,0,1
+bàn phím có đèn không?,0,0,1
+"Học logistics nên mua máy nào tầm 20 triệu, màn hình đẹp, chip ổn?",1,1,0
+"Máy LAP-ASU-X1504VA-NJ069W-I3-1315U-BA có còn bảo hành khi nâng cấp RAM lên 16GB không, cần loại RAM nào, và có hỗ trợ lắp tại shop không?",0,0,1
+Laptop ASUS VivoBook 15 X1504VA-NJ069W có màu khác không?,0,0,1
+Có thể gập 180 độ không?,0,0,1
+RAM và ổ cứng có thể nâng cấp tối đa bao nhiêu?,0,0,1
+Máy có Office chưa,0,0,1
+mẫu này lên thêm thanh RAM 8GB nữa là bao nhiêu tiền?,1,0,1
+Máy này camera độ phân giải bao nhiêu?,0,0,1
+Là i3 hay i5?,0,0,1
+Chơi Liên Minh và Genshin Impact được không?,0,1,0
+MacBook Air M3 bản 16GB RAM và 256GB SSD có nâng cấp ổ cứng sau này được không?,0,0,1
+máy này có led phím không,0,0,1
+Máy này có cảm ứng không?,0,0,1
+Có cảm ứng màn hình không?,0,0,1
+"Laptop Lenovo IdeaPad Slim 5 có bao nhiêu khe RAM, là DDR5 hay DDR4?",0,0,1
+Laptop Lenovo IdeaPad Slim 5 14Q8X9 83HL000KVN có hỗ trợ Office Home and Student 2021 vĩnh viễn không?,0,0,1
+Có kèm Office không?,0,0,1
+Asus Zenbook 13 giá bao nhiêu?,1,0,0
+"Laptop ASUS Zenbook 14 Oled U5 có chạy mượt Adobe Pr, CapCut không?",0,1,0
+"sạc máy này có ổn không, tần số quét màn hình bao nhiêu và có nâng cấp RAM được không?",0,0,1
+Máy này là model năm nào và dòng Zenbook S có mới hơn không?,0,0,1
+Dòng này học IT có ổn không?,0,1,0
+Có cách nào bảo quản màn hình OLED không?,0,0,1
+Dòng này có chống chói không?,0,0,1
+R5 7530u và U5 125H khác nhau như thế nào?,0,0,1
+"laptop mỏng nhẹ, cấu hình chơi Genshin, GTA5, AC, LOL, tầm giá 30 triệu",1,1,0
+Máy này chơi được lol với pubg không?,0,1,0
+Laptop này 16GB có thể nâng cấp RAM lên 32GB không?,0,0,1
+Laptop Acer Gaming Aspire 5 A515-58GM-53PZ có thể sạc bằng sạc điện thoại công suất 67W không?,0,0,1
+Máy này xử lý card đồ họa được không?,0,0,1
+"Máy này có sạc thẳng vào nguồn, bỏ qua pin không?",0,0,1
+Chính sách bảo hành dòng máy này như thế nào?,0,0,1
+Dùng cổng nào để xuất ra màn hình rời?,0,0,1
+Có thể sạc pin laptop bằng củ sạc điện thoại Super VOOC 100W không?,0,0,1
+"Aspire 5 và ASUS Gaming Vivobook K3605ZF, con nào chơi game ổn hơn? Shop có hỗ trợ lắp RAM không và chi phí là bao nhiêu?",0,1,1
+Máy này học đồ họa và chơi game như Genshin Impact được không?,0,1,0
+Máy này chơi Wuthering Waves được không?,0,1,0
+Có bản custom 24GB/256GB không?,0,0,1
+MiniM4 xuất được tối đa bao nhiêu màn hình?,0,0,1
+Có bản 32GB RAM không?,0,0,1
+"Máy này có đèn bàn phím không? Gợi ý mẫu pin trâu, hỗ trợ khe cắm SSD, giá học sinh sinh viên.",1,1,1
+máy này có thể lắp hai ổ cứng SSD không?,0,0,1
+Máy này có hỗ trợ ứng dụng văn phòng không?,0,1,1
+máy này có phù hợp cho kỹ thuật ô tô không?,0,1,0
+bàn phím này có đèn không,0,0,1
+Máy có đèn LED phím không?,0,0,1
+Giá Mac Mini M2 16GB 512GB like new?,1,0,0
+máy này vừa dùng vừa sạc có sao không,0,0,1
+máy có cài windows sẵn không,0,0,1
+Máy không cài sẵn Office?,0,0,1
+Laptop có phù hợp cho sinh viên chạy tác vụ văn phòng không?,0,1,0
+Máy này có bị kênh bản lề không?,0,0,1
+Máy này có nâng cấp RAM không?,0,0,1
+chơi game Roblox được không?,0,1,0
+Máy sử dụng để tạo và quản lý trang web ổn không?,0,1,0
+"Máy tính này có thể sử dụng cho Word, Canva, PowerPoint, Excel không?",0,1,0
+"Mẫu này nâng cấp RAM, ổ cứng được không?",0,0,1
+máy này dùng cho 4 năm đại học ngành công nghệ thông tin được không?,0,1,0
+"So sánh hiệu năng giữa máy này và Lenovo Thinkpad T420 8GB DDR3, máy nào mạnh hơn?",0,0,1
+Máy này mới phải không?,0,0,1
+máy này có chạy lập trình tốt không?,0,1,0
+máy này có nâng RAM lên được không,0,0,1
+Máy này có cài và sử dụng được phần mềm khai báo hải quan nhà nước không?,0,1,0
+"Máy này có cài sẵn Windows và Office chưa, có cần cài thêm gì không?",0,0,1
+Mua máy về tự cài Windows hay cửa hàng cài sẵn?,0,0,1
+máy chơi được FIFA không?,0,1,0
+máy này chơi game nhẹ được không?,0,1,0
+Chơi Roblox và làm văn phòng được không?,0,1,0
+Máy này có lên RAM được không?,0,0,1
+Máy này dùng cho học tập và xem phim nhẹ nhàng có ổn không?,0,1,0
+Máy có hỗ trợ nâng cấp RAM lên 32GB DDR5-4800 và bộ nhớ lên 1TB không?,0,0,1
+Đèn bàn phím của mẫu này là đa vùng hay đơn sắc?,0,0,1
+So sánh độ bền pin 60Wh (sạc 170W) với pin 60Wh.,0,0,1
+RAM con này 2 thanh 8GB hay 1 thanh 16GB?,0,0,1
+Máy ra đời năm nào?,0,0,1
+Máy có kết nối bluetooth không?,0,0,1
+Thời lượng pin của máy dùng được bao lâu?,0,0,1
+Mẫu này có quạt tản nhiệt không?,0,0,1
+Microsoft Office khi mua kèm máy có thời hạn bao lâu?,0,0,1
+máy có cài sẵn window với office không?,0,0,1
+Laptop Asus Vivobook E1404FA-NK186W R5 7520U/16GB/512GB/14 FHD/Win11 giá bao nhiêu?,1,0,0
+"Laptop nào tốt nhất dưới 13 triệu cho học tập, làm việc, giải trí, có âm thanh, hình ảnh tốt, pin ổn, không giật lag?",1,1,0
+máy này học marketing được không?,0,1,0
+Sản phẩm có kèm sạc không?,0,0,1
+Laptop này có chạy được phần mềm vẽ autocad không?,0,1,0
+Con này có led phím không?,0,0,1
+Máy này sạc xong mới dùng hay vừa sạc vừa dùng?,0,0,1
+Sản phẩm đã cài Office chưa và giá Office vĩnh viễn là bao nhiêu?,0,0,1
+Máy dùng AutoCAD ổn không?,0,1,0
+Máy này có cần mua bản quyền Windows không và giá Microsoft Office dùng vĩnh viễn cho học online trên 1 máy là bao nhiêu?,0,0,1
+Máy dùng card màn hình gì?,0,0,1
+Chất liệu tấm nền của máy này là gì?,0,0,1
+Máy có kèm Windows 11 vĩnh viễn không?,0,0,1
+Máy có kèm Office không?,0,0,1
+mẫu này có đèn bàn phím không?,0,0,1
+Máy mới không?,0,0,1
+Dùng Photoshop có mượt không?,0,1,0
+Laptop 256GB vỏ kim loại hay nhựa?,0,0,1
+Máy này có thể nâng cấp lên 16GB RAM không?,0,0,1
+thời lượng pin bao lâu,0,0,1
+Bản AMD Ryzen 7735HS có chơi được FC Online không và màn hình 165Hz đúng không?,0,1,1
+loại này có micro tích hợp không?,0,0,1
+Máy này dùng thiết kế đồ họa được không?,0,1,0
+Có cảm ứng không,0,0,1
+Laptop Dell Inspiron 15 3511 còn RAM 8GB không?,0,0,1
+Máy 13990k sản xuất năm nào?,0,0,1
+Máy này có RAM 16GB không?,0,0,1
+Laptop Dell Inspiron 15 3520-5124BLK GJ8W7 có cảm ứng không?,0,0,1
+Máy có hỗ trợ bút cảm ứng không?,0,0,1
+Máy có xoay 360 độ không?,0,0,1
+Mẫu 8GB - 512GB 13tr990k vỏ kim loại hay nhựa?,0,0,1
+màn hình cảm ứng của máy này như thế nào?,0,0,1
+Laptop Dell Inspiron 15 3520 i5 1235U/8GB/512GB/120Hz/OfficeHS/Win11 (i5U085W11BLU) giá bao nhiêu?,1,0,0
+Máy này có nâng cấp RAM lên 16GB được không và chi phí là bao nhiêu?,0,0,1
+giá này đã bao gồm Office 2021 chưa,0,0,1
+Máy này nâng cấp RAM được không?,0,0,1
+"Máy này chơi game trung bình, nhẹ như Roblox có ổn không?",0,1,0
+Dell Inspiron 3520 i5-1235U có sự khác biệt về trọng lượng 1.9kg và 1.66kg phải không?,0,0,1
+Máy này có màu xám không?,0,0,1
+Trọng lượng của Dell 3520 Inspiron i5-1235U là 1.9kg hay 1.66kg?,0,0,1
+Vỏ laptop là nhựa hay kim loại?,0,0,1
+Chi phí nâng cấp RAM là bao nhiêu?,0,0,1
+Máy này học kỹ thuật có ổn không?,0,1,0
+Giá lên đời từ Asus TUF Dash F15 (i5 12450H / 16GB/1T/ RTX3050Ti/144Hz/Win11) lên máy này là bao nhiêu?,1,0,0
+Giá nâng cấp từ Dell G15 5515 lên máy này là bao nhiêu?,1,0,0
+Cổng PD Type-C của máy hỗ trợ sạc tối đa bao nhiêu watt và có thể dùng sạc 140W cho cổng này không?,0,0,1
+Nâng cấp RAM 24GB giá bao nhiêu?,1,0,1
+máy chạy tốt các phần mềm thiết kế 3D không?,0,1,0
+Giá nâng cấp lên RAM 16GB là bao nhiêu?,0,0,1
+Giá nâng cấp từ 512GB lên 1TB là bao nhiêu?,1,0,1
+Máy này chơi GTA 5 max setting được không?,0,1,0
+Máy có hỗ trợ nâng thêm RAM 8GB không và giá bao nhiêu?,0,0,1
+máy này có chơi được PUBG PC không,0,1,0
+Máy này có hỗ trợ chơi PUBG PC không?,0,1,0
+Phụ kiện sạc có đi kèm máy không?,0,0,1
+Có nâng cấp RAM tại chỗ không?,0,0,1
+giá lắp thêm 1 thanh RAM 8GB cho máy này?,0,0,1
+Laptop này có mấy màu?,0,0,1
+Giá máy kèm Microsoft Office là bao nhiêu?,1,1,0
+"máy này có chạy được các phần mềm design như AI, Photoshop, chỉnh sửa video không?",0,1,0
+Máy này học công nghệ thông tin chuyên phần mềm có ổn không và thời lượng pin bao lâu?,0,1,1
+Máy này có cổng Thunderbolt không?,0,0,1
+máy này bao nhiêu cân,0,0,1
+máy này có cài sẵn window bản quyền không,0,0,1
+"Dòng E14 Gen 5 và dòng IdeaPad Slim 3/Slim 5, loại nào tốt hơn?",0,1,0
+"Dung lượng pin dùng cho tác vụ văn phòng, lướt web bao lâu và Laptop Lenovo ThinkPad E14 GEN 5 21JK006BVN với Laptop Lenovo ThinkPad E14 GEN 5 21JK00H5VN khác nhau điểm nào?",0,0,1
+Máy hiển thị màu đen có mảng sáng ở cạnh dưới có sao không?,0,0,1
+Máy này có thể gắn thêm HDD không?,0,0,1
+"Máy này có chạy code, máy ảo và nhiều ứng dụng phần mềm cùng lúc được không?",0,1,0
+"Máy này học lập trình, chỉnh video nhẹ có ổn không?",0,1,0
+Máy chơi Genshin Impact có nóng không và thông tin hệ thống tản nhiệt?,0,1,1
+Máy có bảo mật vân tay và nhập mật khẩu thủ công không?,0,0,1
+máy này đời bao nhiêu,0,0,1
+Máy này có bao nhiêu ổ SSD và dung lượng tối đa có thể nâng cấp là bao nhiêu?,0,0,1
+máy này chuẩn màu 100% DCIP-3 hay sRGB?,0,0,1
+Máy có thể kết nối tối đa bao nhiêu màn hình rời?,0,0,1
+pin này dùng tác vụ văn phòng được bao lâu?,0,1,1
+"Ổ cứng máy này có 2 khe không, một khe đã lắp 512GB, khe còn lại còn trống, có lắp thêm 1TB được không?",0,0,1
+Loại ốc vít bị rớt ở sau sản phẩm này là gì?,0,0,1
+"Giá máy sau ưu đãi s-student và trừ quà là bao nhiêu, chi phí nâng cấp tối đa RAM SSD là bao nhiêu?",1,0,1
+Hỗ trợ nâng cấp lên 1TB không và giá bao nhiêu?,0,0,1
+Độ sáng và độ phủ màu của Laptop Acer Aspire 7 A715-76G-5806 là bao nhiêu?,0,0,1
+giá Black Friday hiện tại là bao nhiêu,1,0,0
+Có vỏ kim loại không?,0,0,1
+card này là 3050 bản mobile hay 3050 bản max-q,0,0,1
+Có học đồ họa 3D được không?,0,1,0
+Máy có cài sẵn Windows 11 không?,0,0,1
+Giá Acer Aspire 7 tại tiệm có phải 18.450.000 không?,1,0,0
+sinh viên mua giảm còn bao nhiêu?,1,0,0
+Có xuất ra màn hình rời được không?,0,0,1
+Máy này sạc đầy pin dùng được trong bao nhiêu tiếng?,0,0,1
+Chi phí nâng cấp ổ cứng lên 1TB là bao nhiêu?,0,0,1
+Cellphone có hỗ trợ nâng cấp RAM lên 32GB không và giá bao nhiêu?,1,0,1
+máy có SSD 1TB không?,0,0,1
+bàn phím có đèn nền không,0,0,1
+máy này cài fifa online 4 được không,0,1,0
+Máy này có nâng cấp RAM và SSD được không?,0,0,1
+Hai loại CPU i5-1240P và i5-1235U có giống nhau không?,0,0,1
+Máy này có hỗ trợ lắp RAM không?,0,0,1
+Mẫu này có bảo mật vân tay không?,0,0,1
+Giá máy này bao nhiêu?,1,0,0
+Máy này sử dụng cho sinh viên cơ khí chế tạo máy được không?,0,1,0
+Laptop này là RAM 8GB hay 16GB?,0,0,1
+Máy này có Numberpad không?,0,0,1
+"Laptop ASUS TUF Gaming A15 FA507NUR-LP101W có mấy khe SSD và chi phí nâng cấp, vệ sinh là bao nhiêu?",0,0,1
+Laptop này góp tháng bao nhiêu?,1,0,0
+Máy này có CPU Ryzen R7 không?,0,0,1
+RTX 4050 bao nhiêu watt điện?,0,0,1
+Năm ra mắt,0,0,1
+Máy này có kết nối với màn hình máy tính được không?,0,0,1
+Đèn nền là RGB hay trắng?,0,0,1
+"với cấu hình sẵn 1 thanh 12GB, nên lắp thêm 1 thanh 8GB hay 1 thanh 12GB?",0,0,1
+Máy này nâng cấp pin được không?,0,0,1
+máy này thiết kế đồ họa 3D ổn không?,0,1,0
+có thể bán lại thanh RAM 12GB để mua 2 thanh 8GB không và bù thêm bao nhiêu tiền?,0,0,1
+Máy này thay thanh RAM 12GB thành 16GB được không và giá bao nhiêu?,0,0,1
+Máy này có nâng cấp RAM được không và chi phí nâng cấp lên 16GB hoặc 24GB là bao nhiêu?,1,0,1
+Có dùng cho đồ họa không?,0,1,0
+Máy này dùng văn phòng ổn không và màn IPS phải không?,0,1,1
+Máy này có mấy khe SSD?,0,0,1
+máy này tần số quét 60Hz hay 120Hz?,0,0,1
+"Laptop này và HP 240 G9, con nào tốt hơn?",0,1,0
+Dùng học kỹ thuật phần mềm có ổn không?,0,1,0
+Máy này có nâng cấp RAM được không?,0,0,1
+Sản phẩm này có đèn bàn phím không?,0,0,1
+"So sánh laptop i7-12700H và Laptop ASUS Vivobook 14 OLED A1405VA-KM257W, con nào tốt và bền hơn cho nhu cầu dùng Word, chỉnh sửa video, Photoshop?",0,1,1
+Chọn i5 13500h hay i7 12700h,0,0,1
+chơi game được không?,0,1,0
+Giá cuối cùng cho sản phẩm này là bao nhiêu?,1,0,0
+Có Thunderbolt không?,0,0,1
+Có hỗ trợ nâng cấp RAM không?,0,0,1
+Máy này trả góp từ bao nhiêu?,1,0,0
+máy này có led bàn phím không,0,0,1
+Máy có được cài Windows và Microsoft Office 365 miễn phí không?,0,0,1
+máy này có nâng cấp RAM được không,0,0,1
+đăng nhập không dùng vân tay được không,0,0,1
+Con này thời lượng pin là bao lâu?,0,0,1
+"muốn mua thêm SSD gắn vào, Cellphones có hỗ trợ lắp đặt không và loại SSD nào phù hợp (khoảng 1TB)?",0,0,1
+chơi game Roblox có mượt không?,0,1,0
+Có bản G6+ chip U125h 2024 không?,0,0,1
+Có bản G6+ chip u125h 2024 không?,0,0,1
+Có bản i5-1335U không?,0,0,1
+Giá này đã bao gồm cài đặt Microsoft chưa?,0,0,1
+giá mẫu này cho sinh viên bao nhiêu,1,1,0
+"Máy này chơi được FIFA Online 4, Liên Minh không?",0,1,0
+Thời lượng pin của máy này là bao lâu?,0,0,1
+Dung lượng máy này là 512GB hay 1TB?,0,0,1
+Bàn phím có đèn không,0,0,1
+Laptop ASUS Vivobook 15 OLED A1505VA MA468W và Laptop Asus Vivobook 15 OLED A1505VA-MA466W i5-13500H khác nhau điểm gì?,0,0,1
+Có màu bạc không?,0,0,1
+Mẫu này có màu khác không?,0,0,1
+ASUS VIVOBOOK 15 OLED A1505VA-MA468W và Asus Vivobook 15 OLED A1505VA-L1114W khác nhau điểm gì?,0,0,1
+Máy có cài sẵn Microsoft 365 không và giá bao nhiêu?,0,0,1
+Máy có cài sẵn Microsoft 365 không?,0,0,1
+Mã laptop này có kèm Microsoft miễn phí không?,0,0,1
+Máy này có nâng cấp thêm ổ cứng được không?,0,0,1
+Máy này chơi được FC Online không?,0,1,0
+Máy này có hỗ trợ màn hình cảm ứng và gập 360 độ không?,0,0,1
+Có thể nâng cấp dung lượng bộ nhớ trong không?,0,0,1
+Laptop ASUS Vivobook 15 oled A1405VA MA468W có gắn thêm quạt tản nhiệt để chơi game được không?,0,1,1
+Máy có đèn nền không?,0,0,1
+Thời lượng pin máy dùng văn phòng bao nhiêu tiếng?,0,1,1
+RAM và ổ cứng của máy này có thể nâng cấp không và tối đa là bao nhiêu?,0,0,1
+Máy đã cài Office chưa hay phải mua?,0,0,1
+mẫu này có thể nâng cấp tối đa bao nhiêu GB RAM,0,0,1
+laptop asus vivobook 15 oled A1505VA-MA468W 2.8K có tần số quét bao nhiêu?,0,0,1
+máy này RAM và ổ cứng có thể nâng cấp không?,0,0,1
+Máy này chơi Liên Minh và FIFA có ổn không?,0,1,0
+Máy nặng bao nhiêu gram?,0,0,1
+máy này chơi game FIFA Online 4 được không?,0,1,0
+Con này chơi được The Scourge không?,0,1,0
+Máy này có gập 360 độ được không?,0,0,1
+Laptop Acer Aspire 3 A315-44P giá bao nhiêu và có thể nâng cấp RAM không?,1,0,1
+máy này có giảm quạt tản nhiệt nhỏ đi được không,0,0,1
+Máy này dùng cho ngành hệ thống thông tin quản lý không?,0,1,0
+Laptop này sử dụng cho ngành tự động hóa có ổn không?,0,1,0
+Máy này có nâng cấp được không?,0,0,1
+Máy này vừa dùng vừa sạc có vấn đề gì về pin không?,0,0,1
+Dòng máy này chạy game FC Online M của Garena có ổn không?,0,1,0
+Sản phẩm có đèn LED bàn phím không?,0,0,1
+Sản phẩm này sản xuất năm nào?,0,0,1
+"Màn hình máy bị mờ, có chỉnh lại được không?",0,0,1
+Máy này có đèn LED không và màn hình có thể chỉnh độ sáng không?,0,0,1
+laptop này có thể nâng cấp thêm ổ cứng HDD để lưu trữ không,0,0,1
+Mua xong có được cài Windows không?,0,0,1
+Laptop nào chuyên thiết kế mô hình giá rẻ?,1,1,0
+"Máy này dùng để edit video, design cơ bản được không?",0,1,0
+Sản phẩm này dùng cho kế toán được không?,0,1,0
+bàn phím có đèn LED không,0,0,1
+Máy này chơi FIFA được không?,0,1,0
+Học lập trình được không?,0,1,0
+Laptop này chơi game nhẹ có mượt không?,0,1,0
+Phiên bản 12.690 khác gì 12.390?,0,0,1
+Máy này có sẵn 16GB RAM hay 8GB RAM và có thể nâng cấp RAM không?,0,0,1
+Máy này chạy PTS và AI có ổn không?,0,1,0
+Laptop này có chạy được nhiều chương trình lập trình cùng lúc không?,0,1,1
+Máy có đèn bàn phím không,0,0,1
+Khi mua laptop có cần mua Office không? Giá máy đã bao gồm cài Office chưa?,0,0,1
+Có thay card màn hình được không?,0,0,1
+RAM có chưa?,0,0,1
+Máy có nâng cấp RAM được không?,0,0,1
+cửa hàng có hỗ trợ nâng RAM không?,0,0,1
+máy này gắn thêm 1 thanh 512GB được không,0,0,1
+Máy có nâng cấp thêm ổ cứng không?,0,0,1
+Nâng cấp thêm 1 thanh RAM 8GB cho máy có RAM 8GB có cần đợi hết bảo hành không?,0,0,1
+Loại này quạt êm không?,0,0,1
+Sử dụng Revit có ổn không?,0,1,0
+Máy có hỗ trợ cắm thêm RAM không?,0,0,1
+Nâng cấp lên 1TB thì bao nhiêu tiền?,1,0,1
+sạc của máy này bao nhiêu W?,0,0,1
+Mặt A của máy làm bằng nhựa hay nhôm?,0,0,1
+Cấu hình này là bản 2023 hay 2024?,0,0,1
+Máy này chạy phần mềm đồ họa 3D ổn không?,0,1,0
+SSD 500GB nào phù hợp nhất với laptop này?,0,0,1
+Máy có thể nâng cấp ổ cứng từ 512GB lên 1TB không và quy trình nâng cấp như thế nào?,0,0,1
+"Nên mua Thinkpad hay máy trạm Dell cho nhu cầu văn phòng, học tập, xem phim, lướt web, ưu tiên máy bền, build chắc chắn, cấu hình ổn?",0,1,0
+Nâng cấp RAM 32GB có làm mất bảo hành không?,0,0,1
+Nâng cấp ổ cứng 512GB lên 1TB giá bao nhiêu?,0,0,1
+RTX 4050 6GB tiêu thụ bao nhiêu watt?,0,0,1
+Máy này có sRGB không?,0,0,1
+Laptop này nâng RAM lên được không?,0,0,1
+mẫu này chơi tốt các tựa game AAA không?,0,1,0
+Màn hình máy này không phải OLED phải không?,0,0,1
+Card đồ họa máy này là card rời không?,0,0,1
+công suất máy bao nhiêu watt và hiệu suất tản nhiệt như thế nào,0,0,1
+Máy có nâng cấp RAM và ROM không?,0,0,1
+RTX 3050 hay RTX 4050 ổn hơn cho học kỹ thuật 5 năm không chơi game?,0,1,1
+"Máy này edit video có ổn không và khi chơi game, edit video có nóng không?",0,1,0
+máy này học lập trình có ổn không?,0,1,0
+Chi phí nâng cấp RAM 32GB và ổ cứng 1TB là bao nhiêu?,0,0,1
+Vấn đề pin và dây sạc của mẫu laptop này là gì? Hao pin khi cắm sạc có ảnh hưởng hiệu suất và pin không?,0,0,1
+Đây là chip M3 Max phải không?,0,0,1
+máy này để ôn thi và học tập có ổn không?,0,1,0
+Hệ điều hành Free OS nghĩa là gì và có thể dùng như máy chạy Windows bình thường không?,0,0,1
+Máy i3 này có DDR4 3200MHz không?,0,0,1
+Giá bản i3 hiện tại không VAT là bao nhiêu?,1,0,0
+Dòng này có tích hợp sẵn Office không?,0,0,1
+Máy có màn hình 120Hz hay 60Hz?,0,0,1
+Máy này new seal?,0,0,1
+Máy này nguyên seal?,0,0,1
+Máy này còn seal không?,0,0,1
+Sinh viên mua máy và bộ Office hết bao nhiêu tiền?,1,1,0
+Máy đã có bảo hành hay cần mua thêm bảo hành?,0,0,1
+Bản RTX 4050 này có TDP là bao nhiêu?,0,0,1
+Laptop ASUS Vivobook 14 X1404ZA-NK389W giá 15tr590 và 15tr490 khác nhau chỗ nào?,0,0,1
+Laptop nào hỗ trợ Office dưới 16 triệu?,1,1,0
+Có hỗ trợ Office không?,0,0,1
+Máy này có cắm được tai nghe dây không?,0,0,1
+Máy sạc Type-C được không?,0,0,1
+Nâng RAM lên 16GB tốn bao nhiêu tiền?,0,0,1
+Card 2050 này bao nhiêu W?,0,0,1
+"Máy này có chơi tốt FIFA, LoL, PUBG không?",0,1,0
+Lắp thêm RAM tại chi nhánh CellphoneS lúc mới mua tốn bao nhiêu tiền?,0,0,1
+Lắp thêm thanh RAM 8GB bao nhiêu tiền?,1,0,0
+Laptop Acer Aspire 7 A715-76G-59MW card đồ họa chạy bao nhiêu watt?,0,0,1
+Máy này có nâng cấp SSD từ 512GB lên 1TB được không và chi phí bao nhiêu?,0,0,1
+giá nâng thêm RAM 8GB bao nhiêu?,0,0,1
+Laptop này sử dụng được bao nhiêu tiếng thì hết pin?,0,0,1
+nâng cấp RAM 8GB có bị mất phí sửa hay mất bảo hành không?,0,0,1
+Giá nâng thêm RAM 8GB là bao nhiêu?,0,0,1
+Laptop này có hỗ trợ eGPU không?,0,0,1
+Có laptop cấu hình i5 thế hệ 12 card đồ họa rời giá từ 16 triệu trở xuống không?,1,0,1
+Có laptop cấu hình i5 thế hệ 12 đuôi H card đồ họa rời giá từ 16 triệu trở xuống không?,1,0,1
+"Chi phí nâng cấp SSD từ 512GB lên 1TB, có giảm giá khi trả SSD cũ không? Chi phí nâng cấp RAM?",0,0,1
+Máy có kèm bộ Office không và giá bao nhiêu?,0,0,1
+máy sản xuất năm nào,0,0,1
+máy này có dùng office 365 được không,0,1,1
+Có hỗ trợ nâng RAM lên 32GB và lắp thêm ổ SSD từ máy cũ không? Có báo giá không?,1,0,1
+Laptop Lenovo LOQ 15ARP9 83JC007JVN có nâng cấp lên 1TB được không?,0,0,1
+máy có led bàn phím và sử dụng ổn định để code và vẽ kỹ thuật không?,0,1,1
+"Laptop i5 RTX3050 có nâng RAM từ 12GB lên 16GB hoặc 24GB được không, nếu được thì nên nâng lên bao nhiêu?",0,0,1
+laptop asus tuf gaming a15 fa506nf cổng HDMI mấy chấm?,0,0,1
+Máy này có hỗ trợ xuất hình ảnh qua cổng USB-C không?,0,0,1
+24GB RAM có sẵn trong máy hay phải nâng cấp?,0,0,1
+Laptop Dell Vostro 3530 có đèn bàn phím không?,0,0,1
+mua máy này cài thêm bộ phần mềm office bản quyền vĩnh viễn thì giá bao nhiêu,1,0,0
+Giá 10 triệu là máy mới hoàn toàn phải không? Giá có giữ nguyên vào tháng 2 và tháng 3 không?,1,0,0
+Sản phẩm này có cài sẵn Windows và Office không?,0,0,1
+máy này chạy SolidWorks hoặc chơi Valorant setting thấp được không?,0,1,0
+học luật nên mua loại nào,0,1,0
+máy có đèn bàn phím không?,0,0,1
+Bút cảm ứng kết nối với máy tính như thế nào? Cách điều chỉnh tác vụ 2 nút trên bút?,0,0,1
+Dòng này sản xuất năm nào?,0,0,1
+Vỏ máy loại gì,0,0,1
+học sinh cấp 3 nên mua mẫu nào,0,1,0
+Máy này có hỗ trợ vừa sạc vừa dùng không?,0,0,1
+Máy có sẵn bản quyền Microsoft chưa và dùng được bao lâu?,0,0,1
+Laptop này có Windows 11 Home đa ngôn ngữ hay Windows 11 Home Single Language?,0,0,1
+Máy này là hàng xách tay phải không?,0,0,1
+Máy có chức năng đổi màu bàn phím không và so sánh với Acer Nitro AN515-45 Ryzen 7 GTX 3060 thì cái nào hơn?,0,0,1
+Máy này có vừa sạc vừa dùng được không và có nên vừa sạc vừa dùng khi chưa đầy pin hay đã đầy pin không?,0,0,1
+Máy này hiện tại bao nhiêu tiền và nâng lên 32GB RAM thì tốn thêm bao nhiêu?,1,0,1
+Máy có thể nâng cấp lên 32GB RAM và 2TB SSD không? Chi phí nâng cấp là bao nhiêu?,1,0,1
+máy này sử dụng chip H và có 2 quạt phải không?,0,0,1
+"Máy này có hỗ trợ Word, Excel, PowerPoint miễn phí không?",0,0,1
+"Chip i3-1315U và chip R5-7520U, con nào mạnh hơn?",0,0,1
+Có phím LED không?,0,0,1
+"Dòng này phù hợp cho văn phòng, kế toán không?",0,1,0
+Thời lượng pin khi dùng văn phòng của dòng này là bao lâu?,0,1,1
+Máy đã bao gồm Microsoft Office chưa?,0,0,1
+Vivobook 15 i7 có nâng cấp được dung lượng bộ nhớ không?,0,0,1
+Bao gồm bản quyền Windows vĩnh viễn?,0,0,1
+FL Studio và After Effect có ổn không?,0,1,0
+Loại này có tương thích với SSD SATA không?,0,0,1
+Bàn phím dòng này có đèn không?,0,0,1
+Thời lượng pin sử dụng bao lâu?,0,0,1
+Laptop Dell có kèm theo Office không?,0,0,1
+Có cài được tiếng Việt không?,0,0,1
+máy này chơi Valorant max setting được không?,0,1,0
+"máy có cài sẵn Word, PowerPoint, Excel không?",0,0,1
+Sản phẩm có nâng cấp được RAM và SSD không?,0,0,1
+Máy này học ngành kỹ thuật phần mềm có ổn không?,0,1,0
+Máy nào mạnh hơn và phù hợp học công nghệ thông tin?,0,1,0
+S16 không có U5?,0,0,1
+Bàn phím máy này có bảng số không?,0,0,1
+Có cài sẵn ứng dụng Microsoft không?,0,0,1
+Máy này chơi Free Fire mượt mà max setting được không?,0,1,0
+Máy này có nâng cấp được SSD không?,0,0,1
+"Máy này có làm thiết kế đồ họa, công nghệ thông tin, tác vụ nặng và chơi Genshin Impact được không?",0,1,0
+Nâng cấp RAM lên 32GB và ổ cứng lên 1TB được không?,0,0,1
+"Nâng cấp RAM, ổ cứng tối đa bao nhiêu và có hỗ trợ nâng cấp không?",0,0,1
+Cấu hình RAM là 2x8GB hay 1x16GB và còn dư cổng NVMe để nâng cấp bộ nhớ không?,0,0,1
+Mac Mini có thể dùng chung màn hình MacBook khi setup lần đầu không?,0,1,0
+Có đèn nền bàn phím không?,0,0,1
+Hệ điều hành này là gì?,0,0,1
+"Dòng này có chơi được game FIFA, LOL không?",0,1,0
+máy có bảo mật vân tay không,0,0,1
+Máy này học đại học 4 năm có ổn không?,0,1,0
+Giá bản quyền Office là bao nhiêu?,0,0,1
+Laptop nào tầm giá 15-20 triệu?,1,0,0
+"Máy chơi tarkov, arena breakout infinite, war thunder full đồ họa được không?",0,1,1
+Máy có nâng cấp RAM thêm được không?,0,0,1
+"Với mức giá này, máy có chơi được Fifa, học tập và đa nhiệm không?",1,1,0
+Có thể cài xuống Win 10 được không?,0,0,1
+Nâng cấp RAM 16GB có còn được bảo hành chính hãng không?,0,0,1
+Tối đa gắn thêm bao nhiêu GB RAM?,0,0,1
+Máy này đã cài sẵn Windows chưa và giá cài thêm là bao nhiêu?,0,0,1
+Laptop Dell Vostro 3520 F0V0V256 nâng cấp RAM 8GB giá bao nhiêu?,0,0,1
+Máy có cài sẵn Windows không?,0,0,1
+Máy này có Windows và Office không?,0,0,1
+Thời lượng pin bao lâu,0,0,1
+laptop này ra mắt năm bao nhiêu,0,0,1
+Máy free OS có phải tự cài Windows không?,0,0,1
+Có hỗ trợ cài Windows không?,0,0,1
+Con này nâng RAM lên 16 GB giá bao nhiêu?,1,0,1
+Có thể lắp thêm một thanh RAM phù hợp với máy không?,0,0,1
+máy này màn hình tần số quét bao nhiêu,0,0,1
+Nâng cấp RAM hết bao nhiêu?,0,0,1
+máy này có nâng cấp card hay main được không,0,0,1
+cấu hình I5-13420H/8GB/512GB có nâng cấp RAM được không?,0,0,1
+Pin con này khi không chơi game thì sử dụng được bao lâu?,0,0,1
+RAM trên website và tại cửa hàng có phải 16GB không?,0,0,1
+Có hỗ trợ nâng cấp SSD không? Laptop này có khe trống không?,0,0,1
+Máy này nâng cấp RAM và ổ cứng tối đa thì tầm giá bao nhiêu?,1,0,1
+Giá FLASH SALES là bao nhiêu?,1,0,0
+Laptop Aspire 7 khi đầy pin có cần cắm sạc mới bật nguồn không?,0,0,1
+Chi phí nâng cấp card đồ họa từ RTX 2050 lên RTX 3050?,0,0,1
+So sánh hiệu năng và khả năng chơi game giữa i5-12450H/RTX 3050 và i7-12650H/RTX 2050.,0,1,1
+bản lề của máy mở được bao nhiêu độ?,0,0,1
+Máy chơi Valorant low setting được bao nhiêu FPS?,0,1,0
+Máy này vỏ bằng chất liệu gì?,0,0,1
+TGP của RTX 2050 trên máy này là bao nhiêu?,0,0,1
+Laptop Acer gaming Aspire 7 A715-76G-73FM có thể chơi game AAA ở mức setting nào?,0,1,0
+Laptop Acer gaming Aspire 7 A715-76G-73FM sạc đầy dùng được bao lâu?,0,0,1
+RAM 16GB là 1 thanh hay 2 thanh? Nâng cấp lên 32GB giá bao nhiêu?,0,0,1
+Có hỗ trợ nâng cấp ổ cứng không?,0,0,1
+máy có chơi được game PUBG và Free Fire không?,0,1,0
+mã này có nâng cấp ổ cứng được không,0,0,1
+máy này có thể nâng cấp SSD không,0,0,1
+Laptop có quạt tản nhiệt không và card RTX 2050 tiêu thụ bao nhiêu W?,0,0,1
+Chi phí nâng cấp RAM lên 16GB cho Laptop gaming MSI Thin A15 B7UCX 020VN là bao nhiêu?,0,0,1
+Windows và Office cài sẵn là loại nào và hạn dùng bao lâu?,0,0,1
+Giá nâng cấp lên 1TB là bao nhiêu?,0,0,1
+laptop có hỗ trợ cài lại Windows không?,0,0,1
+Nâng cấp RAM Laptop Lenovo LOQ 15IAX9 từ 12GB lên 32GB tốn bao nhiêu tiền?,0,0,1
+Mẫu i5 4050 có tích hợp AI không?,0,0,1
+Máy chỉ có một màu phải không?,0,0,1
+máy này có hỗ trợ mcr không,0,0,1
+Con này nâng RAM được không?,0,0,1
+Máy này vỏ kim loại hay nhựa?,0,0,1
+Máy này nâng cấp RAM và bộ nhớ được không?,0,0,1
+máy này có chơi game mượt không,0,1,0
+"Laptop này có thể tháo SSD đi kèm và lắp SSD 1TB, 2TB không?",0,0,1
+Laptop này có đèn nền phím không,0,0,1
+Năm sản xuất bao nhiêu?,0,0,1
+Máy này có tặng kèm ứng dụng Microsoft không?,0,0,1
+"So sánh Macbook Air M1 và ASUS VivoBook 15 X1504VA-NJ070W về túi tiền, thời gian sử dụng 3-5 năm và sự thuận tiện.",1,1,0
+Hai máy Laptop ASUS VivoBook 15 X1504VA-NJ070W và Laptop ASUS Vivobook 15 X1504ZA-NJ1039W khác nhau điểm nào?,0,0,1
+Dòng này có đèn LED bàn phím không?,0,0,1
+Máy này có màn hình OLED không?,0,0,1
+"Máy có cài sẵn Excel, Word không?",0,0,1
+Máy này hay Ideapad Slim 16IAH8 chơi game Liên Minh và làm đồ họa tốt hơn?,0,1,0
+Màn hình IPS?,0,0,1
+Nâng cấp lên 32GB được không?,0,0,1
+sinh viên thì giá bao nhiêu?,1,1,0
+Asus Vivobook 15 X1504VA có chip i7 không?,0,0,1
+sản phẩm này bao nhiêu tiền?,1,0,0
+Tấm nền máy này là gì?,0,0,1
+Máy này có thanh che cam vật lý không?,0,0,1
+Máy có chơi game được không và bàn phím máy có đèn không?,0,1,1
+Có hỗ trợ cài đặt lại Windows 10 Pro không và có phụ phí không?,0,0,1
+Sản phẩm này đã chạy sẵn dual channel RAM chưa?,0,0,1
+laptop bên cellphones có hỗ trợ phần mềm văn phòng không?,0,1,0
+"Máy này chạy nhiều tab, edit, photoshop có bị đơ lag không?",0,1,0
+laptop asus tuf a15 nên cài driver amd hay nvidia?,0,0,1
+Hai máy này khác nhau thế nào?,0,0,1
+Hệ điều hành Free OS là gì?,0,0,1
+laptop này học công nghệ thông tin được không?,0,1,0
+"Máy có hỗ trợ nâng cấp phần cứng không? Máy có 2 khe RAM, trong đó đã có RAM chưa?",0,0,1
+"Máy này có chạy mượt các phần mềm đồ họa như Capcut, Photoshop, Illustrator không? Laptop Dell có miễn phí ứng dụng văn phòng Microsoft như Excel, Word, PowerPoint không?",0,1,1
+Cấu hình RAM 8GB onboard và 1 khe SO-DIMM có nâng cấp được không?,0,0,1
+"Sử dụng pts, ae, illustrator được không?",0,1,0
+"Máy có sẵn Excel, PowerPoint không?",0,0,1
+Có thể lắp card rời không?,0,0,1
+Máy này dùng học CNTT ổn không?,0,1,0
+Sản phẩm này chơi tốt Genshin Impact và Valorant không?,0,1,0
+Máy này có chơi được Valorant không?,0,1,0
+Máy này có bản màu bạc cùng cấu hình không?,0,0,1
+"Pin máy dùng được bao nhiêu tiếng cho nhu cầu văn phòng cơ bản (lướt web, đọc pdf, soạn thảo word)?",0,1,1
+Máy này có nâng RAM lên 32GB hoặc 24GB không?,0,0,1
+Cấu hình RAM: sẵn 16GB tặng 8GB hay sẵn 8GB tặng 8GB? Có nâng cấp lên 24GB RAM được không?,0,0,1
+RAM máy ASUS ROG Strix G16 G614JU-N3135W là 16GB hay 8GB và có cần nâng cấp không?,0,0,1
+adobe rgb bao nhiêu,0,0,1
+Cổng Type-C của mẫu này hỗ trợ sạc bao nhiêu Watt?,0,0,1
+Giá bao nhiêu cho laptop i5 RAM 16GB ổ cứng 2TB?,1,0,1
+"Khi mua máy mới, RAM 8GB được tặng có được gắn vào máy không?",0,0,1
+máy có bàn phím số dưới touchpad không,0,0,1
+Họa tiết mắt cú sau lưng máy có đổi màu LED không?,0,0,1
+Mua online có hỗ trợ nâng cấp RAM không?,0,0,1
+Laptop ASUS TUF Gaming F15 FX507VI-LP077W mua trả góp cần trả trước bao nhiêu?,1,0,0
+Laptop nào tầm giá 10 triệu đổ lại vừa học vừa chơi game tầm trung?,1,1,0
+Laptop MSI Gaming Thin 15 B12UCX-1419VN có gắn thêm RAM được không?,0,0,1
+Laptop nào tầm giá 20 triệu để chơi GTA5?,1,1,0
+Laptop MSI Gaming Thin 15 B12UCX-1419VN core I5 - 12450OH có hỗ trợ nâng RAM không?,0,0,1
+Tần số quét bao nhiêu,0,0,1
+Vỏ nhựa hay kim loại,0,0,1
+Máy này dùng 1 thanh RAM 32GB hay 2 thanh RAM 16GB?,0,0,1
+Office trên con này là 1 năm hay trọn đời?,0,0,1
+Giá con này bao nhiêu?,1,0,0
+Giá máy này với ưu đãi S student là bao nhiêu?,1,0,0
+Giá con này hiện tại bao nhiêu?,1,0,0
+Con này nâng cấp RAM lên 16GB được không?,0,0,1
+Con này là hàng Nhật hay hàng Trung?,0,0,1
+Phần cứng có nâng cấp sau này được không?,0,0,1
+VRAM của máy,0,0,1
+Độ phủ màu sRGB của Laptop ASUS TUF Gaming A15 FA507NV-LP061W là bao nhiêu?,0,0,1
+Mua laptop có tặng bản quyền Microsoft không?,0,0,1
+Máy này học CNTT có ổn không?,0,1,0
+Giá cho học sinh sinh viên bao nhiêu và cửa hàng có hỗ trợ nâng cấp SSD không?,1,0,1
+Màn hình chiếc này là OLED hay IPS?,0,0,1
+Máy này có học lập trình được không?,0,1,0
+Máy này có hệ thống tản nhiệt và có thể nâng cấp RAM không?,0,0,1
+Tần số quét màn hình bao nhiêu?,0,0,1
+GPU của laptop này là Intel Arc Graphics nào?,0,0,1
+Không lấy quà thì máy còn giá bao nhiêu?,1,0,0
+máy có đèn bàn phím không,0,0,1
+Máy học CNTT được không?,0,1,0
+gập nhiều thì bản lề có sao không,0,0,1
+Máy có đèn phím không?,0,0,1
+Laptop này dùng cho thiết kế và chơi game có ổn không?,0,1,0
+máy này dùng cho đồ họa 3D được không?,0,1,0
+máy này trả trước bao nhiêu,1,0,0
+máy này có hỗ trợ nâng cấp RAM không?,0,0,1
+"máy bật thử YT chỉ nghe được loa trái, loa phải không có âm thanh. Máy có bị lỗi không?",0,0,1
+Có chơi game mượt không?,0,1,0
+Máy này màn hình tần số quét bao nhiêu?,0,0,1
+Có nâng cấp RAM được không?,0,0,1
+Máy có thể nâng cấp CPU Core Ultra 5 lên Ultra 7 không?,0,0,1
+Mẫu này có màu đen không,0,0,1
+Có mẫu màu hồng không?,0,0,1
+sinh viên kiến trúc dùng có ổn không?,0,1,0
+máy này có dựng phim được không,0,1,0
+Sản phẩm này có nâng cấp RAM được không?,0,0,1
+Máy này dùng Photoshop và tác vụ 2D nhẹ có ổn không?,0,1,0
+Máy có Windows và Office bản quyền không?,0,0,1
+Máy này dùng DDR4 2666MHz hay DDR4 3200MHz?,0,0,1
+Hàng này sản xuất năm nào,0,0,1
+"Máy này có dùng được PowerPoint, Word, Excel không?",0,1,0
+Vỏ máy bằng nhựa hay không? Có cần cài Windows không?,0,0,1
+Dell cấu hình tương tự giá bao nhiêu?,1,0,0
+"Có thể xem trực tiếp máy trước khi mua không, vì cần màn hình sắc nét, màu sắc sinh động để xem phim?",0,1,1
+Mẫu này đã kèm Microsoft Office chưa và giá mua kèm là bao nhiêu?,1,0,1
+Nâng cấp RAM Laptop Lenovo IdeaPad Slim 3 15IRH10 83K1000GVN có cần bỏ thanh RAM 512GB cũ không?,0,0,1
+laptop này lắp được 2 ổ cứng SSD không?,0,0,1
+Máy này chỉnh sửa ảnh 2D ổn không?,0,1,0
+Sản phẩm này nâng cấp RAM giá bao nhiêu?,0,0,1
+Máy này vừa sạc vừa dùng có giật không?,0,1,0
+Màn hình các dòng Pavilion đều có cảm ứng không?,0,0,1
+Máy này bản i5 1240P có vỏ nhôm không?,0,0,1
+bản 8GB RAM có nâng cấp được không?,0,0,1
+Laptop Lenovo Yoga Slim 6 14IRH8 83E00008VN có được tặng kèm bản quyền Office không?,0,0,1
+Yoga Slim 6 bản i7 có nâng cấp RAM được không?,0,0,1
+Hỗ trợ nâng cấp bộ nhớ lên 1TB và có ảnh hưởng bảo hành không?,0,0,1
+Lúc cắm sạc thì máy dùng pin hay nguồn trực tiếp?,0,0,1
+Touchpad của bản này dùng Haptic hay nút bấm vật lý?,0,0,1
+Máy này kèm bộ Office vĩnh viễn không?,0,0,1
+máy này kèm Office 2021 vĩnh viễn giá bao nhiêu?,1,0,0
+Máy này giảm giá cho học sinh và đổi điểm thi thì giá bao nhiêu?,1,0,0
+"So sánh chip U5 và Lenovo Slim 5 Ryzen 7 7735HS, con nào chơi game mượt hơn?",0,1,0
+"Nếu không nhận đồng hồ, không nhận balo và trả góp thì giá còn lại là bao nhiêu?",1,0,0
+Con này có nâng cấp được lên 1TB không?,0,0,1
+Máy này dùng cho sinh viên kỹ thuật được không?,0,1,0
+RAM 16GB là 2x8GB có sẵn không?,0,0,1
+Tầm giá này nên mua ASUS TUF hay MSI Cyborg?,1,0,0
+pin 65W có phải không?,0,0,1
+Có đèn bàn phím không,0,0,1
+máy có 1 khe RAM có nâng cấp được RAM không?,0,0,1
+Chip có chơi được game esport không?,0,1,1
+"Khác biệt thiết kế, phím backspace và đèn LED so với các dòng MSI khác?",0,0,1
+Máy này có đi kèm Office không?,0,0,1
+Gen 1 là phiên bản mới nhất của dòng này phải không?,0,0,1
+Sản phẩm này giá bao nhiêu?,1,0,0
+Công suất sạc bao nhiêu W?,0,0,1
+Máy này render 3D ổn không?,0,1,0
+CellPhoneS có phiên bản CPU R7-8845HS không?,0,0,1
+Máy này có thể thay thanh RAM 8GB bằng 2 thanh 16GB không?,0,0,1
+Nâng cấp RAM lên 16GB giá thế nào?,0,0,1
+Màn hình dòng nào có độ phủ màu bao nhiêu và ổ cứng SSD có lên tầm 1TB được không?,0,0,1
+Thông tin về hệ thống tản nhiệt,0,0,1
+Máy này chơi Elden Ring ổn không?,0,1,0
+máy này có nâng cấp RAM từ 8GB lên 16GB không?,0,0,1
+RTX 3050 này có phải bản Max-Q không?,0,0,1
+Sản phẩm này được bảo hành mấy tháng?,0,0,1
+So sánh hiệu năng chơi game giữa MSI Gaming GF63 Thin 11UC-1228VN và MSI Gaming Bravo 15 B7ED-010VN. Nhiệt độ GF63 Thin có cao không?,0,1,1
+máy này lắp thêm RAM 8GB được không?,0,0,1
+Dòng máy i7 r8 có thể nâng cấp RAM rời không?,0,0,1
+máy này có chủ động bật quạt tản nhiệt không?,0,0,1
+máy này có nâng cấp SSD không?,0,0,1
+Giá máy là bao nhiêu?,1,0,0
+Bus RAM ghi trên thông số kỹ thuật là bus RAM tối đa máy nhận được phải không?,0,0,1
+"sinh viên học multimedia nên chọn máy nào phù hợp cho việc học, đi làm và có giá sinh viên?",1,1,0
+Nâng cấp thêm 16GB RAM cho máy này cần bao nhiêu tiền?,1,0,1
+Giá máy và cài Windows là bao nhiêu?,1,0,0
+Phiên bản i5-13420H RAM 16GB có hệ điều hành Windows không?,0,0,1
+Sản phẩm này có LED bàn phím không?,0,0,1
+"V14 và V15 IRU khi cắm sạc, điện vào trực tiếp nguồn hay vào pin?",0,0,1
+máy có nhận diện khuôn mặt như Face ID không?,0,0,1
+không mua Windows bản quyền,0,0,1
+Có hỗ trợ cài win không?,0,0,1
+Hệ điều hành Free OS là gì và có thể nâng cấp lên Windows 11 Home không?,0,0,1
+Nhân viên văn phòng nên chọn máy nào giữa máy này và Acer Swift Lite 14 AI?,0,1,0
+Tốc độ bus của RAM là 3200 hay 2666?,0,0,1
+Máy có màn hình chống chói không?,0,0,1
+máy làm từ vỏ kim loại hay nhựa,0,0,1
+"Dell Inspiron 3530 pin có ổn không, máy có nóng và hao pin không?",0,0,1
+Sự khác biệt giữa Laptop Dell Inspiron 15 3520 71045026 và Laptop Dell Inspiron 15 3520 là gì?,0,0,1
+Mẫu này vỏ kim loại hay nhựa?,0,0,1
+Pin bao nhiêu Wh?,0,0,1
+Máy có kèm Windows và Office không?,0,0,1
+Máy có thể nâng cấp lên 32GB RAM và 1TB không?,0,0,1
+Phần tặng RAM đó có thể nâng cấp cho máy luôn không?,0,0,1
+Nâng cấp lên 32GB RAM và ổ cứng 1TB thì tốn thêm bao nhiêu tiền?,1,0,1
+RAM 16GB quà tặng có thể nâng cấp máy lên 26GB không?,0,0,1
+Máy này nâng cấp RAM 32GB và ổ cứng 1TB giá bao nhiêu?,0,0,1
+Máy này có thể nâng cấp RAM lên 32GB và thêm ổ cứng 2TB tại CellphoneS không?,0,0,1
+Nâng cấp lên 16GB RAM được không?,0,0,1
+Máy này dùng loại RAM nào?,0,0,1
+máy dùng loại RAM gì,0,0,1
+"Con này không nâng RAM được đúng không, còn con Ultra 5 226V nâng được RAM đúng không?",0,0,1
+"Asus S14 U7 có cài sẵn Microsoft Excel, Word, PowerPoint không?",0,0,1
+Máy có cảm ứng không?,0,0,1
+Ưu nhược điểm của máy này là gì?,0,1,1
+Máy có được tặng Microsoft Office vĩnh viễn không?,0,0,1
+laptop này có nâng cấp RAM được không?,0,0,1
+"máy này dùng được cho AutoCAD, ChemDraw, Origin không?",0,1,0
+Sử dụng laptop này chuyên cho file Excel nặng được không?,0,1,0
+Máy có hỗ trợ cài MS Office vĩnh viễn không?,0,0,1
+Máy có cài sẵn Office bản 1 năm không?,0,0,1
+"Máy này cài được Power BI, AI, Photoshop và edit video không?",0,1,0
+máy này tần số quét màn hình bao nhiêu Hz,0,0,1
+Vỏ ngoài bằng nhựa hay kim loại?,0,0,1
+bản này có đèn LED không?,0,0,1
+Máy này học thiết kế đồ họa có sử dụng ổn không?,0,1,0
+Máy đã cài sẵn Windows chưa?,0,0,1
+laptop này cài game audition được không,0,1,0
+Máy này có nâng cấp RAM lên 16GB được không?,0,0,1
+Máy có cài sẵn Windows 11 Home khi mua mới không?,0,0,1
+Máy có quạt tản nhiệt không?,0,0,1
+Máy có nâng cấp RAM và ổ cứng được không?,0,0,1
+Thời lượng pin bao nhiêu tiếng?,0,0,1
+máy có thể nâng cấp ổ cứng được không,0,0,1
+Máy này nâng cấp CPU và RAM được không?,0,0,1
+Pin dùng được bao lâu khi không cắm sạc?,0,0,1
+máy này có hỗ trợ nâng cấp RAM lên 16GB không?,0,0,1
+"Máy nào có hiệu năng, màn hình, đồ họa tương tự và pin tốt hơn?",0,1,1
+hỗ trợ cân màu màn hình không,0,0,1
+Sản phẩm này có thời lượng pin bao lâu?,0,0,1
+RAM được tặng có lắp vào máy được không?,0,0,1
+Con này chơi được GTA V không?,0,1,1
+Có thể thay CPU R5 7535HS thành i5 12500H không?,0,0,1
+RAM tặng lúc mua có được lắp sẵn trong máy không?,0,0,1
+Nâng cấp RAM tại chỗ bán được không và nâng cấp RAM nào để chạy dual channel?,0,0,1
+Có nâng RAM tại điểm bán được không?,0,0,1
+Con này có MUX Switch không?,0,0,1
+RTX 4050 tiêu thụ bao nhiêu W điện?,0,0,1
+Nâng cấp thêm 512GB bộ nhớ giá bao nhiêu?,0,0,1
+Nâng thêm 8GB bao nhiêu tiền?,1,0,1
+Lắp thêm RAM có còn được bảo hành chính hãng không?,0,0,1
+"Máy khởi động chậm, màn hình đen sau khi nhập mật khẩu, nguyên nhân là gì?",0,0,1
+Loại này sạc cổng Type-C được không và bao nhiêu W?,0,0,1
+Máy này có cài sẵn Windows 11 Home không?,0,0,1
+Bộ Microsoft Office đi kèm máy là phiên bản dùng thử hay vĩnh viễn?,0,0,1
+Dell Inspiron 15 3520 8D10NK và Dell Inspiron 15 3520 71045026 có những điểm gì khác nhau?,0,0,1
+Loại này mới chính hãng hay cũ?,0,0,1
+máy này có phù hợp với thiết kế đồ họa không?,0,1,0
+"Máy này có cài được Microsoft Office, Power BI, AI, PS không?",0,1,1
+Máy này dùng để thiết kế đồ họa có ổn không?,0,1,0
+Sản phẩm có bút không?,0,0,1
+Bản lề 360 có tuổi thọ bao nhiêu năm?,0,0,1
+"máy chạy phần mềm revit, d5 render có ổn không?",0,1,0
+Máy này chạy phần mềm đồ họa kỹ thuật ô tô có ổn không?,0,1,0
+"Tại sao cùng một sản phẩm và cấu hình, các bên khác bán card đồ họa Intel Iris Xe tích hợp, còn bên mình lại là card Intel UHD Graphics?",0,0,1
+Dòng Dell Vostro 3520 này chạy các phần mềm của Adobe có được không? Chạy có êm mượt không?,0,1,0
+"So với Dell Vostro 3520, máy nào chạy đồ họa nhẹ nhàng hoặc chỉnh ảnh tốt hơn?",0,1,0
+Sự khác biệt giữa con này và Laptop Dell Vostro 3520 thường là gì?,0,0,1
+Máy này nâng cấp ổ cứng được không,0,0,1
+Laptop này hỗ trợ nâng cấp tối đa RAM và ổ cứng bao nhiêu?,0,0,1
+Máy này có thể nâng cấp RAM và bộ nhớ tối đa bao nhiêu?,0,0,1
+máy này có đèn led không?,0,0,1
+Máy Vaio FE14 nặng bao nhiêu và bàn phím có đèn không?,0,0,1
+Dòng FE này có chơi được game cấu hình cao không?,0,1,0
+Vỏ Laptop Vaio FE 14 VWNC51427 bằng nhựa hay kim loại? Pin dùng khi xem phim được bao lâu?,0,0,1
+Máy này chơi được game FC Online không?,0,1,0
+máy này vẽ autocad được không?,0,1,0
+Máy này nâng cấp dung lượng RAM được không?,0,0,1
+Máy này có nâng cấp bộ nhớ và hỗ trợ thêm khe SSD không?,0,0,1
+"Máy này có đèn bàn phím không, có đáp ứng nhu cầu học lập trình và chơi game nhẹ không, và nên mua loại nào dưới 20 triệu?",1,1,1
+máy này dùng để làm đồ họa 3D ổn không?,0,1,0
+Máy nào ổn hơn giữa máy này và Acer Gaming Aspire 5 A515-58GM-53PZ?,0,1,0
+Con này dùng văn phòng với chơi lol được không?,0,1,0
+máy này có nâng cấp RTX 2050 lên RTX 3050 không,0,0,1
+"Gigabyte G5 MF (Core i5-12450H, 16GB, 512GB, RTX 4050 6GB, 15.6 FHD 144Hz) thu lại tầm giá bao nhiêu?",1,0,0
+USB-C có hỗ trợ Thunderbolt hay DP không?,0,0,1
+máy này có gắn thêm RAM không?,0,0,1
+Thời lượng pin của laptop với CPU i5 12450HP và pin 4 Cell 54Whrs là bao lâu?,0,0,1
+i5 12450H có chơi được game Baldur Gate 3 không?,0,1,1
+mẫu laptop nhẹ và nâng cấp được RAM,0,1,1
+Máy có thể chơi các game như Free Fire và Genshin Impact được không?,0,1,0
+"Máy có thể chơi game Free Fire và xử lý tác vụ nặng chỉnh sửa ảnh, video không?",0,1,0
+Máy này có gắn bàn phím rời có USB và chuột rời có USB cùng lúc được không?,0,0,1
+Củ sạc Laptop ASUS Vivobook S 16 S5606CA-RI114WS chân tròn hay dẹt?,0,0,1
+"Dell vostro 3520 vỏ nhựa hay kim loại, bàn phím có đèn không?",0,0,1
+"Free OS có dùng như Windows 11 không, hay có tốn phí nâng cấp không?",0,0,1
+Cấu hình này chỉnh sửa video có ổn mượt không?,0,1,0
+Chi phí mua Laptop Dell Vostro 3520 i7 và nâng cấp lên 16GB RAM là bao nhiêu?,1,0,1
+Laptop nào tầm giá dưới 17 triệu mỏng nhẹ dùng văn phòng ổn định?,1,1,0
+Máy này chơi game ổn không,0,1,0
+"Laptop này có chạy được các chương trình viết code, visual hình ảnh, SQL Server, Python, Power BI không? Chip mới có phù hợp không?",0,1,0
+Giá bao nhiêu?,1,0,0
+Chơi Liên Minh setting thấp được không?,0,1,0
+Máy này dùng để chơi Valorant có ổn không?,0,1,0
+Màn hình bao nhiêu % RGB?,0,0,1
+Máy này phần kê tay bằng kim loại hay nhựa?,0,0,1
+Nâng cấp ổ cứng 500GB có mất bảo hành không? Giá bao nhiêu?,0,0,1
+Giá máy khi tính đủ VAT là bao nhiêu tiền?,1,0,0
+Giá còn bao nhiêu nếu không khuyến mãi?,1,0,0
+máy này có ổn cho ngành công nghệ thông tin không?,0,1,0
+Con này có gì khác với Laptop MSI Modern 14 B11MOU-1027VN?,0,0,1
+Giá nâng SSD 256GB lên 512GB là bao nhiêu?,0,0,1
+Loại này giá bao nhiêu và có chi phí phát sinh gì thêm không?,1,0,0
+vừa sạc vừa dùng có hại cho pin không?,0,0,1
+Có màu blue stone không?,0,0,1
+Máy chơi game nhẹ như Liên Minh được không?,0,1,0
+Pin làm văn phòng được bao lâu?,0,1,1
+Chip U5 226V có mạnh không?,0,0,1
+Màn hình của máy này có đẹp không?,0,0,1
+máy này sẵn 2 thanh RAM 8GB hay 1 thanh 16GB?,0,0,1
+"So sánh Asus gaming tuf A15 r5 rtx4060 và Lenovo Loq 15 i5 rtx4050, con nào ít ồn và mát hơn, màn hình cái nào chuẩn hơn cho học đồ họa?",0,1,1
+Máy này có lỗi driver và lỗi vặt nhiều không?,0,0,1
+Tỉ lệ màn hình con này bao nhiêu?,0,0,1
+RTX 4060 trên dòng máy này có bị nhà sản xuất giới hạn điện năng không?,0,0,1
+Thời lượng pin khi chơi game tầm trung như Liên Minh như thế nào?,0,0,1
+nâng cấp lên 32GB RAM giá bao nhiêu,0,0,1
+Ram 16GB là 2 thanh 8GB hay 1 thanh 16GB?,0,0,1
+Card đồ họa tiêu thụ tối đa bao nhiêu watt?,0,0,1
+Máy này học thiết kế đồ họa được không?,0,1,0
+máy này có sRGB 100% không?,0,0,1
+Card 4060 tiêu thụ bao nhiêu W điện?,0,0,1
+Máy này chơi được PUBG PC không?,0,1,0
+máy này chơi Genshin Impact được không?,0,1,0
+MateBook D15 có công suất sạc là bao nhiêu?,0,0,1
+Chất liệu khung là gì?,0,0,1
+Máy ra mắt năm nào?,0,0,1
+Máy R7-5700u pin được mấy tiếng?,0,0,1
+Máy này chơi FC Online setting trung bình ổn không?,0,1,0
+Máy này chơi Liên Minh Huyền Thoại cấu hình cao được không?,0,1,0
+Ryzen 7 lên RAM được không?,0,0,1
+Nâng cấp lên 32GB giá bao nhiêu?,1,0,1
+"Laptop này có dùng để học, edit video, làm đồ họa max setting và làm video TikTok được không?",0,1,0
+Có nâng cấp RAM và SSD được không?,0,0,1
+Máy này có gập 360 độ không?,0,0,1
+Có tháo rời pin không?,0,0,1
+laptop có bàn phím số và đèn bàn phím không?,0,0,1
+Máy này có thể nâng ổ cứng lên 1TB không?,0,0,1
+Con này nâng cấp ổ cứng được không,0,0,1
+màn hình máy bao nhiêu Hz?,0,0,1
+máy này có chơi được game Valorant hoặc Genshin Impact không?,0,1,0
+Laptop này dùng loại pin gì? Có nên vừa cắm sạc vừa sử dụng khi pin đầy 100% không và nên sử dụng laptop như thế nào để không ảnh hưởng đến tuổi thọ pin?,0,0,1
+Nhựa hay nhôm?,0,0,1
+Laptop này chạy thiết kế 2D mượt mà không?,0,1,0
+i5 của máy chơi game có ổn định không,0,1,1
+laptop này có mấy khe RAM và hỗ trợ tối đa bao nhiêu RAM?,0,0,1
+Máy ban đầu có 2 thanh RAM hay 1 thanh?,0,0,1
+laptop này chơi được game honkai star rail không?,0,1,0
+Máy này có chơi được Honkai Star Rail ở mức trung bình không?,0,1,0
+Máy có chơi được game Hogwarts Legacy không?,0,1,0
+Mẫu này bảo hành bao lâu?,0,0,1
+Độ phủ màu bao nhiêu,0,0,1
+Pin dùng được bao lâu,0,0,1
+Hỗ trợ bật tính năng Ảo Hóa VT trên Laptop Gaming Acer Nitro 5 Eagle AN515-57-720A.,0,0,1
+Máy này nâng cấp RAM 8GB có chơi Elden Ring không?,0,1,1
+Máy chơi được Call of Duty không?,0,1,0
+"RTX 3050 Ti và RTX 3060, bên nào mạnh hơn?",0,0,1
+độ phủ màu bao nhiêu,0,0,1
+Chi phí nâng cấp thêm 1TB HDD và 1 thanh RAM 8GB là bao nhiêu?,1,0,1
+máy này bao gồm những gì,0,0,1
+Máy có cài Office không?,0,0,1
+Máy này chơi Mortal Kombat và làm văn phòng có tốt không?,0,1,0
+Con này có cổng kết nối với màn rời không?,0,0,1
+Tặng RAM bus 4800 MHz cho laptop RAM bus 5200 MHz có hợp lý không?,0,0,1
+Máy có mấy khe SSD?,0,0,1
+nâng RAM laptop có mất bảo hành không,0,0,1
+Có bản 16GB 3050 Ti không và giá cho sinh viên hiện tại là bao nhiêu?,1,0,1
+Máy nâng cấp SSD lên 1TB được không?,0,0,1
+Hỗ trợ nâng RAM và giá bao nhiêu?,0,0,1
+máy này nâng cấp tối đa bao nhiêu RAM?,0,0,1
+pin tối đa bao nhiêu giờ,0,0,1
+Legion 5 bản này là năm bao nhiêu?,0,0,1
+Nâng cấp thêm RAM có làm mất bảo hành không?,0,0,1
+Con này có mấy khe SSD?,0,0,1
+Hàng mới 100%?,0,0,1
+Hàng nguyên seal đúng không?,0,0,1
+Pin laptop này dùng được bao lâu và khi sạc đầy 100% có chuyển sang dùng điện trực tiếp không?,0,0,1
+máy giá bao nhiêu,1,0,0
+Màn hình máy này có đạt 100% sRGB không?,0,0,1
+Tự nâng cấp RAM có làm mất bảo hành không?,0,0,1
+Nitro 5 có 1 quạt hay 2 quạt?,0,0,1
+Con này chơi Fo4 mượt không?,0,1,0
+Máy này có sẵn Windows chưa?,0,0,1
+Giá Macbook Air M3 8GB hiện tại là bao nhiêu?,1,0,0
+Màn hình nào có độ phân giải 4k hỗ trợ cổng USB-C?,0,0,1
+"Nên dùng Air M2 hay M3 cho văn phòng cơ bản và vẽ 2D, dung lượng RAM bao nhiêu GB?",0,1,1
+Có GPU 10 lõi không?,0,0,1
+Macbook Air M2 16GB 256GB hay M3 8GB 256GB tốt hơn cho học tập và văn phòng?,0,1,1
+Có bao gồm cài MS không?,0,0,1
+Còn màu bạc không?,0,0,1
+Máy này có dây sạc đi kèm không?,0,0,1
+Máy này có chạy Davinci được không?,0,1,1
+Máy này có thay RAM 8GB lên 16GB hoặc 32GB được không?,0,0,1
+pin dùng được bao lâu,0,0,1
+học thiết kế đồ họa có nên mua Macbook Air M1 không?,0,1,0
+"Học báo chí, edit cơ bản Capcut Premiere thì RAM 8GB, SSD 256GB có ổn không?",0,1,0
+Máy này có hỗ trợ cài phần mềm MathType không?,0,0,1
+máy mới mua dùng 5 tiếng hết pin có sao không?,0,0,1
+Đổi từ laptop MSI sang Macbook Air M1 cần bù thêm bao nhiêu tiền?,1,0,0
+mua mac có được tặng kèm Microsoft không?,0,0,1
+Phần cứng có nâng cấp được không?,0,0,1
+hàng bên mình là hàng Mỹ phải không?,0,0,1
+Máy Macbook Pro M1 2020 có hỗ trợ Office bản quyền không hay phải tự mua thêm?,0,0,1
+máy có chống nước không?,0,0,1
+Mac Pro này có chạy mượt ứng dụng Minitab vẽ đồ thị không?,0,1,1
+Mac vẽ AutoCAD được không?,0,1,0
+Máy hỗ trợ Bluetooth phiên bản nào?,0,0,1
+Máy có hỗ trợ cài lại Windows không?,0,0,1
+Máy đi kèm sạc 175W có được hỗ trợ nâng cấp sạc lên công suất cao hơn không?,0,0,1
+"Có bản Core i5, RAM 16GB, RTX 3050 không?",0,0,1
+Bàn phím LOQ LED trắng có thể cập nhật LED nhiều màu như Legion được không?,0,0,1
+Có hỗ trợ nâng cấp RAM tại cửa hàng không?,0,0,1
+Chi phí nâng cấp RAM cho Laptop Lenovo LOQ 15IAX9 83GS001RVN lên 16GB hoặc 24GB là bao nhiêu?,0,0,1
+Shop có RAM 12GB không và giá lắp thêm là bao nhiêu?,1,0,1
+"cần đem theo những gì để đăng ký trả góp và giá trả trước, tiền trả góp hàng tháng là bao nhiêu?",1,0,0
+Chơi game mượt không?,0,1,0
+Máy này có nâng cấp RAM từ 12GB lên được không?,0,0,1
+Giá laptop này bao nhiêu?,1,0,0
+Sạc bao nhiêu Wh?,0,0,1
+Khi tháo máy để nâng cấp RAM và SSD có bị mất bảo hành hãng không?,0,0,1
+Vivobook Laptop Asus X421EAY_A415EA thu cũ giá bao nhiêu,1,0,0
+"Máy này đã cài sẵn Word, Excel chưa?",0,0,1
+Lenovo LOQ i5 RTX 3050 nâng cấp thêm 8GB RAM tốn bao nhiêu phí?,0,0,1
+MacBook Air M3 16GB/512GB mua với hssv giảm còn bao nhiêu?,1,0,0
+Giá cuối cùng của Macbook M3 16GB 512GB là bao nhiêu?,1,0,0
+Nâng cấp M3 Air 16GB 256GB lên 16GB 512GB tốn thêm bao nhiêu tiền?,1,0,0
+giá hiện tại cho sinh viên là bao nhiêu,1,0,0
+"Giá laptop cho sinh viên bao nhiêu, loại 8GB và 16GB?",1,0,1
+"Có cài sẵn Excel, Word, PowerPoint bản quyền không?",0,0,1
+Mac Pro M2 16GB 256GB giá bao nhiêu?,1,0,0
+Độ chai pin giảm 8% sau 6 tháng sử dụng có ổn không?,0,0,1
+M2 13 inch tại Long An giá bao nhiêu?,1,0,0
+"Giá còn 29,6 triệu không?",1,0,0
+Touchpad của laptop bị ngắt kết nối và hoạt động lại thất thường là do đâu?,0,0,1
+tần số quét màn hình là bao nhiêu,0,0,1
+Bàn phím này có đèn LED không?,0,0,1
+RAM có nâng cấp lên 32GB được không?,0,0,1
+Ổ cứng SSD của Dell Inspiron 15 5000 series i5 có lắp vào máy này được không?,0,0,1
+Chơi lol ổn không?,0,1,0
+"Máy này chạy được lập trình, Auto Cad không?",0,1,0
+máy này có hỗ trợ mở khóa vân tay không,0,0,1
+"Máy Ideapad Slim 5i (14,8) có Face ID không?",0,0,1
+Góp máy này cần trả trước bao nhiêu?,1,0,0
+Máy này có đèn LED ở bàn phím không?,0,0,1
+Giá này đã bao gồm Office chưa?,0,0,1
+NVIDIA GeForce RTX 3050 bao nhiêu W? Có thể bung hết hiệu năng không?,0,0,1
+TUF F15 có thể lắp thêm 1 thanh RAM không?,0,0,1
+máy này nâng cấp lên RAM 16GB hoặc 32GB bao nhiêu tiền?,1,0,1
+Máy này hỗ trợ tối đa bao nhiêu RAM và cách nâng cấp từ 8GB lên 16GB như thế nào?,0,0,1
+Chất liệu là gì?,0,0,1
+máy có sẵn hệ điều hành bản quyền chưa?,0,0,1
+Giá nâng cấp RAM từ 8GB lên 16GB cho Asus TUF F15 RTX 3050 bao nhiêu?,0,0,1
+Laptop này có nâng cấp RAM được không?,0,0,1
+TGP của RTX 3050 trên máy này là bao nhiêu?,0,0,1
+Giá RAM 8GB của máy này là bao nhiêu?,1,0,1
+Giá nâng cấp RAM 8GB theo diện S-student là bao nhiêu?,1,0,1
+Sản phẩm này có mức giá bao nhiêu?,1,0,0
+"Máy tính nào chơi game mượt mà, học thiết kế đồ họa dưới 20 triệu?",1,1,0
+Máy này có tăng được độ sáng màn hình không?,0,0,1
+Máy này đời 2022 hay 2023?,0,0,1
+Sản phẩm này còn màu khác không?,0,0,1
+Mac M3 15 inch sạc công suất bao nhiêu?,0,0,1
+máy này có khe đọc thẻ nhớ không,0,0,1
+"Tại sao bật máy chỉ có đèn led phím và nút Caps Lock sáng, còn màn hình thì tối đen?",0,0,1
+cửa hàng có dịch vụ nâng cấp RAM không?,0,0,1
+Có thể nâng cấp từ card 2050 lên 3050 không và cửa hàng có hỗ trợ nâng cấp không?,0,0,1
+Máy này có nâng RAM được không?,0,0,1
+Máy nâng thành 16GB RAM thì giá bao nhiêu?,1,0,0
+Máy có dư một ổ SSD M.2 để nâng cấp không?,0,0,1
+ram 8gb giá bao nhiêu,1,0,0
+Máy này có nâng ổ cứng lên 1TB được không và giá nâng là bao nhiêu?,0,0,1
+"Nên chọn laptop nào cho việc học luật và tác vụ văn phòng mượt mà, dưới 20 triệu?",1,1,0
+Laptop gaming có học tập ổn không?,0,1,0
+Laptop Acer Nitro 5 Tiger AN515 58 773Y có cổng HDMI không?,0,0,1
+quạt tản nhiệt của laptop này có ồn không?,0,0,1
+"Laptop nào cho sinh viên đồ họa, tầm giá 18-24 triệu?",1,1,0
+Cấu hình i7 RTX 3050Ti nâng lên 32GB RAM và 2TB SSD hết bao nhiêu tiền?,1,0,1
+"Acer Nitro 5 Tiger i7 12700H và Acer Nitro 5 Tiger i5 12450H, cái nào tốt hơn?",0,1,1
+Màn hình con này được 100% sRGB không?,0,0,1
+máy này chơi được Palworld không?,0,1,0
+Laptop này chơi được Black Myth: Wukong hay Genshin Impact không?,0,1,0
+Máy chơi ARK được không?,0,1,0
+Tự nâng RAM có mất bảo hành không?,0,0,1
+độ phủ màu sRGB của máy là bao nhiêu?,0,0,1
+Độ phủ màu sRGB của máy là bao nhiêu?,0,0,1
+Máy có mấy quạt tản nhiệt,0,0,1
+Nâng cấp RAM từ 8GB lên 16GB có sẵn không?,0,0,1
+"Sản phẩm còn mới, fullbox 100% không?",0,0,1
+laptop này có thể sạc bằng type C được không?,0,0,1
+Sản phẩm có bảo hành bao lâu?,0,0,1
+sản phẩm này có mux switch hay advanced optimus không?,0,0,1
+Có hỗ trợ lắp đặt RAM không?,0,0,1
+Đang sử dụng có nên rút dây sạc pin laptop không?,0,0,1
+Laptop ASUS TUF Gaming A15 FA506NC-HN011W có cài sẵn Windows không?,0,0,1
+"Nâng cấp thêm 1 thanh RAM 8GB, chọn thông số nào tối ưu?",0,0,1
+Laptop ASUS TUF Gaming A15 FA506NC-HN011W 3050 có hỗ trợ mux switch không?,0,0,1
+pin dùng được bao nhiêu tiếng?,0,0,1
+Giá sau khi nâng thêm 8GB RAM là bao nhiêu cho S-Student?,1,0,1
+RTX 3050 trên máy này chạy tối đa bao nhiêu Watt?,0,0,1
+Máy này gắn thêm RAM được không?,0,0,1
+Hỗ trợ nâng cấp lên 1TB dữ liệu và giá sau nâng cấp là bao nhiêu?,0,0,1
+Máy Laptop MSI Modern 15 B7M-238VN R7-7730U/16GB/512GB PCIE/15.6 FHD có hỗ trợ nâng cấp RAM không và tối đa bao nhiêu GB?,0,0,1
+"máy này có cài sẵn Excel, Word và đèn bàn phím không?",0,0,1
+"Sản phẩm này SSD 512GB, nâng thêm dung lượng lưu trữ tối đa bao nhiêu và có thể gắn thêm 1 thanh SSD nữa không?",0,0,1
+nâng cấp card đồ họa không ?,0,0,1
+Máy nâng cấp được RAM không?,0,0,1
+laptop có nâng cấp được SSD không?,0,0,1
+Máy này có cài sẵn Word và Excel không?,0,0,1
+Máy này có hỗ trợ nâng cấp bộ nhớ không?,0,0,1
+"Dùng PTS, AI, Illustrator có ổn không?",0,1,0
+thời gian sử dụng pin của máy,0,0,1
+Laptop này có phù hợp cho sinh viên ngành truyền thông đa phương tiện không?,0,1,0
+Mẫu này chơi LOL và edit nhẹ được không?,0,1,0
+Gắn thêm SSD dùng loại nào? Có phải SSD M.2 PCIe không?,0,0,1
+Máy làm data đáp ứng tốt không?,0,1,0
+Màn hình laptop này có thể mở bao nhiêu độ?,0,0,1
+Con này có nâng thêm ổ cứng được không?,0,0,1
+độ sáng màn hình bao nhiêu,0,0,1
+mẫu này có mấy khe RAM?,0,0,1
+Bản này là xách tay hay chính hãng? Có bảo hành 3s1 khi mua mới không?,0,0,1
+Có hỗ trợ lắp thêm RAM với ổ cứng không?,0,0,1
+máy này có kết nối được nhiều thiết bị bluetooth cùng lúc không?,0,0,1
+Nitro 5 i7 RTX 4050 512GB giá bao nhiêu?,1,0,0
+Chọn cấu hình i7 RTX 3050 hay i5 RTX 4050 cho sinh viên kỹ thuật?,0,1,1
+Giá cuối cùng phải trả là 19.990.000 hay có tính thêm phí gì không?,1,0,0
+Card đồ họa Acer Nitro 5 công suất bao nhiêu W?,0,0,1
+Laptop này giá bao nhiêu,1,0,0
+Mac Pro M2 13-inch lên Mac Air M3 15-inch bù bao nhiêu?,1,0,0
+MacBook Air M2 16GB 512GB lên MacBook Pro 14 inch M3 16GB 512GB cần thêm bao nhiêu tiền?,1,0,0
+Máy có bản 1 TB không?,0,0,1
+Máy này còn màu space black không?,0,0,1
+"RAM máy này có dính liền không, SSD có nâng cấp lên 1TB được không?",0,0,1
+"Máy có sẵn phần mềm văn phòng như Word, Excel, PowerPoint không?",0,0,1
+"Có phiên bản R7 7730U, 16GB RAM, màn hình 14 inch không?",0,0,1
+Con này chơi game FIFA on được không?,0,1,0
+Máy này có bị hở sáng như phiên bản đời trước không và con 3060 bao nhiêu W?,0,0,1
+Nếu không cắm sạc thì thời gian sử dụng tầm bao nhiêu tiếng?,0,0,1
+máy có hỗ trợ màn hình 2K 180Hz không?,0,0,1
+Máy này có hỗ trợ DisplayPort không?,0,0,1
+Card rời 3060 trên máy bao nhiêu W?,0,0,1
+RTX 3060 dùng được khoảng bao nhiêu tiếng khi đầy pin?,0,0,1
+RTX 3060 bao nhiêu W?,0,0,1
+RTX 3060 là hàng chính hãng hay hàng xách tay?,0,0,1
+Bàn phím Nitro 5 Tiger RTX 3060 có led RGB hay một màu?,0,0,1
+Máy chạy GPU bao nhiêu watt?,0,0,1
+Laptop Acer Nitro 5 Tiger AN515-58-50D2 i5 12500H RTX 3060 đời máy nào?,0,0,1
+Máy Acer Nitro 5 Tiger bản RTX 3060 là máy mới hay đã qua sử dụng?,0,0,1
+MSI Modern 14 C13M-607VN giá bao nhiêu,1,0,0
+Máy này có thể gập 180 độ không?,0,0,1
+Giá hiện tại là bao nhiêu?,1,0,0
+"Con này có phù hợp với các ứng dụng như AutoCAD, SolidWorks, vẽ đồ họa không?",0,1,0
+Con này giảm còn bao nhiêu?,1,0,0
+Macbook Air M1 16GB/256GB Grey muốn đổi lên máy này cần bù thêm bao nhiêu?,1,0,0
+Máy này làm đồ họa 3D bằng Maya Blender được không?,0,1,0
+"Pin của laptop i7 như thế nào, dùng liên tục được khoảng bao nhiêu giờ?",0,0,1
+giá thu cũ máy Asus X1502ZA i7 1260P/16GB/512GB/15.6F/Win11/(EJ582W)/Bạc là bao nhiêu?,1,0,0
+Giá đổi cũ mua mới máy Asus Vivobook Flip 14 khoảng bao nhiêu?,1,0,0
+Máy này có nâng được RAM lên 64GB không?,0,0,1
+Máy này có ứng dụng văn phòng không?,0,1,0
+chi phí lắp thêm 1 thanh RAM 8GB là bao nhiêu?,0,0,1
+Sản phẩm này cài win bản quyền không?,0,0,1
+giá dành cho sinh viên là bao nhiêu?,1,0,0
+Máy này có ổn cho xử lý dữ liệu văn phòng không?,0,1,0
+"HP Victus 15 và TUF A15 cùng cấu hình, máy nào toàn diện hơn?",0,1,1
+Laptop HP Gaming Victus 15-FB1022AX 94F19PA có sẵn phần mềm MS 11 hay phải mua riêng?,0,0,1
+HP Victus 15 2023 màu bạc giá cho sinh viên bao nhiêu?,1,1,0
+Máy này có dùng được 3-4 năm không?,0,1,0
+Laptop này có độ bền chuẩn quân đội không?,0,0,1
+Máy có nâng RAM được không?,0,0,1
+"Máy này có Windows bản quyền, Office và bút cảm ứng không?",0,0,1
+laptop có cài sẵn Windows bản quyền không,0,0,1
+"Asus Vivobook 15 và Go 15, con nào tốt hơn?",0,1,0
+Máy có nâng RAM được không? Màn hình có bị chói không?,0,0,1
+"Nâng cấp SSD 1TB cho Laptop HP Pavilion X360 14-ek2027TU, nên chọn ổ nào?",0,0,1
+MacBook M3 Pro màu đen có không?,0,0,1
+Máy có cài sẵn Office không và giá bao nhiêu?,1,0,1
+Máy có cài Office không và giá bao nhiêu?,1,0,1
+Giá bao nhiêu với hình thức trả góp?,1,0,0
+Dòng máy này có 36GB RAM không?,0,0,1
+Đổi từ M1 16 inch 1TB lên máy này cần thêm bao nhiêu tiền?,1,0,0
+Hiện tại giá là bao nhiêu?,1,0,0
+Macbook M2 Pro 16GB RAM màn hình 14 inch giá bao nhiêu?,1,0,1
+Macbook 14 Pro 2021 (16GB | 512GB) bù bao nhiêu khi thu cũ đổi mới?,1,0,0
+Macbook Pro M1 16/256gb đổi sang Macbook Pro M3 Pro 18/512gb bù bao nhiêu tiền?,1,0,0
+máy Core i mấy?,0,0,1
+Macbook Pro M2 13 inch 16Gb RAM - 512Gb SSD lên đời máy này bù bao nhiêu tiền?,1,0,0
+Giá bản màu xám 1TB cho sinh viên là bao nhiêu?,1,0,1
+Sản phẩm này có SSD 512GB không?,0,0,1
+Máy này có 32GB RAM không?,0,0,1
+Mac Pro M2 13 inch có Touch Bar không và tần số quét màn hình là bao nhiêu?,0,0,1
+MacBook Pro sạc 7 lần đã chai 97.7% có sao không?,0,0,1
+Máy chưa bóc hộp có đổi sang Windows được không?,0,0,1
+"MacBook Pro 13 M2 2022 8GB 256GB có xử lý đồ họa (Photoshop, Illustrator, Blender 3D) và chơi game (PUBG, LOL) ổn không?",0,1,0
+Mac Air 128GB đời 2015 nâng cấp lên Mac Pro 13 M2 16GB-256GB cần bù bao nhiêu tiền?,1,0,0
+"MacBook Pro 13 M2 2022 16GB 256GB có xử lý tốt đồ họa Photoshop, Illustrator, 3D Blender không?",0,1,0
+Bản 16GB 250GB giá bao nhiêu?,1,0,0
+Mac Pro 14 16GB RAM 256GB giá bao nhiêu?,1,0,0
+Độ sáng màn hình và độ phủ màu có tùy chỉnh được không?,0,0,1
+Asus này có vân tay không?,0,0,1
+máy này dùng cho đồ họa nặng có ổn không,0,1,0
+có màu bạc không?,0,0,1
+Chơi Genshin Impact cấu hình cao được không?,0,1,0
+Máy này nâng cấp RAM lên 32GB được không?,0,0,1
+Máy chơi CS:GO có mượt không?,0,1,0
+máy này có màu nào khác ngoài đen không,0,0,1
+màn hình gập 180 độ được không?,0,0,1
+Thời lượng pin khi xem YouTube của máy này là bao lâu?,0,0,1
+Máy này dùng Photoshop có ổn không?,0,1,0
+"i5 có nâng cấp RAM và SSD được không, nâng cấp RAM tối đa bao nhiêu, SSD tối đa bao nhiêu?",0,0,1
+Core i 5 có màu xám không?,0,0,1
+Máy này có hỗ trợ cài file Office không?,0,0,1
+Máy này có nâng cấp RAM không và có thể nâng cấp lên 32GB không?,0,0,1
+Máy vỏ nhựa có mỏng quá không?,0,0,1
+máy này học và chơi game tốt không?,0,1,0
+Máy có màu bạc không?,0,0,1
+Máy có chạy được AutoCAD không?,0,1,0
+Còn màu xám không?,0,0,1
+Con này là newseal hay open box?,0,0,1
+Máy này có đáp ứng tốt nhu cầu edit nhiều file 4k 10 bit trong thời gian dài không?,0,1,0
+"Máy này mới, cũ hay refurbished?",0,0,1
+Thời lượng sử dụng pin cho công việc lập trình trên dòng M1 Max khoảng bao nhiêu?,0,1,1
+Giá 55 triệu cho Macbook M1 Max có thật không?,1,0,0
+Khi mua M1 Max có cài đặt bộ Adobe miễn phí không và có mã LL không?,0,1,1
+Bản cao nhất có thể cộng thêm 64GB RAM không?,0,0,1
+Laptop ASUS TUF Gaming F15 FX507VV-LP157W có card đồ họa rời không?,0,0,1
+"So sánh Laptop Asus ROG Strix G16 G614JU-N3135W-Xám và Laptop ASUS TUF Gaming F15 FX507VV-LP157W, con nào tốt và toàn diện hơn?",0,1,0
+pin liền là gì?,0,0,1
+ổ cứng có nâng cấp được không?,0,0,1
+máy này gập được mấy độ,0,0,1
+Laptop này hỗ trợ nâng cấp SSD tối đa bao nhiêu?,0,0,1
+Mẫu Laptop ASUS TUF Gaming F15 FX507VV-LP157W hỗ trợ nâng tối đa bao nhiêu RAM?,0,0,1
+máy này dùng tấm nền gì,0,0,1
+Giá khi không lấy quà tặng là bao nhiêu?,1,0,0
+Trừ hết quà khuyến mãi thì giá còn bao nhiêu?,1,0,0
+Acer Nitro 5 Eagle AN515-57-54MV có hỗ trợ Thunderbolt 4 không?,0,0,1
+Laptop Gaming Acer Nitro 5 Eagle AN515-57-54MV có nâng cấp RAM lên 16GB không?,0,0,1
+Laptop Acer Nitro 5 Eagle AN515-57-54MV có bao nhiêu %sRGB?,0,0,1
+Màu sắc hiển thị trên màn hình Acer Nitro 5 Eagle AN515-57-54MV là bao nhiêu %sRGB?,0,0,1
+Máy này có chơi được PUBG PC không?,0,1,0
+máy có hỗ trợ cho sinh viên không?,0,1,0
+"Độ phủ màu có chính xác khi làm đồ họa, chỉnh sửa hình ảnh không?",0,1,1
+Cổng Type-C trên máy này có dòng điện ra bao nhiêu W?,0,0,1
+Nâng cấp SSD 1TB có những loại nào?,0,0,1
+mainboard máy này có thể thay card wifi được không,0,0,1
+Máy có xuất ra màn hình rời 32 inch 4K được không?,0,0,1
+Máy còn trống khe SSD nào?,0,0,1
+Nên mua loại RAM nào để nâng cấp máy này?,0,0,1
+Giá tổng cộng của máy này khi đã giảm giá sinh viên và nâng cấp thêm 8GB RAM là bao nhiêu?,1,0,1
+Máy này có thay pin được không?,0,0,1
+Máy này có thể thay thanh RAM cũ bằng 2 thanh 8GB 3200MHz không?,0,0,1
+máy có GTX 1650 học IT chơi game có ổn không?,0,1,0
+laptop này dùng học thiết kế đồ họa ổn không?,0,1,0
+Laptop ASUS Gaming TUF FX506LHB-HN188W bản i5 10300H có thể lắp thêm SSD không?,0,0,1
+Loại RTX 2050 có nâng cấp RAM được không?,0,0,1
+Type-C có hỗ trợ DisplayPort xuất màn hình rời 4K60Hz không và laptop có hỗ trợ xuất nhiều màn hình rời không?,0,0,1
+Máy có thể lắp thêm các loại RAM nào?,0,0,1
+Mua trả góp 0% thì phải trả trước bao nhiêu và mỗi tháng trả bao nhiêu?,1,0,0
+Máy này pin dùng được mấy tiếng?,0,0,1
+Máy này có cài Windows bản quyền không?,0,0,1
+giá sản phẩm,1,0,0
+Giá sản phẩm này là bao nhiêu?,1,0,0
+Máy này có nâng cấp lên 1TB được không và nếu được thì những loại nào?,0,0,1
+Laptop có hỗ trợ nâng cấp RAM không?,0,0,1
+Laptop này có xuất ra màn hình rời 180Hz được không và cách xuất như thế nào?,0,0,1
+Dòng này có hỗ trợ cấu hình i5 13400H trở lên và RTX 4050 không?,0,0,1
+máy có hỗ trợ lắp thêm ổ HDD không?,0,0,1
+hãng này chạy thiết kế đồ họa màu ổn không?,0,1,0
+Máy này có thể lắp sẵn RAM mua thêm không?,0,0,1
+Laptop này có thể mở được 180 độ không?,0,0,1
+RTX 4050 sử dụng tối đa bao nhiêu W?,0,0,1
+Shop có hỗ trợ lắp ổ SSD 120GB cũ không?,0,0,1
+Mẫu này bản lề có cứng cáp và có hay lỗi vặt không?,0,0,1
+Laptop MSI Gaming GF63 12VE-460VN nâng cấp ổ cứng và RAM tối đa bao nhiêu?,0,0,1
+"máy này tản nhiệt tốt không, bản lề chắc chắn không",0,0,1
+Card 4050 này chạy bao nhiêu W?,0,0,1
+Nâng cấp RAM có tốn thêm tiền không?,0,0,1
+MSI GF63 RTX 4050 bù thêm bao nhiêu khi đang dùng MSI GF63 3050Ti?,1,0,0
+Tổng RAM là 16GB sau khi nhận thêm 8GB khuyến mãi đúng không?,0,0,1
+LG gram 2023 bảo hành chính hãng hay tại cửa hàng?,0,0,1
+Nên sử dụng Macbook Pro M1 hay Air M2 để edit video cơ bản và quản lý nhóm quay dựng?,0,1,0
+"Macbook Pro M1 và Air M2, cái nào xử lý tác vụ nặng trong thời gian dài tốt hơn?",0,1,1
+"MacBook Pro 13"" 2020 Touch Bar M1 Ram 16GB giá trả góp qua thẻ tín dụng là bao nhiêu",1,0,0
+M1 Pro có Touch Bar không?,0,0,1
+Máy còn màu xám (gray) không?,0,0,1
+Mac Pro 2020 8GB-256GB đổi sang 16GB-512GB bù bao nhiêu tiền?,1,0,1
+Dòng này có cài được Win 10 không?,0,0,1
+Mac Pro M1 16GB/256GB giá bao nhiêu?,1,0,0
+Thinkpad E14 G5 bản i5 1335U màu đen vỏ làm bằng nhôm hay nhựa?,0,0,1
+Chiếc này thời lượng pin dùng được lâu dài không?,0,0,1
+Tại sao hình hiển thị 8GB RAM nhưng cấu hình lại ghi 4GB?,0,0,1
+Máy tính này sản xuất ở đâu,0,0,1
+Loại này có camera không?,0,0,1
+Máy này có sẵn hệ điều hành hay phải mua?,0,0,1
+Giá bây giờ là 7.99 triệu hay 8.99 triệu?,1,0,0
+máy có office kèm theo không,0,0,1
+Máy này dùng chip Intel thế hệ thứ mấy?,0,0,1
+hệ điều hành máy là gì,0,0,1
+máy này có chống ánh sáng xanh không?,0,0,1
+Máy này đã cài win 11 chưa,0,0,1
+"Máy này dùng AutoCAD đời mới nhất, dựng 3D, chơi game nhẹ như LMHT có ổn không?",0,1,0
+Máy nâng thêm 2GB không?,0,0,1
+Máy này có lắp được card màn hình rời không?,0,0,1
+Máy này có chạy được Photoshop 2020 không?,0,1,0
+máy này có màn hình cảm ứng không?,0,0,1
+Laptop này chơi Minecraft có mượt không?,0,1,0
+Máy này có cài Windows không?,0,0,1
+có lắp được card màn hình không?,0,0,1
+Máy này có khe SSD trống để lắp song song với HDD có sẵn không?,0,0,1
+Máy này có gắn thêm RAM được không?,0,0,1
+Máy có thể gắn 2 ổ cứng SSD Gigabyte 128GB M2 không?,0,0,1
+Laptop Lenovo Ideapad 3 có thể gắn thêm ổ cứng SSD không?,0,0,1
+Laptop Lenovo Ideapad 3 có học online và giải trí được không?,0,1,0
+Pin dùng được bao lâu khi học online?,0,0,1
+Ổ cứng SSD có lắp vào máy luôn không?,0,0,1
+máy này có khe nâng cấp RAM không?,0,0,1
+Con này có nâng cấp SSD lên được không?,0,0,1
+mẫu này nâng cấp RAM từ 8GB lên 16GB giá bao nhiêu?,0,0,1
+Laptop này có bao nhiêu khe M.2?,0,0,1
+Nâng cấp RAM tối đa là bao nhiêu GB cho mỗi khe hay tổng cộng?,0,0,1
+Sản phẩm có nâng cấp bộ nhớ được không?,0,0,1
+Laptop HP Elitebook 630 G9 6M142PA vỏ nhựa hay vỏ kim loại?,0,0,1
+Máy này chơi được GT5 không?,0,1,0
+Máy này có nâng cấp chip được không? Có mấy khe RAM và mấy khe ổ cứng?,0,0,1
+Giá mua off là bao nhiêu?,1,0,0
+Máy này có phù hợp cho sinh viên học ngành ngôn ngữ không?,0,1,0
+Máy này chơi TFT có ổn không?,0,1,0
+Máy có đủ sức chơi LoL không?,0,1,0
+Máy có chơi FIFA ổn định không và thời lượng pin bao lâu?,0,1,1
+Máy này có sẵn Microsoft 365 full bản quyền chưa?,0,0,1
+Máy này sản xuất năm nào?,0,0,1
+"Nên chọn laptop nào mỏng nhẹ, tầm giá 15-17 triệu, không chơi game, lập trình?",1,1,0
+Dell Inspiron 15 3520 có cảm ứng màn hình không?,0,0,1
+Máy có sẵn ứng dụng Office không?,0,0,1
+Máy này vỏ nhựa phải không?,0,0,1
+"Máy có cài sẵn Microsoft Excel, PowerPoint không?",0,0,1
+Có tích hợp Microsoft Office bản quyền không?,0,0,1
+Dòng này có đèn bàn phím không?,0,0,1
+Dòng máy này có màn hình 14 inches không?,0,0,1
+màn hình có cảm ứng không,0,0,1
+Máy này nâng ổ cứng tối đa bao nhiêu?,0,0,1
+Máy có tích hợp webcam không?,0,0,1
+mẫu này chơi LoL max setting được không?,0,1,0
+Máy vỏ nhôm hay nhựa,0,0,1
+Con này gấp ngang 180 độ được không?,0,0,1
+Công suất bao nhiêu W?,0,0,1
+Vỏ máy bằng chất liệu gì?,0,0,1
+Máy bao nhiêu tiền?,1,0,0
+Mac mini M2 cổng Thunderbolt có thể thay thế cổng nguồn không?,0,0,1
+Sử dụng được với màn hình TV không?,0,0,1
+Có dịch vụ nâng RAM không? Nâng lên 16GB giá bao nhiêu?,0,0,1
+Máy này có chơi được Liên Minh không?,0,1,0
+máy có màu đen không?,0,0,1
+Máy này có 100% sRGB không?,0,0,1
+Dòng này có nâng cấp thêm 1 RAM không?,0,0,1
+Microsoft Office có đi kèm không?,0,0,1
+mẫu này có nâng cấp được RAM và SSD không?,0,0,1
+Máy này có bản RAM 16GB không?,0,0,1
+Card đồ họa gì?,0,0,1
+Nâng RAM lên bao nhiêu?,0,0,1
+"Dòng laptop nào phù hợp để vẽ, thiết kế đồ họa, làm phim hoạt hình với yêu cầu màu chuẩn và cấu hình mạnh, ưu tiên Dell và iMac?",0,1,0
+Máy có nâng cấp RAM 32GB và SSD 1TB không?,0,0,1
+Mẫu này có chống chói không?,0,0,1
+Máy này sản xuất năm mấy?,0,0,1
+Nhiệt độ laptop này như thế nào?,0,0,1
+Độ chuẩn màu của màn hình thế nào?,0,0,1
+GPU và CPU máy này bao nhiêu W điện? Phần tản nhiệt thế nào?,0,0,1
+mẫu này có màu umber không và giá thế nào?,1,0,1
+Dell XPS 9315 giá khoảng bao nhiêu?,1,0,0
+Máy này có đèn bàn phím không và có hợp để học cấp 2 và chơi game bình thường không?,0,1,1
+"Máy có sẵn Microsoft Office Word, Excel, PowerPoint không?",0,0,1
+Mẫu này có nâng cấp RAM được không?,0,0,1
+Mac mini M1 8GB 256GB lên M2 16GB 256GB tốn thêm bao nhiêu tiền?,1,0,1
+"Mac mini này có tương thích dùng với màn hình, chuột, bàn phím PC thông thường không?",0,0,1
+Nâng cấp Mac mini M1 lên M2 tốn bao nhiêu tiền?,1,0,0
+Ổ cứng 256GB M.2 có chậm hơn M.1 không?,0,0,1
+Máy này có bộ nhớ trong 512 GB không?,0,0,1
+Máy này có thể nâng cấp sang card wifi 7 không?,0,0,1
+Card đồ họa của nó bao nhiêu W?,0,0,1
+chi phí nâng cấp RAM 16GB,0,0,1
+SSD mở rộng được tối đa bao nhiêu dung lượng?,0,0,1
+Máy này có bảo hành global không?,0,0,1
+Phần đế này có dễ bám bụi không?,0,0,1
+Hàng này nguyên seal?,0,0,1
+Máy này dùng để lập trình web có chạy ổn không?,0,1,0
+"Máy này chơi được các game phổ thông như Liên Minh Huyền Thoại, Dota 2 không?",0,1,0
+giá máy bao nhiêu,1,0,0
+Mã này còn sản xuất không?,0,0,1
+Dell Latitude 7480 giá bao nhiêu?,1,0,0
+Giá khi về hàng và tình trạng hàng mới hay likenew?,1,0,1
+Laptop ASUS ExpertBook P5 P5405CSA-NZ0017W có kèm Microsoft 365 không?,0,0,1
+máy này dùng card wifi của hãng nào,0,0,1
+Con này có chuẩn Intel Evo không?,0,0,1
+pin laptop bao lâu,0,0,1
+Tần số quét của máy là bao nhiêu?,0,0,1
+Máy Acer này pin dùng được bao lâu?,0,0,1
+Win 11 có bản quyền không?,0,0,1
+máy này gập 180 độ được không?,0,0,1
+Máy có cài sẵn Office không?,0,0,1
+pin sử dụng được trong bao lâu,0,0,1
+RAM laptop này là 2 thanh 8+8 hay 1 thanh 16GB?,0,0,1
+Giá dự kiến của sản phẩm này là bao nhiêu?,1,0,0
+"Máy này phù hợp cho sinh viên truyền thông, chỉnh sửa video và thiết kế không?",0,1,0
+Giá nâng cấp RAM và bộ nhớ là bao nhiêu?,0,0,1
+TUF Gaming F15 FX506HC nâng cấp tối đa bao nhiêu RAM và dung lượng lưu trữ?,0,0,1
+Máy này có phù hợp cho thiết kế đồ họa không?,0,1,0
+Chơi est2 được không?,0,1,0
+Máy này nâng cấp được RAM và SSD không?,0,0,1
+máy này sạc bằng cổng C được không,0,0,1
+Dell Inspiron 5310 có cấu hình 16GB RAM và Core i5 không?,0,0,1
+Laptop Dell Inspiron 5310 new giá bao nhiêu?,1,0,0
+Thời lượng pin laptop này bao lâu?,0,0,1
+Máy này học IT được không,0,1,0
+"máy dùng được bao lâu khi chỉ lướt web, xem phim, văn phòng?",0,0,1
+Pin máy này dùng cho ứng dụng văn phòng và duyệt web có lâu không?,0,1,1
+Máy này nâng cấp RAM tối đa bao nhiêu và có hỗ trợ nâng cấp không?,0,0,1
+Máy này còn sản xuất nữa không?,0,0,1
+Thông số đầu sạc của laptop này là gì và có cáp sạc chuyển từ Type-C sang đầu sạc này không?,0,0,1
+máy này có chỗ cắm USB không?,0,0,1
+Máy này có chơi được Genshin Impact không?,0,1,0
+"So sánh máy này với Ideapad Slim 5 14IAH8, cái nào tốt hơn?",0,1,1
+IdeaPad Slim 3 và 5 khác nhau cơ bản gì?,0,0,1
+RAM 16GB là 1 thanh hay 8GB onboard + 8GB rời?,0,0,1
+laptop này có live stream bình luận bóng đá ổn định và mượt không?,0,1,0
+Laptop này có chơi được Valorant setting trung bình không?,0,1,0
+Chơi FO4 max setting được không?,0,1,0
+máy này chơi game nhẹ được không,0,1,0
+Máy này khi mua có cài sẵn Windows 11 bản quyền không?,0,0,1
+Máy này có nâng cấp ổ cứng được không?,0,0,1
+Máy này có thể nâng cấp thêm RAM không?,0,0,1
+Sử dụng được phần mềm thiết kế như Photoshop không?,0,1,0
+Có loại 1TB không?,0,0,1
+Cửa hàng có cài Photoshop và Premiere Pro không?,0,1,0
+Macbook M2 Max RAM 32GB hay 16GB?,0,0,1
+Hai máy fx506hcb-hn1138w và fx506hcb-hn139t có khác nhau nhiều không?,0,0,1
+Laptop ASUS Gaming TUF FX506HCB-HN139T và Laptop ASUS TUF Gaming F15 FX506HCB-HN1138W có những điểm gì khác nhau?,0,0,1
+máy này có thể lắp thêm được HDD 2.5 không?,0,0,1
+Nâng cấp thêm 8GB RAM bao nhiêu tiền?,1,0,1
+giá chiếc này,1,0,0
+So sánh giá và cấu hình bản này với Aspire 7 A715-76-57CY NH.QGESV.004,1,0,1
+Máy này có chơi được Genshin không?,0,1,0
+Máy này xuất ra màn hình ngoài tần số quét cao được không?,0,0,1
+Máy này chơi fo4 cấu hình như nào?,0,1,0
+Máy có bao nhiêu quạt?,0,0,1
+"Laptop Gaming Acer Aspire 7 A715-42G-R4XX NH.QAYSV.008 có chơi được GTA V, F04 và các game tương tự không?",0,1,0
+Mẫu này tản nhiệt không?,0,0,1
+Con này màn hình 144Hz không?,0,0,1
+Máy đang sử dụng Win 11 Home SL có thể hạ xuống Win 10 được không?,0,0,1
+Dòng này có phần mềm chỉnh quạt không,0,0,1
+Có máy nào dưới 23 triệu chơi Genshin Impact max setting không?,1,1,0
+máy gắn SSD và gắn thêm RAM được không,0,0,1
+Máy học tập cho công nghệ thông tin có hiệu quả không?,0,1,0
+Máy chơi được game Genshin Impact không?,0,1,0
+Máy này có chơi được game giả lập PS1 và game điện thoại Samsung không? Máy có bền không?,0,1,0
+Laptop này dùng để học công nghệ thông tin được không?,0,1,0
+Máy này có lắp thêm được SSD hay HDD không hay phải thay SSD M.2 dung lượng lớn hơn?,0,0,1
+Bàn phím có led không?,0,0,1
+Matebook 14 bản AMD có chơi được FO4 ở cài đặt trung bình không?,0,1,0
+RAM 16GB chạy single hay dual?,0,0,1
+Bản AMD màu bạc phải không?,0,0,1
+Card wifi của máy này là card gì?,0,0,1
+Màn hình có 90Hz không?,0,0,1
+máy này hàng mới đúng không,0,0,1
+Máy này có sẵn Office bản quyền và Win 11 bản quyền không?,0,0,1
+Laptop này phục vụ tốt cho việc lập trình không?,0,1,0
+Máy này có đèn ở bàn phím không?,0,0,1
+Laptop này có sẵn Office không?,0,0,1
+dòng này có màu xám không,0,0,1
+Bảo hành trong bao lâu,0,0,1
+RAM 16GB này là 1 thanh 16GB hay 2 thanh 8GB? Có nâng cấp lên 32GB được không?,0,0,1
+"Với nhu cầu học tập, lướt MXH, giải trí và văn phòng thì máy này có đủ sử dụng lâu dài không?",0,1,0
+Máy này có màu xám không,0,0,1
+Máy này có tặng Windows 11 bản quyền không?,0,0,1
+Máy còn nguyên seal nguyên hộp không?,0,0,1
+Máy có dễ thay linh kiện và bảo hành không?,0,0,1
+máy này sử dụng Google được không?,0,1,0
+Máy này có sẵn Windows không?,0,0,1
+Hiệu năng i5 1240p so với Ryzen 5 như thế nào?,0,0,1
+Thời lượng pin của máy khi dùng AutoCAD và khi lướt web xem phim là bao lâu?,0,1,1
+Bản lề máy này có thiết kế cho phép màn hình gập xuống sâu và có lực hay là do lỗi sản phẩm?,0,0,1
+Máy hỗ trợ nâng cấp RAM không?,0,0,1
+Máy này có xuất hình ảnh 2K qua cổng Type-C không?,0,0,1
+Máy học kỹ thuật có tốt không?,0,1,0
+Card đồ họa rời hay tích hợp?,0,0,1
+Độ sáng máy bao nhiêu nit?,0,0,1
+Có màu xanh không?,0,0,1
+Con này có bàn phím số ảo trên touchpad không?,0,0,1
+Máy này là core i mấy?,0,0,1
+Laptop này vỏ kim loại hay nhựa?,0,0,1
+Máy chơi được Genshin Impact với FO4 không?,0,1,0
+"So sánh Asus Vivobook Pro M3401QA KM006W và Lenovo ThinkBook15p IMH, máy nào ổn định hơn cho quản lý đất đai và có máy nào tốt hơn trong tầm giá không?",1,1,0
+Chơi Genshin Impact được không và thời gian code Dev-C liên tục không sạc là bao lâu?,0,1,1
+Chơi được Genshin Impact không?,0,1,0
+Máy này có bảo mật vân tay không?,0,0,1
+Bản này không có màu khác à?,0,0,1
+"Máy này dùng Photoshop chỉnh sửa ảnh được không, có cài sẵn Word, Excel không?",0,1,1
+pin laptop này như thế nào?,0,0,1
+máy làm từ khung gì,0,0,1
+"Dell nào khoảng 13 inch, tầm giá dưới 15 triệu?",1,0,0
+con này giá bao nhiêu?,1,0,0
+Máy này có thể gắn thêm thanh RAM thứ hai không?,0,0,1
+Cổng Type-C có dùng để sạc laptop được không?,0,0,1
+Cổng Type-C có dùng để sạc được không?,0,0,1
+Sản phẩm có thể nâng cấp RAM không?,0,0,1
+i7 code web có ổn không?,0,1,0
+Có hỗ trợ nâng cấp RAM tại cửa hàng và có ảnh hưởng bảo hành không?,0,0,1
+Máy này là card đồ họa tích hợp hay card rời?,0,0,1
+Nâng cấp SSD được không?,0,0,1
+"Máy này chạy Photoshop, Illustrator và CAD có tốt không?",0,1,0
+"Laptop MSI Modern 14 B11MOU-1032VN và Laptop Gigabyte U4 UD-50VN823SO, sản phẩm nào mạnh hơn?",0,0,1
+So sánh Laptop MSI Modern 14 B11MOU i7 1195G7/8GB/512GB/Túi/Chuột/Win10 (618VN) với máy này và cho biết máy có phù hợp học đồ họa không?,0,1,1
+máy chơi FIFA Online 4 cấu hình cao được không?,0,1,0
+MSI 1032 có jack tai nghe 3.5mm không?,0,0,1
+Máy nào gập 360 có đồ họa ổn trong tầm giá 15-16 triệu?,1,1,0
+RAM 8GB nào phù hợp với máy?,0,0,1
+Máy này có nên cắm điện liên tục không?,0,1,1
+"Khi tắt máy không sử dụng, pin có bị giảm không?",0,0,1
+Laptop MSI Modern 14 B11MOU-1032VN so với bản 1033-VN có nhiều khác biệt không? Bản 1033-VN có nhiều công nghệ màn hình hơn phải không?,0,0,1
+Máy này xuất hình qua màn rời bằng cổng nào?,0,0,1
+Máy này có chơi được game FO4 và Assassin's Creed Odyssey không?,0,1,0
+Máy có soundcard không?,0,0,1
+Chi phí nâng cấp RAM lên 36GB là bao nhiêu?,0,0,1
+Máy này có nâng cấp RAM tại shop được không và có ảnh hưởng bảo hành hãng không?,0,0,1
+Máy này chơi Genshin Impact có max setting được không?,0,1,0
+"So sánh laptop này với Lenovo Ideapad Gaming 3 15ACH6 82K2008WVN, con nào chơi game tốt hơn?",0,1,0
+máy này giá bao nhiêu,1,0,0
+"So sánh khả năng chơi game của RTX 3050 và GTX 1650 trên Laptop Asus Rog Strix G15 G513IE-HN246W, con nào khỏe hơn?",0,1,1
+"Card RTX 2050 tiêu thụ bao nhiêu W điện, máy hỗ trợ bao nhiêu khe cắm và dung lượng SSD tối đa là bao nhiêu?",0,0,1
+Tặng RAM có lắp vào luôn không?,0,0,1
+Nâng cấp RAM có mất bảo hành hãng không?,0,0,1
+Dòng máy MSI này có chỉnh sửa video tốt không?,0,1,0
+Con này có mấy quạt?,0,0,1
+tản nhiệt máy như thế nào?,0,0,1
+Vỏ nhôm hay nhựa?,0,0,1
+Chi phí lắp thêm thanh RAM DDR5 vào máy là bao nhiêu?,0,0,1
+Mẫu này có cảm ứng không?,0,0,1
+Máy này nâng tối đa được bao nhiêu RAM?,0,0,1
+máy này có chơi được Valorant không?,0,1,0
+Máy này chơi game và làm thiết kế đồ họa có được không?,0,1,0
+Dell XPS 15 9520 bao nhiêu tiền?,1,0,0
+lắp thêm 1 thanh RAM 8GB hết bao nhiêu tiền?,0,0,1
+Có thể thay pin cho máy không?,0,0,1
+Để nâng cấp ổ cứng có cần tháo ổ cứng cũ ra không?,0,0,1
+"Laptop MSI Modern 14 B11MOU-1027VN có nâng cấp card đồ họa, RAM, ổ cứng không?",0,0,1
+mẫu này có lắp được RAM Kingspec DDR4 3200MHz không?,0,0,1
+Mẫu này có lắp được RAM Laptop Kingspec DDR4 3200MHz không?,0,0,1
+Chơi được FIFA Online 4 không?,0,1,0
+Giá hiện tại máy bao nhiêu?,1,0,0
+Sự khác nhau giữa bản i3 và core i3 trên laptop và chênh lệch giá?,1,0,1
+Máy này chơi LMHT thì sao?,0,1,0
+Cổng USB Type-C của Modern 14 B11MOU-1027VN có dùng để sạc được không?,0,0,1
+"Mã 1030vn và 1027vn khác nhau gì, giá chênh 200k?",0,0,1
+"Có được chọn loại bàn phím cơ (màu sắc, switch blue/red) khi mua không?",0,0,1
+Máy có sẵn Office 365 không?,0,0,1
+Máy này có nguyên seal không?,0,0,1
+MSI Modern 14 B11MOU mã 1027VN và mã 1030VN khác nhau thế nào?,0,0,1
+máy ra mắt năm bao nhiêu?,0,0,1
+Xung nhịp sản phẩm này có phải 3.00GHz up to 4.10GHz không?,0,0,1
+Laptop MSI Modern 14 B11MOU-1027VN và Laptop MSI Modern 14 B11MOU-1028VN đời nào cao hơn và giá nào đắt hơn?,1,0,1
+Độ phủ màu là bao nhiêu?,0,0,1
+Máy này giá mới bao nhiêu?,1,0,0
+Laptop này RAM 8GB hay 16GB?,0,0,1
+Giá máy này khoảng bao nhiêu và thông số chi tiết khi so sánh với máy khác có gì khác biệt?,1,0,1
+Chơi GTA V mượt không?,0,1,0
+Dell 5568 i5 RAM 8GB card Intel 620 có không?,0,0,1
+Giá máy này bao nhiêu,1,0,0
+Bản này không có màu bạc?,0,0,1
+Con này có hỗ trợ nâng cấp RAM không?,0,0,1
+Giá máy này?,1,0,0
+Con này giá bao nhiêu?,1,0,0
+Giá laptop Laptop ASUS ExpertBook B1 B1402CVA-NK0176W,1,0,0
+Giá sản phẩm này?,1,0,0
+Laptop này giá bao nhiêu?,1,0,0
+máy này bao nhiêu tiền?,1,0,0
+Giá Lenovo Thinkpad T70S bao nhiêu?,1,0,0
+máy này có nâng cấp được GPU không?,0,0,1
+laptop này ra đời khi nào?,0,0,1
+máy xuất xứ nước nào?,0,0,1
+Giá Samsung Galaxy Book bao nhiêu?,1,0,0
+Giá máy cũ Samsung Galaxy Book RAM 4GB bao nhiêu?,1,0,1
+Laptop này có ổn để học từ lớp 8 đến lớp 12 không?,0,1,0
+pin mấy cell?,0,0,1
+Có hỗ trợ nâng ổ cứng lên 256GB không?,0,0,1
+Laptop này có sạc qua cổng Type-C không?,0,0,1
+Con này nâng cấp RAM được không?,0,0,1
+Máy này nâng cấp ổ SSD được không?,0,0,1
+Máy laptop nào dưới 12 triệu?,1,0,0
+đường chéo máy bao nhiêu cm?,0,0,1
+Có nâng cấp ổ cứng được không?,0,0,1
+Máy này có nâng cấp lên RAM 8GB với SSD 256GB được không?,0,0,1
+máy này chạy Excel 2016 có mượt không?,0,1,0
+dòng này có bảo hành quốc tế không,0,0,1
+giá bao nhiêu?,1,0,0
+Matebook Z và Matebook 14 tầm giá khoảng bao nhiêu?,1,0,0
+Giá của Dell này bao nhiêu?,1,0,0
+Giá sản phẩm này bao nhiêu?,1,0,0
+laptop dell inspiron15 3000 có nâng cấp RAM được không?,0,0,1
+Thông tin máy HP-15s fq1107tu,0,0,1
+"Máy tính nào tầm giá 14-15.5 triệu đồng, chơi game giải trí nhẹ nhàng và học tập, có 16GB RAM?",1,1,0
+laptop tầm 17-22 triệu cho công nghệ thông tin có i7,1,1,1
+Laptop nào tầm 20-25 triệu chơi game AAA và thiết kế?,1,1,0
+"Laptop nào cho học tập, làm việc, giải trí, không giật lag, ngân sách dưới 18 triệu?",1,1,0
+laptop cũ nào chạy được phần mềm kỹ thuật?,0,1,0
+"laptop gaming tầm giá 30-35 triệu chơi Naraka mượt, bền, ít nóng",1,1,0
+Laptop nào cho việc học và chơi game với ngân sách 10 triệu?,1,1,0
+Laptop nào cho giảng dạy lâu dài với ngân sách 20 triệu?,1,1,0
+laptop nào cho học sinh cấp 2 dùng lâu dài tới đại học?,0,1,0
+AI nên dùng laptop nào để hỗ trợ giảng dạy?,0,1,0
+Laptop Lenovo IdeaPad 1 14ALC7 82R30078VN có lập trình và chơi game được không?,0,1,0
+"Laptop nào dưới 11 triệu có khả năng lập trình, chơi game, học tập?",1,1,0
+"Laptop HP, ASUS, Lenovo, DELL nào dưới 27 triệu có đèn bàn phím, không phải dòng gaming?",1,0,1
+"Nên chọn laptop nào phù hợp cho sinh viên năm 3, ưu tiên bền, mỏng nhẹ, giá 14-17 triệu, dùng văn phòng cơ bản, giữa các hãng Dell, Lenovo, Asus, Acer?",1,1,0
+Máy nào phù hợp để dùng FL Studio và After Effects?,0,1,0
+Laptop nào chạy tốt phần mềm FL Studio và After Effect?,0,1,0
+laptop nào dưới 20 triệu có cấu hình ổn và màn hình đẹp,1,1,0
+"Học IT nên dùng laptop nào, giá dưới 20 triệu?",1,1,0
+laptop nào vừa rẻ vừa cấu hình ổn cho học tập?,1,1,0
+Laptop nào toàn diện mạnh nhất tầm giá 15 triệu?,1,0,0
+"Laptop nào cho sinh viên kỹ thuật xây dựng, cần cấu hình mạnh, RAM, dung lượng lớn để lập trình và chơi game nặng, giá dưới 21 triệu?",1,1,1
+"Laptop nào cho học sinh lớp 10, nhỏ gọn, dung lượng cao, giá bao nhiêu?",1,1,0
+"Laptop nhỏ gọn, dung lượng cao giá tầm bao nhiêu?",1,1,0
+"Máy nào xử lý mượt tác vụ văn phòng, edit video, pin lâu, mỏng nhẹ, tầm giá 10-13 triệu?",1,1,0
+Máy nào chạy code và làm đồ họa 2D 3D tầm giá 15-20 triệu?,1,1,0
+"Laptop nào tốt tầm giá 14 đến 15.5 triệu đồng, RAM 16GB để chơi game giải trí nhẹ nhàng và học tập?",1,1,1
+Laptop nào tầm 17-22 triệu phù hợp cho ngành công nghệ thông tin có chip i7?,1,1,1
+Laptop nào tầm giá 20 đến 25 triệu chơi game AAA và thiết kế?,1,1,0
+"Gợi ý laptop cho học tập, làm việc và giải trí, ngân sách dưới 18 triệu.",1,1,0
+Laptop cũ nào chạy được phần mềm kỹ thuật?,0,1,0
+"Laptop gaming nào trong tầm giá 30-35 triệu chơi Naraka mượt, bền, ít nóng?",1,1,0
+Laptop nào giá 10 triệu để học và chơi game?,1,1,0
+Laptop nào giá 20 triệu để giảng dạy lâu dài?,1,1,0
+Nên mua laptop để học?,0,1,0
+Gợi ý laptop dùng lâu dài từ cấp 2 đến đại học.,0,1,0
+Laptop Lenovo IdeaPad 1 14ALC7 82R30078VN có lập trình và chơi game được không?,0,1,0
+Giáo viên dùng phần mềm hỗ trợ giảng dạy nên chọn laptop nào?,0,1,0
+"có laptop nào dưới 11 triệu có khả năng lập trình, chơi game, học tập không?",1,1,0
+"Nên chọn laptop nào bền, mỏng nhẹ, tầm giá 14-17 triệu, sử dụng cho văn phòng cơ bản, không chơi game, lập trình (Dell, Lenovo, Asus, Acer)?",1,1,0
+"Laptop HP, ASUS, Lenovo, DELL nào dưới 27 triệu có đèn bàn phím và không phải dòng gaming?",1,1,1
+Có laptop nào chạy tốt phần mềm FL Studio và After Effect không?,0,1,0
+Laptop nào phù hợp để sử dụng FL Studio và After Effect?,0,1,0
+laptop dưới 20 triệu cấu hình ổn định và màn hình đẹp thì nên mua laptop nào?,1,0,0
+"Laptop nào tối ưu cho nhu cầu chơi game, đồ họa, giá dưới 20 triệu, trọng lượng dưới 2kg?",1,1,1
+"Laptop nào phù hợp cho học Logistics và chơi game, giá dưới 20 triệu?",1,1,0
+"Laptop nào phù hợp cho học Công nghệ Kỹ thuật Ô tô, thiết kế AutoCAD, chơi game FIFA, Đấu Trường Chân Lý, tầm giá 13 đến 15 triệu đồng?",1,1,0
+"Laptop nào chơi LOL, Valorant, nhu cầu cơ bản, dùng lâu dài trong tầm giá 13-15 triệu?",1,1,0
+Nên chọn laptop nào cho ngành IT với ngân sách dưới 20 triệu?,1,1,0
+Laptop nào phù hợp cho ngành điều dưỡng với giá dưới 15 triệu?,1,1,0
+"Laptop nào cho học sinh lớp 4, dùng lâu dài, vừa rẻ vừa cấu hình ổn?",1,1,0
+"Laptop cho học sinh dưới 14 triệu, chip i5, màn hình 14-15 inch, RAM 8GB, ổ cứng 256GB.",1,1,1
+"Laptop dưới 13 triệu, chip i5, màn hình 14 inch trở lên, RAM 8GB, ổ cứng 256GB trở lên.",1,0,1
+Laptop nào toàn diện mạnh nhất tầm giá trên dưới 15 triệu?,1,1,0
+"Sinh viên ngành Kỹ thuật xây dựng cần máy tính cấu hình mạnh, RAM, dung lượng lớn để lập trình, chơi game nặng, giá dưới 21 triệu.",1,1,0
+"Gợi ý laptop cho học sinh lớp 10, nhỏ gọn, dung lượng cao, giá bao nhiêu là tốt?",1,1,1
+"Laptop nào phù hợp cho học sinh lớp 10, nhỏ gọn, dung lượng cao, giá bao nhiêu là tốt?",1,1,1
+"Laptop nào xử lý mượt các tác vụ văn phòng, chỉnh sửa video, pin lâu, mỏng nhẹ, trong tầm giá từ 10 đến 13 triệu?",1,1,0
+Laptop nào để chạy code và làm đồ họa 2D 3D trong tầm giá từ 15 đến 20 triệu?,1,1,0
+Thời lượng pin của máy dùng được lâu không?,0,0,1
+MacBook Air M3 phù hợp với nhu cầu sử dụng nào?,0,1,0
+Cấu hình của MacBook này như thế nào?,0,0,1
+MacBook Air M3 có phù hợp để làm việc đồ họa không?,0,1,0
+Có thể nâng cấp RAM hoặc SSD không?,0,0,1
+MacBook Air M3 có hỗ trợ Face ID không?,0,0,1
+MacBook Air M3 có thể dùng để chơi game không?,0,1,0
+Máy có những cổng giao tiếp nào?,0,0,1
+MacBook này có cân nặng bao nhiêu?,0,0,1
+Học sinh cấp 3 nên mua máy giá bao nhiêu?,1,1,0
+Máy này giá bao nhiêu cho sinh viên?,1,0,0
+Mac Air 13 M2 giá bao nhiêu?,1,0,0
+Máy này đời 2022 hay 2024?,0,0,1
+Macbook Air M2 có dùng phần mềm văn phòng được không?,0,1,0
+MacBook Air M2 có phù hợp để chỉnh sửa video 4K không?,0,1,0
+Máy có hỗ trợ nhiều ngôn ngữ bàn phím không?,0,0,1
+MacBook Air M2 có tương thích với AirPods Pro không?,0,0,1
+MacBook Air M2 2024 có chơi game được không?,0,0,1
+Cảm giác gõ phím như thế nào?,0,0,1
+Sản phẩm này khác biệt gì so với MacBook Pro M2?,0,0,1
+MacBook Air M2 2024 có chế độ tiết kiệm pin không?,0,0,1
+Màn hình có hỗ trợ tần số quét cao hơn 60Hz không?,0,0,1
+Máy có sẵn hệ điều hành macOS mới nhất không?,0,0,1
+Webcam trên MacBook Air M2 2024 có độ phân giải bao nhiêu?,0,0,1
+Máy có hỗ trợ các ứng dụng Windows không?,0,0,1
+MacBook Air M2 2024 có hỗ trợ xuất màn hình ngoài độ phân giải 6K không?,0,0,1
+Trọng lượng của MacBook Air M2 13 inch là bao nhiêu?,0,0,1
+Máy có bao nhiêu loa ngoài và chất lượng âm thanh thế nào?,0,0,1
+MacBook Air M2 có phù hợp cho dân thiết kế đồ họa không?,0,1,0
+Thời lượng pin của MacBook Air M2 2024 là bao lâu?,0,0,1
+Chip M2 trên MacBook Air này có mạnh hơn nhiều so với M1 không?,0,0,1
+MacBook Air M2 2024 có thiết kế gì khác biệt so với phiên bản cũ không?,0,0,1
+Phù hợp để làm việc đồ họa không?,0,1,0
+Máy có thể dùng để chơi game không?,0,1,0
+Máy này có phù hợp học luật không?,0,1,0
+Mẫu này màn hình có giống các mẫu Aspire Lite khác đều có độ sáng 300 nits không?,0,0,1
+"Cấu hình R7 5700U, 16GB RAM chơi Liên Minh Huyền Thoại được không?",0,1,0
+sản phẩm này giá bao nhiêu?,1,0,0
+Giá thay màn hình UX325 OLED bao nhiêu?,0,0,1
+Sản phẩm này có cài sẵn hệ điều hành không?,0,0,1
+Thời lượng pin của sản phẩm này là bao lâu?,0,0,1
+Sản phẩm này có hỗ trợ nâng cấp RAM hoặc ổ cứng không?,0,0,1
+"Sản phẩm này có phù hợp cho học sinh, sinh viên không?",0,1,0
+Máy này có cảm ứng không?,0,0,1
+"Bàn phím Dell Latitude và Dell Vostro/Inspiron, dòng nào gõ dễ hơn?",0,0,1
+máy này sạc đầy pin dùng được bao lâu?,0,0,1
+Máy này có quạt tản nhiệt không?,0,0,1
+Chuyển Microsoft account thành local account trên laptop được không?,0,0,1
+Laptop này có hỗ trợ cổng Thunderbolt không?,0,0,1
+Webcam của Dell Latitude L3540 có độ phân giải bao nhiêu?,0,0,1
+Trọng lượng máy là bao nhiêu và có tiện lợi khi mang theo không?,0,1,1
+"Card đồ họa tích hợp Intel Iris Xe có hỗ trợ chỉnh sửa ảnh, video cơ bản không?",0,1,1
+Màn hình này có hỗ trợ công nghệ chống chói không?,0,0,1
+Màn hình 15.6 inch Full HD của Dell Latitude L3540 có độ sáng bao nhiêu nits?,0,0,1
+Laptop này có phù hợp làm việc văn phòng và đa nhiệm không?,0,1,0
+CPU Intel Core i5-1235U trên Dell Latitude L3540 có hiệu năng như thế nào?,0,0,1
+Cổng Type-C có dùng sạc được không?,0,0,1
+Thời hạn bảo hành bao lâu? Máy có xử lý dữ liệu lớn được không?,0,1,1
+Laptop HP 245 G10 là i3 hay i5?,0,0,1
+Thông tin màn hình,0,0,1
+Laptop HP 245 G10 có dung lượng ổ cứng bao nhiêu GB?,0,0,1
+Laptop HP 245 G10 có cấu hình gì?,0,0,1
+Có hỗ trợ bảo mật không?,0,0,1
+Cổng kết nối nào?,0,0,1
+Máy dùng màn TFT hay IPS?,0,0,1
+Aspire Lite có phải là dòng mới không?,0,0,1
+Nâng cấp RAM có bị mất bảo hành không?,0,0,1
+Máy này dùng cho văn phòng có ổn không?,0,1,0
+Cổng HDMI trên máy có hỗ trợ xuất hình ảnh 4K không?,0,0,1
+Camera HD trên máy có hỗ trợ gọi video rõ nét không?,0,0,1
+Máy có đi kèm hệ điều hành Windows 11 bản quyền không?,0,0,1
+Màn hình 15.6 inch Full HD có công nghệ chống chói không?,0,0,1
+Máy có card đồ họa tích hợp Intel Iris Xe không?,0,0,1
+Bộ vi xử lý Intel Core i5-1235U có đáp ứng tốt cho công việc văn phòng và đồ họa nhẹ không?,0,1,1
+laptop để học thiết kế,0,1,0
+Máy đã cài sẵn Windows và Office chưa?,0,0,1
+laptop này có nặng không?,0,0,1
+Máy này có nâng thêm RAM được không?,0,0,1
+màn hình máy có to không?,0,0,1
+Có bàn phím số không?,0,0,1
+"Trọng lượng của máy là bao nhiêu?
+",0,0,1
+"Sản phẩm có độ phân giải màn hình là bao nhiêu
+",0,0,1
+Bàn phím của máy có đèn nền không?,0,0,1
+Máy có hỗ trợ Bluetooth không?,0,0,1
+màn hình bao nhiêu inch?,0,0,1
+"Laptop nào tốt cho văn phòng, học tập, soạn thảo văn bản, học trực tuyến và chỉnh sửa ảnh đơn giản?",0,1,0
+"Laptop nào dùng cho văn phòng, đa nhiệm, tiết kiệm pin, lướt web nhanh và wifi ổn định?",0,1,0
+Máy này có tải được phần mềm Camtasia không?,0,1,0
+"Laptop nào cho học sinh sinh viên, chip i5 đủ học tập, thuyết trình, báo cáo bài tập hàng ngày?",1,1,0
+Thời lượng pin khi xem YouTube là bao nhiêu?,0,0,1
+Pin máy này dùng khoảng bao lâu?,0,0,1
+Vỏ máy bằng nhựa?,0,0,1
+"Máy này dùng để lập trình web, học ngôn ngữ Java, ngành công nghệ thông tin được không?",0,1,0
+Máy này có giải trí và làm việc bán hàng online không?,0,1,0
+Máy này có đèn LED phím không?,0,0,1
+máy này dùng cho ngành học digital marketing được không?,0,1,0
+Máy này dùng Windows 11 có bản quyền không?,0,0,1
+"Máy này dùng AutoCAD, SketchUp cơ bản được không?",0,1,0
+Giảm 4 triệu còn 14 triệu phải không?,1,0,0
+Máy có Windows bản quyền không?,0,0,1
+Mới mua mà cài BIOS có sao không?,0,0,1
+Máy có hỗ trợ cổng kết nối Thunderbolt 4 không?,0,0,1
+Laptop này có công nghệ âm thanh nổi bật không?,0,0,1
+Máy có đi kèm Windows bản quyền không?,0,0,1
+Máy có phù hợp làm việc đồ họa và chơi game song song không?,0,1,0
+Máy có hỗ trợ Wi-Fi 6 và Bluetooth 5.2 không?,0,0,1
+Hệ thống tản nhiệt có hiệu quả khi chơi game nặng không?,0,1,1
+Trọng lượng của máy là bao nhiêu và có dễ dàng mang theo không?,0,0,1
+Tần số quét của màn hình máy là bao nhiêu Hz?,0,0,1
+Laptop này có card đồ họa rời không?,0,0,1
+Hiệu năng Intel Core i5-12450HX có đáp ứng tốt cho chơi game không?,0,1,1
+Máy này chạy SQL được không?,0,1,0
+Dung lượng ổ cứng SSD là bao nhiêu và có hỗ trợ mở rộng không?,0,0,1
+Sản phẩm có cài sẵn Windows bản quyền không?,0,0,1
+Windows 11 là bản Home phải không?,0,0,1
+USB Type-C có hỗ trợ sạc laptop không?,0,0,1
+Dòng này có vân tay và Face ID được không?,0,0,1
+Máy có quạt tản nhiệt không?,0,0,1
+Máy chơi game nhẹ giải trí được không?,0,1,0
+"Laptop nào cho sinh viên, giá tốt, chip dòng H mạnh mẽ, chơi game được?",1,1,1
+"Laptop nào có màn hình độ tương phản cao, màu đen sâu cho trải nghiệm xem phim và giải trí tốt?",0,1,1
+Độ phủ màu là bao nhiêu,0,0,1
+Windows có miễn phí hay phải mua?,0,0,1
+Thời lượng pin là bao nhiêu tiếng?,0,0,1
+Màn hình laptop có đặc điểm gì nổi bật?,0,0,1
+Asus Vivobook 14 OLED A1405ZA-KM264W sử dụng bộ vi xử lý nào?,0,0,1
+Máy này khi mua đã có bộ Microsoft Office chưa?,0,0,1
+Máy này có đèn bàn phím không?,0,0,1
+Có sẵn bản quyền Microsoft không?,0,0,1
+Nâng cấp RAM được không?,0,0,1
+"Hệ điều hành của laptop này là gì?
+",0,0,1
+Màn hình của máy có độ phân giải bao nhiêu?,0,0,1
+Kích thước màn hình của máy là bao nhiêu?,0,0,1
+Dung lượng ổ cứng của máy là bao nhiêu?,0,0,1
+Dung lượng RAM của máy là bao nhiêu?,0,0,1
+Máy có card đồ họa gì?,0,0,1
+Sản phẩm này sử dụng loại CPU nào?,0,0,1
+Máy này có cổng LAN không?,0,0,1
+Máy này giao dịch forex được không?,0,1,0
+Máy này chơi game Liên Minh có ổn không?,0,1,0
+Máy này có phù hợp để làm việc văn phòng không?,0,1,0
+"Máy có kết nối wifi, bluetooth và kết nối được với các thiết bị khác như tivi, máy chiếu không?",0,0,1
+màn hình máy này là 250 nit hay 300 nit?,0,0,1
+"Máy có sẵn 16GB RAM, sau này có thể nâng cấp thêm được không?",0,0,1
+"Máy này dùng Capcut, văn phòng, dạy học có ổn không?",0,1,0
+Chip AI này có dùng được nhiều tác vụ AI không?,0,0,1
+Máy này bao nhiêu kg?,0,0,1
+Máy có hỗ trợ đồ họa rời không?,0,0,1
+Acer Swift Lite 14 sử dụng loại chip xử lý nào?,0,0,1
+Acer Swift Lite 14 có trọng lượng bao nhiêu?,0,0,1
+Acer Swift Lite 14 có hỗ trợ các cổng kết nối nào?,0,0,1
+Acer Swift Lite 14 có những tính năng nổi bật nào?,0,0,1
+Bàn phím có đèn nền không và trải nghiệm gõ phím thế nào?,0,0,1
+Lenovo ThinkBook 16 G6 có phù hợp để chơi game không?,0,1,0
+Máy nặng bao nhiêu kg và có dễ mang theo khi di chuyển không?,0,1,1
+Cổng kết nối trên máy gồm những loại nào và có hỗ trợ Thunderbolt 4 không?,0,0,1
+Pin của Lenovo ThinkBook 16 G6 dùng được bao lâu khi làm việc văn phòng?,0,0,1
+Màn hình Lenovo ThinkBook 16 G6 có độ phân giải màn hình bao nhiêu?,0,0,1
+Có hỗ trợ cài đặt lại Windows không?,0,0,1
+Máy có thời gian sử dụng pin bao lâu?,0,0,1
+Máy có hỗ trợ cổng USB Type-C không,0,0,1
+Máy có chơi game được không?,0,1,0
+Máy có hỗ trợ nâng cấp RAM và ổ cứng không,0,0,1
+Laptop này có bị nóng khi sử dụng lâu dài không?,0,0,1
+"Card đồ họa NVIDIA RTX trên máy có thể xử lý đồ họa 3D mượt mà không?
+",0,0,1
+"Pin của laptop này dùng được bao lâu khi không cắm sạc?
+",0,0,1
+Con này có tính năng bật giới hạn sạc pin không?,0,0,1
+Có cổng kết nối với màn hình rời không?,0,0,1
+Con này RAM nâng được tối đa 64GB không?,0,0,1
+Máy có hỗ trợ webcam không?,0,0,1
+Máy có hỗ trợ cổng HDMI không?,0,0,1
+Máy có hỗ trợ kết nối Wi-Fi 6 không?,0,0,1
+Máy có trọng lượng và kích thước như thế nào?,0,0,1
+Máy có hỗ trợ nâng cấp RAM và ổ cứng không?,0,0,1
+Màn hình của máy có kích thước và độ phân giải bao nhiêu?,0,0,1
+Cấu hình máy,0,0,1
+"Laptop nào phù hợp cho văn phòng, kinh doanh với CPU Intel i9 dòng H, RAM 16GB và SSD 512GB?",0,1,1
+Pin máy dùng có lâu không?,0,0,1
+laptop này có nặng lắm không?,0,0,1
+Máy đã có cài sẵn Windows và Office chưa?,0,0,1
+Sản phẩm có đèn bàn phím không?,0,0,1
+Máy này có màn nhám không,0,0,1
+Máy có hỗ trợ nâng cấp SSD không?,0,0,1
+Màn hình con này có cảm ứng không và có phải màn hình nhám không?,0,0,1
+Dòng này có i7 không?,0,0,1
+FPT có nhận lắp thêm RAM không?,0,0,1
+Bản này có led phím 7 màu giống hình không?,0,0,1
+Máy Lenovo LOQ 2024 RTX 4050 có đáp ứng tốt nhu cầu vừa lập trình vừa chơi game AAA không?,0,1,1
+Máy Lenovo LOQ 2024 RTX 4050 có thể nâng cấp tối đa bao nhiêu RAM?,0,1,1
+RAM có nâng cấp được không?,0,0,1
+Tại sao ổ cứng SSD 512GB hiển thị còn 474GB?,0,0,1
+Sản phẩm có cài sẵn Office bản quyền không?,0,0,1
+Giá laptop HP 15-fd1060TU bao nhiêu?,0,0,1
+Bộ nhớ RAM có thể nâng cấp được không?,0,0,1
+Máy có hỗ trợ Bluetooth không,0,0,1
+Máy có bao nhiêu cổng USB?,0,0,1
+Thời lượng pin bao lâu,0,0,1
+Trọng lượng của máy là bao nhiêu,0,0,1
+MacBook Air M2 bảo hành bao lâu?,0,0,1
+MacBook Air M2 có bị lag khi dùng lâu không?,0,0,1
+Thời điểm ra mắt sản phẩm?,0,0,1
+Máy có bàn phím số không,0,0,1
+MacBook Air M2 có bảo mật bằng vân tay không?,0,0,1
+Loa ngoài của MacBook Air có tốt không?,0,0,1
+Máy hỗ trợ wifi chuẩn nào?,0,0,1
+Trackpad trên MacBook Air có to không?,0,0,1
+Chất liệu máy thế nào?,0,0,1
+MacBook Air 15 inch nặng bao nhiêu?,0,0,1
+Máy này có phù hợp để chỉnh sửa video không?,0,1,0
+Pin MacBook Air 15 inch dùng được bao lâu?,0,0,1
+Có bao nhiêu màu sắc của mẫu này?,0,0,1
+Màn hình bao nhiêu inch?,0,0,1
+Ổ cứng 256GB có bị chậm khi dùng không?,0,0,1
+Sản phẩm này có chơi game nặng được không?,0,1,0
+MacBook Air 15 inch M2 2023 giá bao nhiêu?,1,0,0
+Mẫu này RAM bao nhiêu GB?,0,0,1
+Sản phẩm được bảo hành như thế nào?,0,0,1
+máy này bán bao nhiêu tiền?,1,0,0
+Laptop i7 chơi lol có ổn không?,0,1,1
+"màn hình lớn, chip i7, nâng cấp RAM, dùng lâu dài",0,1,1
+Máy có sẵn Office không?,0,0,1
+Máy đáp ứng được nhu cầu chơi game cơ bản không?,0,1,0
+Máy có sẵn Windows bản quyền chưa?,0,0,1
+Có hỗ trợ nâng cấp lên 32GB không?,0,0,1
+Mẫu này có gì mới so với phiên bản cũ?,0,0,1
+Máy có TrackPoint không?,0,0,1
+Máy này trọng lượng bao nhiêu?,0,0,1
+máy có hỗ trợ webcam không?,0,0,1
+Bản này là 2050 hay 3050 và bàn phím LED nhiều màu hay đơn sắc trắng?,0,0,1
+Máy có hỗ trợ Wi-Fi 6 không?,0,0,1
+Máy sử dụng card đồ họa nào,0,0,1
+Máy có bao nhiêu khe cắm RAM,0,0,1
+Tần số quét màn hình là bao nhiêu,0,0,1
+Laptop Lenovo gaming mạnh tầm giá 20 triệu nào hợp lý?,1,1,0
+Con này bán bao nhiêu tiền?,1,0,0
+Giá giảm sau cùng có HSSV là bao nhiêu?,1,0,0
+Pin máy sử dụng lâu không?,0,0,1
+Cấu hình RAM trong máy?,0,0,1
+Màn hình máy như thế nào?,0,0,1
+Chip của máy như thế nào?,0,0,1
+Lenovo Ideapad Slim 5 có màn hình bao nhiêu inch?,0,0,1
+Máy này bao nhiêu inch?,0,0,1
+Có card đồ họa rời không?,0,0,1
+Bảo hành bao lâu?,0,0,1
+Laptop này nâng cấp RAM được không?,0,0,1
+Máy có office vĩnh viễn không?,0,0,1
+Có đèn bàn phím không?,0,0,1
+Máy này màn hình bao nhiêu inch và tần số quét bao nhiêu?,0,0,1
+Máy này có nâng cấp RAM được không?,0,0,1
+Laptop này nặng bao nhiêu và có dễ mang đi lại không?,0,0,1
+Laptop có bảo mật vân tay không?,0,0,1
+Cổng Type-C máy này có hỗ trợ DisplayPort không?,0,0,1
+Màn hình con này là IPS hay LED?,0,0,1
+"Laptop nào mạnh, cấu hình CPU i5 dòng H, chuyên dùng cho đồ họa và xử lý dữ liệu phức tạp trong phân khúc giá?",1,1,1
+Giá của máy này là bao nhiêu?,1,0,0
+khi mua máy có được cài Office 365 không?,0,0,1
+Máy này dùng chơi game được không?,0,1,0
+tư vấn laptop cho học thiết kế,0,1,0
+máy này dùng để học thiết kế được không,0,1,0
+Máy này chơi game có ổn không?,0,1,0
+nâng cấp SSD được không?,0,0,1
+"Laptop nào mỏng gọn, mạnh mẽ, có đồ họa RTX 4060 6GB cho game thủ?",0,1,1
+Laptop này màn hình là OLED hay LCD?,0,0,1
+laptop này có sử dụng cho tác vụ 2D và design được không?,0,1,0
+ASUS Gaming Vivobook K3605ZU-RP296W có đáp ứng tốt nhu cầu chơi game và thiết kế đồ họa nặng không?,0,1,0
+Máy này làm 3D được không?,0,1,0
+Phiên bản này so với phiên bản RTX 2050 có khác nhau nhiều không?,0,0,1
+"Laptop đồ họa tầm trung cho học tập, có đủ cổng kết nối",0,1,1
+Máy này chơi Genshin Impact có được không?,0,1,0
+Laptop này nâng ổ cứng được không,0,0,1
+Máy này có hỗ trợ kết nối Thunderbolt không?,0,0,1
+Thời lượng pin của máy khi sử dụng cơ bản là bao lâu?,0,0,1
+Ổ cứng SSD 512GB có khe cắm mở rộng để nâng cấp không?,0,0,1
+Màn hình 14 inch của MSI Gaming Cyborg có hỗ trợ độ phân giải Full HD không?,0,0,1
+Máy có các cổng kết nối nào?,0,0,1
+Màn hình và tần số quét như thế nào?,0,0,1
+Laptop có cổng kết nối nào?,0,0,1
+pin laptop có tốt không?,0,0,1
+Laptop MSI Gaming Katana A15 sử dụng bộ vi xử lý gì?,0,0,1
+Pin dòng này dùng được bao nhiêu tiếng?,0,0,1
+Máy này có chip Ultra gen2 không?,0,0,1
+Ứng dụng AI có dùng được khi không kết nối mạng không?,0,1,0
+Windows 11 kèm theo máy có phải là bản quyền không?,0,0,1
+có phải 100 dci-p3 không?,0,0,1
+Máy có tích hợp bàn phím RGB không?,0,0,1
+Thời lượng pin của MSI Gaming Thin 15 khi chơi game là bao lâu?,0,0,1
+Trọng lượng của máy là bao nhiêu?,0,0,1
+RAM bao nhiêu GB và có nâng cấp được không?,0,0,1
+Máy có tản nhiệt tốt khi chơi game lâu không?,0,1,1
+Laptop MSI Gaming Thin 15 có hỗ trợ chơi game cấu hình cao không?,0,1,1
+Bluetooth trên máy là phiên bản mấy?,0,0,1
+Tản nhiệt trên Gigabyte Gaming G5 có hoạt động hiệu quả khi chơi game lâu dài không?,0,0,1
+Ổ cứng SSD 512GB có khe cắm mở rộng không?,0,0,1
+Hiệu năng thực tế của Intel Core i5-13500H như thế nào?,0,0,1
+Chất lượng hình ảnh webcam tích hợp như thế nào?,0,0,1
+Máy có trọng lượng bao nhiêu và có phù hợp để mang đi học không?,0,1,1
+"Chất liệu vỏ của laptop này là nhựa hay kim loại?
+",0,0,1
+Gigabyte Gaming G5 có độ bền tốt không?,0,0,1
+"Pin của laptop này sử dụng được bao lâu khi không chơi game?
+",0,0,1
+Ổ cứng SSD có dung lượng bao nhiêu và tốc độ đọc/ghi ra sao?,0,0,1
+Laptop có hỗ trợ đèn nền bàn phím RGB không?,0,0,1
+"Dung lượng RAM mặc định của máy là bao nhiêu GB, có thể nâng cấp không?",0,0,1
+Laptop này có màn hình tần số quét bao nhiêu Hz?,0,0,1
+"Card đồ họa là loại nào, có phù hợp để chơi game nặng không?",0,1,1
+Laptop Gigabyte Gaming G5 có hỗ trợ công nghệ làm mát đặc biệt nào không?,0,0,1
+Máy có cài đặt sẵn hệ điều hành không?,0,0,1
+Trọng lượng máy là bao nhiêu và có tiện mang đi học hàng ngày không?,0,1,1
+Thời lượng pin của Lenovo Legion Slim 5 16AHP9 là bao lâu?,0,0,1
+Màn hình có kích thước và độ phân giải bao nhiêu? Dùng học đồ họa được không?,0,1,1
+Máy có công nghệ màn hình đặc biệt nào không?,0,0,1
+Cấu hình của máy như thế nào?,0,0,1
+Máy có hỗ trợ tác vụ đồ họa nặng không?,0,1,0
+Chất lượng màn hình thế nào?,0,0,1
+Máy có bị nóng khi sử dụng không?,0,0,1
+Pin của máy sử dụng được bao lâu?,0,0,1
+Hiệu năng của laptop này như thế nào?,0,0,1
+Máy có tích hợp webcam không?,0,0,1
+Máy hỗ trợ cổng kết nối nào?,0,0,1
+HP 14s-dq5121TU sử dụng hệ điều hành nào?,0,0,1
+Máy có trọng lượng bao nhiêu?,0,0,1
+"Màn hình của HP 14s-dq5121TU có kích thước và độ phân giải bao nhiêu?
+
+",0,0,1
+Laptop HP 14s-dq5121TU i3-1215U có cấu hình như thế nào,0,0,1
+Máy này có cảm ứng màn không?,0,0,1
+FPT Shop có hỗ trợ nâng cấp RAM không?,0,0,1
+Máy có hỗ trợ nâng cấp RAM không?,0,0,1
+có cài sẵn Windows bản quyền không?,0,0,1
+Dòng này có webcam tích hợp không?,0,0,1
+laptop này có loa thế nào,0,0,1
+Máy này có phù hợp nhu cầu văn phòng không?,0,1,0
+laptop chơi game ổn không?,0,1,0
+Laptop nào phù hợp cho công việc văn phòng?,0,1,0
+"Laptop nào giá rẻ, phù hợp học tập, làm việc đơn giản, khởi động nhanh mượt các phần mềm word, excel?",1,1,0
+Laptop dưới 10 triệu cấu hình và hiệu năng tốt nhất cho học tập và công việc văn phòng,1,1,0
+Màn hình máy này có tốt không?,0,0,1
+Máy có chất liệu gì?,0,0,1
+Máy này có camera không hay cần lắp thêm camera rời?,0,0,1
+Có thể lắp thêm ổ HDD cho máy không?,0,0,1
+Máy này có mấy khe RAM và có nâng cấp được không?,0,0,1
+"Laptop nào giá rẻ nhất cho công việc văn phòng, học tập và tác vụ nhẹ?",1,1,0
+máy có cảm ứng màn hình không?,0,0,1
+Windows bản quyền Home hay Pro?,0,0,1
+"Máy này có sử dụng được Word, Excel không?",0,1,0
+Máy có sẵn phần mềm Windows 11 Home và Microsoft Office không?,0,0,1
+"Máy tầm trung nào phù hợp học tập, làm việc, màn hình độ sáng vừa phải, đủ cổng kết nối?",1,1,0
+"Laptop nào cho nhu cầu cơ bản, đa nhiệm, RAM 16GB, màn hình học tập/văn phòng?",0,1,1
+Laptop nào tốt cho sinh viên học tập và nghiên cứu?,0,1,0
+"Laptop nào cho học sinh, văn phòng, lướt web nhanh, giá mềm?",1,1,0
+"Laptop giá rẻ chạy tốt phần mềm văn phòng và đồ họa cơ bản, CPU tiết kiệm pin và hiệu năng ổn định.",1,1,1
+Máy có cài sẵn Windows không?,0,0,1
+Mẫu này bảo hành bao lâu?,0,0,1
+"Laptop Asus nào mỏng gọn đẹp, mạnh mẽ cho văn phòng, kế toán, làm việc dữ liệu nhanh?",0,1,0
+Máy có chơi được FIFA không? Có nâng cấp card đồ họa được không?,0,1,1
+Sạc qua đêm có ảnh hưởng pin không,0,0,1
+Cổng Type-C của dòng này có hỗ trợ sạc laptop không?,0,0,1
+Có cảm ứng màn hình không?,0,0,1
+Màn hình 16 inch có tản nhiệt mát hơn màn hình 14 inch không?,0,0,1
+Màn hình 16 inch FHD+ có tỉ lệ 16:10 không?,0,0,1
+"Dòng Aspire Lite này có khả năng nâng cấp RAM, SSD không?",0,0,1
+máy này chạy đồ họa và các phần mềm thiết kế như Adobe Photoshop có mượt không?,0,1,0
+"Laptop nào mỏng nhẹ, dễ mang đi làm hàng ngày?",0,1,0
+Nên chọn laptop nào để chơi game?,0,1,0
+màn hình hiển thị có rõ không?,0,0,1
+Bàn phím có đèn không?,0,0,1
+Laptop này có nặng không?,0,0,1
+Cần mua thêm Office không?,0,0,1
+Máy này học thiết kế đồ họa được không?,0,1,0
+Độ phủ màu SRGB của máy này là bao nhiêu?,0,0,1
+MSI Gaming Katana 15 có tính năng bảo mật như nhận diện vân tay hoặc nhận diện khuôn mặt không?,0,0,1
+Laptop này hỗ trợ công nghệ âm thanh gì và có phù hợp để chơi game với âm thanh sống động không?,0,1,1
+Thời lượng pin của MSI Gaming Katana 15 khi chơi game hoặc làm việc lâu dài là bao lâu?,0,0,1
+"Bàn phím MSI Gaming Katana 15 có tính năng đặc biệt gì, như đèn LED RGB hay phản hồi nhanh cho game thủ?",0,0,1
+"Máy có hỗ trợ cổng USB-C, HDMI hoặc Thunderbolt không?",0,0,1
+Hiệu quả làm mát của MSI Gaming Katana 15 khi chơi game lâu dài?,0,0,1
+"Máy có nâng cấp được RAM và ổ cứng không, và dung lượng tối đa là bao nhiêu?",0,0,1
+MSI Gaming Katana 15 có card đồ họa rời nào và có chạy tốt game AAA hiện đại không?,0,1,1
+"Màn hình MSI Gaming Katana 15 có độ phân giải và tần số quét bao nhiêu, có đủ đáp ứng nhu cầu chơi game và đồ họa không?",0,1,1
+MSI Gaming Katana 15 với chip Intel Core i5-13500H có xử lý mượt mà các tác vụ chơi game hoặc công việc hiệu suất cao không?,0,1,1
+Máy có Office vĩnh viễn chưa?,0,0,1
+Máy sử dụng Ryzen 7435 hay 7735?,0,0,1
+máy có hỗ trợ nâng cấp RAM không?,0,0,1
+Có sẵn Office chưa?,0,0,1
+Máy này nặng bao nhiêu kg?,0,0,1
+Laptop có nâng cấp RAM được không?,0,0,1
+Máy có nặng không?,0,0,1
+Máy này có chơi game ổn không?,0,1,0
+màn hình có đẹp không?,0,0,1
+Máy có hỗ trợ công nghệ âm thanh đặc biệt không?,0,0,1
+Thiết kế của laptop có gì đặc biệt?,0,0,1
+Laptop có hỗ trợ Wi-Fi 6E không,0,0,1
+Laptop có những cổng kết nối nào,0,0,1
+Màn hình laptop có đặc điểm gì nổi bật,0,0,1
+Kích thước và độ phân giải màn hình của máy,0,0,1
+máy này có tản nhiệt 2 quạt không?,0,0,1
+Laptop này có phù hợp cho học tập và làm việc văn phòng không?,0,1,0
+Laptop này có phù hợp cho công việc đồ họa không?,0,1,0
+Laptop này có phù hợp cho việc chơi game nặng không?,0,1,0
+"Màn hình của máy có kích thước và độ phân giải bao nhiêu?
+
+",0,0,1
+Laptop Acer Gaming Aspire 5 A515-58G-53CM có cấu hình như thế nào?,0,0,1
+Sản phẩm có giá bao nhiêu?,1,0,0
+Hệ thống tản nhiệt trên MSI Prestige 14 có hoạt động hiệu quả không?,0,0,1
+Độ phủ màu màn hình 100 sRGB có ý nghĩa gì với người làm đồ họa không?,0,1,1
+Công nghệ True Pixel Display trên máy là gì?,0,0,1
+Laptop này có hỗ trợ kết nối Wi-Fi 6 không?,0,0,1
+RAM 16GB DDR4 có thể nâng cấp được không?,0,0,1
+"MSI Prestige 14 có chạy tốt Photoshop, Illustrator không?",0,1,0
+Card đồ họa NVIDIA GeForce GTX 1650 Max-Q có phù hợp để chỉnh sửa video không?,0,1,1
+Laptop này có xử lý tốt các tác vụ đồ họa nặng không?,0,1,0
+Lenovo Legion Pro 5 16IRX9 có hỗ trợ VR không?,0,0,1
+Máy có tính năng bảo mật nào đặc biệt không?,0,0,1
+Lenovo Legion Pro 5 16IRX9 có phù hợp cho công việc đồ họa không?,0,1,0
+Máy có hỗ trợ công nghệ sạc nhanh không?,0,0,1
+Hệ điều hành Windows 11 trên máy có bản quyền không?,0,0,1
+"Lenovo Legion Pro 5 16IRX9 có bao nhiêu cổng kết nối?
+
+",0,0,1
+"Thời lượng pin của Lenovo Legion Pro 5 16IRX9 là bao lâu?
+
+",0,0,1
+Máy hỗ trợ công nghệ làm mát nào để duy trì hiệu suất?,0,0,1
+"Card đồ họa RTX 4060 8GB có đủ mạnh để chơi các game hiện đại không?
+
+",0,1,1
+Laptop Lenovo Legion Pro 5 16IRX9 có hiệu năng như thế nào?,0,0,1
+máy này có giá bao nhiêu?,1,0,0
+RAM 8GB DDR4 có hỗ trợ nâng cấp lên 16GB không?,0,0,1
+Công nghệ âm thanh Harman Kardon trên máy có chất lượng tốt không?,0,0,1
+Màn hình OLED 14 inch có đạt chuẩn 2.8K không?,0,0,1
+Bảo hành hãng 2 năm cộng thêm 1 năm bảo hành FPT Shop là 3 năm đúng không?,0,0,1
+thời lượng pin của laptop này là bao lâu,0,0,1
+Có các máy nào chơi game tốt,0,1,0
+Máy này bảo hành sao,0,0,1
+Máy cho nữ dùng có nặng không?,0,1,1
+Màn hình có lớn không và tần số quét là bao nhiêu?,0,0,1
+laptop có đèn bàn phím không?,0,0,1
+Máy này có bền không?,0,0,1
+con này có cổng USB-C không,0,0,1
+laptop này có cài sẵn Windows bản quyền không?,0,0,1
+laptop này chơi game có ổn không,0,1,0
+máy này có màn hình cảm ứng?,0,0,1
+laptop này có phù hợp nhu cầu văn phòng không,0,1,0
+Máy có hỗ trợ công nghệ Ray Tracing không?,0,0,1
+MSI Gaming Katana 15 B13VFK có vân tay hoặc nhận diện khuôn mặt không?,0,0,1
+Dung lượng RAM của MSI Gaming Katana 15 B13VFK là bao nhiêu và có thể nâng cấp thêm không?,0,0,1
+Màn hình của MSI Gaming Katana 15 B13VFK có kích thước bao nhiêu và độ phân giải thế nào?,0,0,1
+Laptop MSI Gaming Katana 15 B13VFK sử dụng chip xử lý nào và hiệu năng ra sao?,0,0,1
+Máy này bảo hành bao lâu và có lỗi nhà sản xuất thì sao?,0,0,1
+Bàn phím có đèn nền không?,0,0,1
+Máy có những cổng kết nối nào?,0,0,1
+Máy có hỗ trợ bút cảm ứng không?,0,0,1
+Hiệu năng của máy có đáp ứng được các tác vụ nặng không?,0,1,0
+Màn hình của máy có đặc điểm gì nổi bật?,0,0,1
+Thiết kế của HP Envy x360 14-fa0045AU có gì đặc biệt và có phù hợp cho sinh viên không?,0,1,1
+Trọng lượng của laptop là bao nhiêu?,0,0,1
+Laptop này có phù hợp cho việc chơi game không?,0,1,0
+Thời lượng pin của máy kéo dài bao lâu?,0,0,1
+Màn hình laptop có kích thước và độ phân giải bao nhiêu?,0,0,1
+Asus TUF Gaming FA506NFR-HN006W có cấu hình như thế nào?,0,0,1
+Lenovo Legion 5 2024 thân máy toàn kim loại hay chỉ mặt A kim loại?,0,0,1
+Máy này có vân tay và nhận diện khuôn mặt không?,0,0,1
+máy này dùng học CNTT 3-4 năm có ổn không?,0,1,0
+Màn hình máy bao nhiêu inch?,0,0,1
+Sản phẩm có RAM loại DDR mấy?,0,0,1
+Máy có hỗ trợ cổng tai nghe 3.5mm không?,0,0,1
+Laptop có khe cắm thẻ nhớ không?,0,0,1
+Hệ điều hành được cài đặt sẵn trên máy là gì?,0,0,1
+Sản phẩm có độ phân giải màn hình là bao nhiêu?,0,0,1
+Dung lượng ổ cứng của laptop bao nhiêu?,0,0,1
+Laptop này sử dụng bộ vi xử lý nào?,0,0,1
+máy có đèn bàn phím không?,0,0,1
+Máy có nâng cấp RAM được không?,0,0,1
+Kích thước màn hình của laptop là bao nhiêu,0,0,1
+Máy có nâng cấp được RAM và ổ cứng không?,0,0,1
+Màn hình máy như thế nào,0,0,1
+Máy có trọng lượng như thế nào,0,0,1
+cấu hình Lenovo Ideapad Slim 5 14IMH9 Ultra 5-125H,0,0,1
+Máy này có MUX Switch không?,0,0,1
+Hỗ trợ nâng cấp RAM khi mua máy mới có làm mất bảo hành không và nếu có thì dùng RAM hãng hay RAM tự chuẩn bị?,0,0,1
+chi phí nâng thêm 1 thanh RAM 8GB là bao nhiêu?,0,0,1
+Máy này đang dùng RAM gì?,0,0,1
+Máy có cổng HDMI không?,0,0,1
+Máy có hệ thống tản nhiệt như thế nào,0,0,1
+Laptop có bao nhiêu cổng USB,0,0,1
+Laptop nào nhẹ cho sinh viên hay di chuyển nhiều?,0,1,0
+laptop này có phù hợp với nhu cầu văn phòng không?,0,1,0
+Có bao nhiêu màu?,0,0,1
+Laptop được làm từ chất liệu gì?,0,0,1
+Thời điểm ra mắt khi nào?,0,0,1
+MacBook Pro 14 có nóng khi sử dụng lâu không?,0,0,1
+Thời gian bảo hành thế nào?,0,0,1
+Sử dụng wifi nào?,0,0,1
+Thời lượng pin MacBook Pro 14 2023 là bao lâu?,0,0,1
+MacBook Pro 2023 chạy macOS nào?,0,0,1
+Cổng kết nối thế nào?,0,0,1
+MacBook Pro 14 2023 nặng bao nhiêu,0,0,1
+8GB RAM có đủ dùng không?,0,1,1
+MacBook Pro M3 có chơi game tốt không?,0,1,0
+Màn hình này có tần số quét cao không?,0,0,1
+MacBook Pro 14 2023 sử dụng loại màn hình gì,0,0,1
+MacBook Pro 14 M3 có tốt để chỉnh sửa video không?,0,1,0
+Máy này có Office Home 2024 dùng vĩnh viễn không?,0,0,1
+"Laptop nào tốt cho đồ họa, sáng tạo nội dung, render video và thiết kế?",0,1,0
+Thông số màn hình và SSD của ASUS TUF Gaming A15 FA506NCR trên web có sai với thực tế không?,0,0,1
+Hệ điều hành cài sẵn trên máy là gì?,0,0,1
+Bàn phím có đèn nền không và có gõ êm không?,0,0,1
+RAM của máy có thể nâng cấp được không?,0,0,1
+Máy có hỗ trợ cảm ứng trên màn hình không?,0,0,1
+Thời lượng pin sử dụng bao lâu cho công việc văn phòng?,0,0,1
+Máy có màn hình bao nhiêu inch và độ phân giải là gì?,0,0,1
+Máy này có card rời không?,0,0,1
+Máy có card đồ họa rời hay card tích hợp?,0,0,1
+Con này chơi game ổn không?,0,1,0
+"So sánh Aspire 7 và Dell Inspiron N3520 i5 1235U/8GB/512GB/15.6FHD/Win11/Office HS21, con nào dùng lâu dài tốt hơn?",0,1,0
+Học công nghệ thông tin thì sử dụng laptop nào ổn?,0,1,0
+Con này sử dụng bộ vi xử lý nào?,0,0,1
+Màn hình có kích thước và độ phân giải bao nhiêu?,0,0,1
+ASUS Vivobook S16 OLED này có bảo mật vân tay không?,0,0,1
+Thời lượng pin bao lâu?,0,0,1
+ASUS Vivobook S16 OLED S5606MA-MX051W có trọng lượng và kích thước như thế nào?,0,0,1
+Sản phẩm này có hỗ trợ cài đặt Office miễn phí không?,0,0,1
+Hệ thống âm thanh có tích hợp công nghệ gì đặc biệt không?,0,0,1
+Máy có phù hợp để xử lý đồ họa hoặc lập trình không?,0,1,0
+Máy có chạy tốt ứng dụng văn phòng và họp trực tuyến không?,0,1,0
+"Thời lượng pin của máy là bao lâu khi sử dụng thông thường?
+",0,0,1
+Laptop này có cảm biến vân tay không?,0,0,1
+Dell Inspiron N3520 có hỗ trợ phần mềm bản quyền đi kèm không?,0,0,1
+"Giá của Dell Inspiron N3520 hiện nay là bao nhiêu?
+",1,0,0
+"RAM máy này chuẩn 3200 không, âm thanh như thế nào?",0,0,1
+Máy có chơi được game AAA cấu hình trung bình không?,0,1,0
+Laptop nào chơi Liên Minh tốt?,0,1,0
+Máy có cổng Thunderbolt không hay chỉ hỗ trợ USB-C thường?,0,0,1
+Máy có nóng khi chơi game hoặc chạy phần mềm nặng không? Quạt tản nhiệt có ồn không?,0,1,1
+Pin của máy có hỗ trợ sạc nhanh không và thời gian sạc đầy là bao lâu?,0,0,1
+Máy này có mở rộng RAM hoặc SSD không?,0,0,1
+Màn hình 14 inch 2.2K có hỗ trợ cảm ứng không và độ sáng tối đa là bao nhiêu nit?,0,0,1
+pin của máy này bao nhiêu Wh,0,0,1
+Sản phẩm có sẵn Office không?,0,0,1
+cấu hình này chơi được CS2 không,0,1,1
+laptop có nâng cấp lên 16GB RAM được không?,0,0,1
+cấu hình máy này chơi được game Roblox showcases với GTA 5 không,0,1,0
+Máy có thể dùng để lập trình không?,0,1,0
+Hệ điều hành mặc định là gì?,0,0,1
+Máy có hỗ trợ Face ID không?,0,0,1
+Cổng kết nối trên MacBook Air M2 có gì mới?,0,0,1
+MacBook Air M2 phù hợp với ai?,0,1,0
+Thời lượng pin của MacBook Air M2 bao lâu?,0,0,1
+Màn hình Liquid Retina có đặc điểm gì nổi bật?,0,0,1
+Máy có thiết kế như thế nào?,0,0,1
+Dung lượng RAM 16GB của máy có ít không?,0,0,1
+Máy này dùng cho đồ họa và chỉnh sửa video có ổn không?,0,1,0
+MacBook Air M2 2022 có các cổng kết nối gì?,0,0,1
+Bàn phím MacBook Air M2 2022 có tốt không?,0,0,1
+máy tản nhiệt tốt không?,0,0,1
+Có hỗ trợ phần mềm văn phòng như Microsoft Office không?,0,1,0
+MacBook có chạy tốt phần mềm lập trình không?,0,1,0
+Thời lượng pin của MacBook dùng bao lâu?,0,0,1
+"MacBook có kết nối với điện thoại, tablet và màn hình ngoài không?",0,0,1
+Bàn phím có dễ dùng không?,0,0,1
+Máy này dùng được đồ họa nặng như Adobe Photoshop và Illustrator không?,0,1,0
+hệ điều hành dùng có ổn định không,0,0,1
+hiệu năng MacBook M1 so với các laptop khác trên thị trường?,0,0,1
+Mac Air M2 giá bao nhiêu?,1,0,0
+"So sánh chip máy này với i3 1215u, cái nào mạnh hơn?",0,0,1
+Độ phủ màu bao nhiêu?,0,0,1
+máy sử dụng công nghệ màn hình gì?,0,0,1
+có thể nâng cấp RAM được không,0,0,1
+Máy này có dùng để dạy Văn được không?,0,1,0
+máy này có phù hợp để học ngoại ngữ không,0,1,0
+Máy này có hỗ trợ nâng RAM không?,0,0,1
+Máy này dùng để dạy học được không? Có cổng trình chiếu không?,0,1,1
+Laptop nào cho con học đại học?,0,1,0
+Macbook M1 có chạy được Photoshop không?,0,1,0
+Máy có nóng khi sử dụng lâu không?,0,0,1
+máy có hỗ trợ cổng HDMI không?,0,0,1
+chơi được game nặng ổn không,0,1,0
+làm đồ họa có ổn không?,0,1,0
+Bàn phím MacBook có đèn không,0,0,1
+Máy này học lập trình được không?,0,1,0
+Dòng này có cài sẵn hệ điều hành không?,0,0,1
+máy có những cổng kết nối nào?,0,0,1
+Màn hình MacBook này là loại gì,0,0,1
+Con này có chơi được game không?,0,1,0
+pin máy này dùng được bao lâu,0,0,1
+Có thể chọn gói Microsoft Office vĩnh viễn không?,0,0,1
+"Máy có sẵn phần mềm văn phòng như Word, PowerPoint, Excel không?",0,0,1
+MacBook này có Touch ID không?,0,0,1
+có nâng cấp được RAM và ổ cứng không?,0,0,1
+máy có bàn phím số không?,0,0,1
+Máy này có bao nhiêu cổng kết nối?,0,0,1
+Sản phẩm có thể sử dụng cho những công việc nào?,0,1,0
+máy dùng màn hình gì?,0,0,1
+MacBook Air 13 M1 2020 có đặc điểm gì nổi bật so với các dòng MacBook khác?,0,0,1
+Máy này có phù hợp cho sinh viên năm 1 không?,0,1,0
+"Máy có thiết kế vỏ kim loại hay nhựa, độ bền như thế nào?",0,0,1
+RAM 12GB có nâng cấp được không và tối đa bao nhiêu?,0,0,1
+có thể thay RAM gốc khi nâng cấp RAM cũ không?,0,0,1
+Máy này giá bao nhiêu?,1,0,0
+Tại sao SSD 512GB trên laptop chỉ hiển thị 230GB?,0,0,1
+"Máy này có 16GB RAM hay có thể nâng cấp RAM không, và chi phí nâng cấp là bao nhiêu?",1,0,1
+Máy này có sạc bằng cổng type c không?,0,0,1
+Sạc kèm theo máy bao nhiêu watt?,0,0,1
+Thời lượng pin khoảng bao nhiêu?,0,0,1
+"Bàn phím có đèn không, máy có chạy mượt tác vụ nặng khi không cắm sạc không?",0,1,1
+Máy còn bảo hành khi nâng cấp RAM trực tiếp tại cửa hàng không?,0,0,1
+Hỗ trợ lắp thêm RAM không?,0,0,1
+Có chỗ lắp thêm SSD 1TB không?,0,0,1
+Máy này bảo hành chính hãng mấy năm?,0,0,1
+Nâng cấp RAM 8GB cho máy này có làm mất bảo hành không?,0,0,1
+máy có hỗ trợ loa kép không?,0,0,1
+Mang qua FPT nâng cấp RAM được không?,0,0,1
+Chip 3050 H dùng cho nhiều nhu cầu được không?,0,1,0
+Máy này tản nhiệt có tốt để chơi game không?,0,1,0
+"2 khe SSD, mỗi khe lắp được 1TB (tổng 2TB) hay cả 2 khe lắp tối đa 1TB?",0,0,1
+"Giá laptop này ở chi nhánh Thủ Đức Kha Vạn Cân có phải 18.450.000 không, hay giá online và giá tại cửa hàng khác nhau bao nhiêu?",1,0,0
+Sản phẩm này có đèn bàn phím không?,0,0,1
+Máy này có tương thích với phần mềm đồ họa chuyên nghiệp không?,0,1,0
+Mẫu này không chơi game thì pin dùng được trong bao lâu?,0,0,1
+"Máy này dùng ổ cứng gì, có nâng cấp được không?",0,0,1
+Màn hình có tần số quét bao nhiêu và chất lượng hiển thị như thế nào?,0,0,1
+Máy này có những cổng kết nối nào?,0,0,1
+bàn phím có đèn không,0,0,1
+Độ phủ màu của máy như thế nào?,0,0,1
+màn hình máy này bao nhiêu inch,0,0,1
+máy dùng công nghệ màn hình gì,0,0,1
+Có cài win không?,0,0,1
+Máy có hỗ trợ nâng cấp RAM không,0,0,1
+Máy có cổng kết nối HDMI không,0,0,1
+Card đồ họa của máy có đủ mạnh để chơi game không,0,1,1
+Có hỗ trợ nâng cấp RAM không?,0,0,1
+Laptop này có màn hình như thế nào?,0,0,1
+cấu hình như thế nào,0,0,1
+Laptop có nâng cấp được RAM không?,0,0,1
+Máy nâng cấp được mấy ổ SSD?,0,0,1
+Hệ điều hành gì,0,0,1
+Có hỗ trợ Wi-Fi 6 không?,0,0,1
+Màn hình có độ sáng bao nhiêu nits?,0,0,1
+Laptop này chơi game có ổn không?,0,1,0
+Laptop này chơi game có tốt không?,0,1,0
+Laptop này có phù hợp cho thiết kế nội thất không?,0,1,0
+Màn hình có tần số quét bao nhiêu?,0,0,1
+Đây là dòng mới nhất chưa?,0,0,1
+Máy này có nặng không?,0,0,1
+Máy này chơi game nặng được không?,0,1,0
+Giá máy MSI GF63 Thin 12UC là bao nhiêu?,1,0,0
+Máy có hỗ trợ các cổng kết nối nào?,0,0,1
+Dung lượng ổ cứng bao nhiêu GB và loại nào?,0,0,1
+Màn hình của máy có kích thước bao nhiêu inch?,0,0,1
+Card đồ họa của máy là loại nào?,0,0,1
+RAM của máy là bao nhiêu GB?,0,0,1
+Máy MSI GF63 Thin 12UC có bộ vi xử lý nào?,0,0,1
+Màn hình 15.6 inch FHD có chất lượng hiển thị sắc nét không?,0,0,1
+Máy có phù hợp để làm đồ họa và chỉnh sửa video chuyên nghiệp không?,0,1,0
+Thời lượng pin khi chơi game là bao lâu?,0,0,1
+Bộ nhớ RAM 16GB có nâng cấp được không?,0,0,1
+Laptop có cài sẵn win bản quyền miễn phí không?,0,0,1
+Dell Vostro 15 3520 có thiết kế mỏng nhẹ và dễ dàng mang theo khi di chuyển không?,0,0,1
+Dell Vostro 15 3520 có bảo mật vân tay hoặc phương pháp bảo mật khác không?,0,0,1
+"Các cổng kết nối trên Dell Vostro 15 3520 có hỗ trợ USB-C, HDMI hoặc cổng kết nối khác không?",0,0,1
+Thời lượng pin của máy khi dùng cho công việc văn phòng hoặc học tập là bao lâu?,0,0,1
+"Dell Vostro 15 3520 có nâng cấp được RAM và ổ cứng không, dung lượng tối đa là bao nhiêu?",0,0,1
+Dell Vostro 15 3520 có chạy đa nhiệm mượt mà khi mở nhiều ứng dụng cùng lúc không?,0,1,1
+"Màn hình Dell Vostro 15 3520 có kích thước, độ phân giải và phù hợp cho công việc, giải trí không?",0,1,1
+Dell Vostro 15 3520 với chip Intel Core i5-1235U có đủ mạnh cho công việc văn phòng và học tập không?,0,1,1
+Khởi động máy cần giữ nút nguồn 3 giây là tính năng hay lỗi nút nguồn?,0,0,1
+Thời lượng pin của Dell Vostro V3520 là bao nhiêu?,0,0,1
+Dell Vostro V3520 có bao nhiêu cổng USB và HDMI?,0,0,1
+Máy có hỗ trợ Wi-Fi và Bluetooth không?,0,0,1
+"Màn hình của Dell Vostro V3520 có kích thước và độ phân giải bao nhiêu?
+
+",0,0,1
+Dell Vostro V3520 i5-1235U có cấu hình như thế nào,0,0,1
+"Máy nào tốt nhất cho văn phòng, kinh doanh, di chuyển nhiều và có pin dùng cả ngày?",0,1,0
+"Laptop nào phù hợp cho doanh nhân và người làm văn phòng cao cấp, hiệu năng vừa phải và có thời lượng pin dài?",0,1,0
+"Laptop nào có thiết kế hiện đại, mỏng nhẹ, hoàn thiện tốt, cấu hình cao, phù hợp cho doanh nhân và người làm văn phòng?",0,1,1
+Sản phẩm này có RAM 16GB hay 8GB?,0,0,1
+máy này có bán R7 hoặc I7 không?,0,0,1
+Máy này 16GB RAM là 2x8GB hay 1x16GB?,0,0,1
+Máy này dùng keo tản nhiệt kim loại lỏng phải không? Bao lâu thì thay keo tản nhiệt một lần?,0,0,1
+"So sánh chip i5 12450H RTX 4050, con nào chơi game tốt hơn?",0,1,1
+So sánh hiệu năng giữa máy này và Acer Nitro 5 Tiger i7 12700H RTX 3050Ti về vẽ đồ họa và chạy đa nhiệm.,0,1,0
+Máy này dùng đồ họa nhẹ và Capcut có ổn không?,0,1,0
+Cấu hình này chơi Liên Minh và chỉnh sửa CapCut cơ bản có ổn không?,0,1,0
+Học cơ khí thì dùng máy này có tốt không?,0,1,0
+Quạt tản nhiệt hoạt động có gây ồn không?,0,0,1
+Thời lượng pin khi sử dụng liên tục là bao lâu?,0,0,1
+"Webcam trên máy có chất lượng tốt cho các buổi họp online không?
+",0,1,1
+Máy này vỏ nhôm hay nhựa?,0,0,1
+Độ sáng màn hình cao không?,0,0,1
+Chơi game lâu có nóng máy không?,0,0,1
+Máy này chơi game có mượt không?,0,1,0
+Acer Swift 3 giá bao nhiêu?,1,0,0
+Thời lượng pin của máy là bao lâu,0,0,1
+Acer Swift 3 có trọng lượng nhẹ không?,0,0,1
+Máy có hỗ trợ card đồ họa rời không?,0,0,1
+Cấu hình laptop này thế nào?,0,0,1
+Màn hình của Acer Swift 3 có kích thước bao nhiêu?,0,0,1
+nâng cấp RAM 16GB được không?,0,0,1
+Giá mẫu này bao nhiêu?,1,0,0
+VAIO FE14 có trọng lượng bao nhiêu?,0,0,1
+VAIO FE14 có hỗ trợ tính năng bảo mật nào không?,0,0,1
+Pin của VAIO FE14 sử dụng được bao lâu?,0,0,1
+VAIO FE14 có card đồ họa rời không?,0,0,1
+Máy này có màn hình bao nhiêu inch?,0,0,1
+Nâng RAM lên 24 GB thì hết bao nhiêu tiền?,0,0,1
+Con này năm nào?,0,0,1
+máy này là hàng chính hãng hay xách tay?,0,0,1
+RTX 4050 có mạnh hơn RTX 3050 không?,0,0,1
+Laptop này có hỗ trợ MUX switch không?,0,0,1
+Này là bản 2022 hay 2023,0,0,1
+Keo tản nhiệt là loại kim loại lỏng hay loại khác? RTX 4050 của máy này là phiên bản bao nhiêu watt?,0,0,1
+Con này dùng keo tản nhiệt gì?,0,0,1
+"Laptop nào phù hợp cho học sinh sinh viên dùng 4 năm, đồ họa mạnh, RAM 16GB đa nhiệm tốt?",0,1,1
+Máy có chơi game được không cần bàn phím rời không?,0,1,0
+"Laptop nào phù hợp cho Gen Z năng động để chơi game, học tập, giải trí với hiệu năng hàng đầu phân khúc?",0,1,0
+"Laptop nào có hiệu năng cao, chip dòng H, card đồ họa RTX 3050, chơi tốt phần mềm đồ họa và game nặng?",0,1,1
+"laptop nào mạnh cho sáng tạo nội dung, bán hàng online, học tập online?",0,1,0
+laptop nào phù hợp cho sinh viên thiết kế đồ họa chạy phần mềm chuyên dụng?,0,1,0
+Laptop này có bao nhiêu khe SSD?,0,0,1
+laptop này có ổ HDD không?,0,0,1
+"Máy nào phù hợp cho công việc chỉnh ảnh, đồ họa, làm video, sáng tạo nội dung?",0,1,0
+"Laptop nào có độ bền chuẩn quân đội cho làm việc, học tập, chơi game?",0,1,0
+"Laptop gaming nào cho sinh viên dưới 20 triệu có cấu hình cao, hiệu năng tốt, chạy được phần mềm 3D và chỉnh ảnh?",1,1,1
+"Laptop nào dùng tốt cho game, công việc, đồ họa và đa nhiệm?",0,1,0
+Dòng máy đồ họa tốt nhất trong tầm giá,1,1,0
+"laptop nào phù hợp cho marketing, làm báo cáo, trình bày, thiết kế quảng cáo, chỉnh sửa video cơ bản và dựng phim?",0,1,0
+Có nâng cấp RAM được không và chi phí nâng cấp lên 32GB là bao nhiêu?,0,0,1
+"Máy có dễ bảo trì, vệ sinh không?",0,0,1
+Máy này có tốn điện không?,0,0,1
+máy dùng bền không?,0,0,1
+Có thể nâng RAM lên 16GB được không?,0,0,1
+Máy này gắn được 3 ổ cứng không? Khe M.2 còn lại là SATA3 hay PCIe?,0,0,1
+Máy này chạy Windows 11 Home Single Language phải không?,0,0,1
+Máy này nâng cấp RAM được không?,0,0,1
+Máy có xử lý tốt phần mềm đồ họa không?,0,1,0
+Acer Nitro AN515-58-52SP chơi game nặng có bị lag không?,0,1,0
+Hàng này xách tay hay chính hãng?,0,0,1
+Máy này có ổ cứng SSD và HDD không?,0,0,1
+Dung lượng pin của máy là bao nhiêu?,0,0,1
+Con này có MUX Switch không?,0,0,1
+Dòng này tản nhiệt có tốt không?,0,0,1
+Máy có card đồ họa rời không?,0,0,1
+Máy có thể nâng cấp RAM hoặc SSD không?,0,0,1
+Chơi game có ổn không?,0,1,0
+Máy ra mắt năm nào,0,0,1
+Máy có loa ngoài chất lượng tốt không?,0,0,1
+MacBook Air M3 có tích hợp camera không,0,0,1
+Thời lượng pin của MacBook Air M3 là bao lâu,0,0,1
+giá bao nhiêu nếu thanh toán luôn?,1,0,0
+Máy hỗ trợ bao nhiêu màn hình ngoài?,0,0,1
+Chip M3 mang lại lợi ích gì so với chip M2,0,0,1
+Pin MacBook Air M3 kéo dài bao lâu,0,0,1
+Dung lượng RAM 8GB có đủ không,0,0,1
+Hiệu năng của chip M3 thế hệ mới ra sao,0,0,1
+MacBook Air M3 có bền không,0,0,1
+MacBook Air M3 có tính năng bảo mật gì,0,0,1
+Màn hình của máy có điểm gì đặc biệt?,0,0,1
+Máy phù hợp với đối tượng nào,0,1,0
+MacBook Air M3 15 inch 2024 có những tính năng nổi bật nào,0,0,1
+MacBook Air M3 15 inch có hỗ trợ sạc nhanh không,0,0,1
+Cổng kết nối của máy có gì đặc biệt,0,0,1
+Máy có bao nhiêu tùy chọn màu sắc,0,0,1
+Hiệu năng chip M3 như thế nào,0,0,1
+Màn hình máy lớn bao nhiêu,0,0,1
+MacBook Air M3 15 inch có trọng lượng bao nhiêu,0,0,1
+Máy có cổng kết nối nào,0,0,1
+Máy có hỗ trợ Wi-Fi 6E không?,0,0,1
+Chất liệu và thiết kế của máy có gì đặc biệt?,0,0,1
+Loa của MacBook Air M3 có gì nổi bật,0,0,1
+Máy có phù hợp để chỉnh sửa video không,0,1,0
+Máy có hỗ trợ Face ID không,0,0,1
+Hệ điều hành mặc định của máy là gì,0,0,1
+Sạc MagSafe có ưu điểm gì,0,0,1
+Thời lượng pin thực tế là bao lâu,0,0,1
+Máy có được bảo hành bao lâu,0,0,1
+thông số kỹ thuật cơ bản của máy,0,0,1
+Màn hình của máy có điểm gì đặc biệt,0,0,1
+Thời lượng pin của MacBook Pro M3 bao nhiêu?,0,0,1
+Webcam có độ phân giải bao nhiêu?,0,0,1
+Thời lượng pin của MacBook Pro M3?,0,0,1
+MacBook Pro M3 2024 có kích thước màn hình bao nhiêu?,0,0,1
+MacBook Pro M3 có phù hợp cho công việc lập trình không?,0,1,0
+Bảo hành chính hãng bao lâu?,0,0,1
+Macbook này nặng bao nhiêu kg?,0,0,1
+Máy ra mắt năm nào?,0,0,1
+Có phiên bản 1TB không?,0,0,1
+Máy có webcam bao nhiêu MP?,0,0,1
+Máy có cổng giao tiếp nào?,0,0,1
+MacBook Air M3 phù hợp với ai?,0,1,0
+Thời lượng pin của MacBook Air M3,0,0,1
+MacBook Air M3 có bao nhiêu màu?,0,0,1
+Máy này có cảm biến vân tay không?,0,0,1
+Loại này chơi game như TFT có ổn không?,0,1,0
+giá cài Microsoft 365 là bao nhiêu?,0,0,1
+máy này sản xuất năm nào,0,0,1
+sản phẩm ra mắt lúc nào,0,0,1
+Máy tản nhiệt tốt không?,0,0,1
+Thời lượng pin kéo dài bao lâu,0,0,1
+Máy có hỗ trợ cảm ứng không?,0,0,1
+Kích thước màn hình của máy là bao nhiêu,0,0,1
+Độ phân giải màn hình là bao nhiêu?,0,0,1
+Máy RAM bao nhiêu GB và dung lượng bao nhiêu?,0,0,1
+Máy có hỗ trợ sạc nhanh không,0,0,1
+Thời gian sử dụng pin bao lâu?,0,0,1
+Máy có hỗ trợ chơi game không,0,1,0
+Có thể nâng cấp RAM và ổ cứng không?,0,0,1
+Tần số quét của màn hình là bao nhiêu và có thể làm đồ hoạ nhẹ được không?,0,1,1
+Máy có gập được 350 độ không?,0,0,1
+Có cần mua bản quyền Office khi mua laptop không?,0,0,1
+Dell Inspiron N3520 hỗ trợ kết nối Wi-Fi 6 không?,0,0,1
+Hệ điều hành cài sẵn trên máy là Windows 10 hay Windows 11?,0,0,1
+Màn hình của Dell Inspiron N3520 có độ phân giải Full HD không?,0,0,1
+Máy có bảo mật vân tay hoặc công nghệ bảo mật khác không?,0,0,1
+Acer Aspire Lite có thiết kế mỏng nhẹ và dễ dàng mang theo khi di chuyển không?,0,0,1
+"Thời lượng pin của máy khi sử dụng liên tục là bao lâu, có đáp ứng được một ngày làm việc không?",0,1,1
+"Cổng kết nối trên máy gồm những loại nào, có hỗ trợ USB-C hoặc HDMI để kết nối màn hình ngoài không?",0,0,1
+Acer Aspire Lite AL16-51P-596H có hệ thống tản nhiệt hiệu quả để làm việc lâu dài không?,0,0,1
+Máy có khả năng chạy đa nhiệm tốt không?,0,1,0
+Dung lượng SSD của Acer Aspire Lite bao nhiêu và có nâng cấp được không?,0,0,1
+Máy này có hỗ trợ tính năng chống chói trên màn hình không?,0,0,1
+"Màn hình máy có kích thước bao nhiêu inch và độ phân giải như thế nào, có phù hợp xem phim hay làm đồ họa không?",0,1,1
+Hiệu năng Core i5-1235U trên Acer Aspire Lite có đủ cho văn phòng và học tập không?,0,1,1
+Hệ điều hành của Lenovo ThinkBook 16 G6 ABP R5 7530U là gì?,0,0,1
+Lenovo ThinkBook 16 G6 ABP R5 7530U có hỗ trợ webcam không?,0,0,1
+Máy có những cổng giao tiếp và kết nối nào?,0,0,1
+Loại vi xử lý nào được trang bị trên máy?,0,0,1
+Lenovo ThinkBook 16 G6 ABP R5 7530U có kích thước màn hình bao nhiêu inch?,0,0,1
+Dòng máy này có màn hình cảm ứng không?,0,0,1
+Bộ nhớ có thể nâng cấp lên 1TB không?,0,0,1
+Máy có đèn nền bàn phím không?,0,0,1
+Lenovo ThinkPad E14 Gen 5 có thể nâng cấp không?,0,0,1
+Máy có khe cắm thẻ nhớ không?,0,0,1
+Máy sử dụng hệ điều hành nào?,0,0,1
+Kích thước và độ phân giải màn hình của máy là gì?,0,0,1
+Dung lượng ổ cứng SSD của máy là bao nhiêu?,0,0,1
+Laptop Asus Zenbook 14 OLED UM3402YA-KM826W sử dụng bộ vi xử lý nào?,0,0,1
+Laptop này giá bao nhiêu,1,0,0
+Có cảm ứng màn hình không,0,0,1
+Độ bao phủ màu của màn hình là gì?,0,0,1
+Chất liệu vỏ là gì?,0,0,1
+Máy có nâng cấp được ổ cứng không?,0,0,1
+Máy có quạt tản nhiệt không và loa đơn hay đôi?,0,0,1
+Thông số kỹ thuật của máy là gì?,0,0,1
+Màn hình của máy có cảm ứng không?,0,0,1
+Vỏ máy làm bằng gì và có bền không?,0,0,1
+Máy có cài Windows chưa và có giá tốt cho sinh viên không?,1,1,1
+Trọng lượng laptop này bao nhiêu và có tiện mang theo cho nữ không?,0,1,1
+Máy hỗ trợ các cổng kết nối nào?,0,0,1
+Máy dùng chip gì? Có giao tại nhà không?,0,0,1
+Laptop này dùng để chơi game giải trí có tốt không?,0,1,0
+Laptop có hỗ trợ Wi-Fi 6 không?,0,0,1
+Laptop có đi kèm phần mềm Office không?,0,0,1
+Pin máy này dùng ổn không?,0,0,1
+Máy có cổng kết nối nào?,0,0,1
+Thời gian bảo hành bao nhiêu ngày?,0,0,1
+Máy này dùng văn phòng học tập ổn không?,0,1,0
+gồm những cổng giao tiếp nào?,0,0,1
+Máy này có phủ màu 100% sRGB không?,0,0,1
+Màn hình kích thước bao nhiêu,0,0,1
+Laptop còn nâng cấp thêm RAM được không?,0,0,1
+Dòng này có webcam không?,0,0,1
+Có dịch vụ gắn thêm RAM không?,0,0,1
+Máy này nâng cấp từ 512 GB lên 1 TB được không?,0,0,1
+Nâng cấp lên RAM 16GB bù bao nhiêu tiền và hiệu suất AI - 104 là gì?,1,0,1
+thời lượng pin của máy như thế nào,0,0,1
+Màn hình laptop có tần số quét bao nhiêu?,0,0,1
+Sản phẩm này có màu khác không?,0,0,1
+Máy có tản nhiệt tốt không?,0,0,1
+Máy có hỗ trợ đầu đọc vân tay không?,0,0,1
+Thời lượng pin của máy là bao lâu?,0,0,1
+Card đồ họa RTX2050 4GB có chơi được các game AAA ở thiết lập cao không?,0,1,1
+"Laptop này sử dụng loại ổ cứng SSD nào và dung lượng bao nhiêu?
+",0,0,1
+"Màn hình của Dell Vostro 14 3420 có độ phân giải là bao nhiêu?
+",0,0,1
+Có chạy được phần mềm kế toán không?,0,1,0
+Có hỗ trợ cài Microsoft bản quyền không?,0,0,1
+Nâng cấp RAM từ 8GB lên 16GB được không?,0,0,1
+Chất liệu máy là gì?,0,0,1
+Con này dùng card gì?,0,0,1
+Chơi game con này ổn không?,0,1,0
+Có hỗ trợ nâng RAM tại cửa hàng không?,0,0,1
+Màn hình có hỗ trợ cảm ứng không?,0,0,1
+Bàn phím của Lenovo Yoga 9 2in1 14IMH9 Ultra 7 155H có đèn LED không?,0,0,1
+Máy có tính năng bảo mật không?,0,0,1
+"Laptop Lenovo Yoga 9 2in1 14IMH9 Ultra 7 155H có tiện cho phụ nữ đi làm hàng ngày không và trọng lượng, kích thước là bao nhiêu?",0,1,1
+máy có những cổng kết nối nào,0,0,1
+Hiệu năng của Lenovo Yoga 9 2in1 14IMH9 Ultra 7 155H cho việc đi học như thế nào?,0,1,1
+Thời lượng pin của laptop là bao lâu?,0,0,1
+Bàn phím của laptop có tính năng gì đặc biệt?,0,0,1
+Màn hình laptop có kích thước và độ phân giải gì?,0,0,1
+Laptop MSI Gaming Vector có cấu hình như thế nào?,0,0,1
+"Lenovo Legion 7 có thiết kế, trọng lượng và độ bền như thế nào?",0,0,1
+"Màn hình có tần số quét bao nhiêu Hz, có hỗ trợ chơi game mượt mà không?",0,1,1
+Máy có bao nhiêu khe cắm SSD và dung lượng tối đa là bao nhiêu?,0,0,1
+Laptop này có những cổng kết nối nào cho gaming?,0,1,1
+Máy có card đồ họa rời không và loại gì?,0,0,1
+Máy Lenovo Legion 7 có cấu hình như thế nào?,0,0,1
+Máy có tính năng bảo mật đặc biệt không?,0,0,1
+Laptop này có thể sử dụng ở chế độ tablet không?,0,0,1
+Màn hình máy có độ phân giải và công nghệ gì? Có ổn cho học đồ họa không?,0,1,1
+Máy này làm bằng chất liệu gì và có bền không?,0,0,1
+Máy có bao nhiêu cổng kết nối và loại cổng nào?,0,0,1
+Trọng lượng laptop này bao nhiêu và có phù hợp cho con đi học thiết kế không?,0,1,1
+Laptop này có hỗ trợ bút cảm ứng không?,0,0,1
+Thông số nổi bật của máy này là gì?,0,0,1
+Cấu hình của máy như thế nào,0,0,1
+Thời lượng pin của máy ra sao,0,0,1
+Máy có phù hợp để chơi game không,0,1,0
+Bảo hành sản phẩm như thế nào,0,0,1
+Trọng lượng và độ mỏng là bao nhiêu,0,0,1
+MacBook Pro 14 2023 có hỗ trợ công nghệ dò tia không,0,0,1
+Hỗ trợ hệ điều hành nào,0,0,1
+MacBook Pro 14 2023 có bao nhiêu cổng kết nối ?,0,0,1
+Chip M3 Pro có gì nổi bật,0,0,1
+Máy nào phù hợp cho học thiết kế?,0,1,0
+MacBook Pro 14 2023 M3 Pro có những cấu hình nào,0,0,1
+Máy này chơi được Genshin và DTCL không?,0,1,0
+Máy này có tản nhiệt không?,0,0,1
+Máy bảo hành trong bao lâu,0,0,1
+Máy này có kèm Office hay phải mua riêng?,0,0,1
+Bảo hành bao lâu và như thế nào?,0,0,1
+Tại sao màn hình bị trắng?,0,0,1
+Máy nào phù hợp cho nhân viên văn phòng?,0,1,0
+Máy này loa 1 bên hay 2 bên?,0,0,1
+Dòng Slim 3 14iah8 và Slim 5 14iah8 có mở bằng vân tay hoặc Face ID không?,0,0,1
+"So sánh laptop này với Lenovo Ideapad Slim 3 - 15ABR8, máy nào dùng ổn cho văn phòng và edit cơ bản?",1,1,0
+Máy này và Lenovo Idepad Slim 3 14IAH8 khác nhau chỗ nào?,0,0,1
+Thay màn hình hết bao nhiêu tiền?,0,0,1
+Thiết kế của mẫu này có gì đặc biệt?,0,0,1
+Laptop có hỗ trợ webcam không?,0,0,1
+Kích thước và độ phân giải màn hình laptop là gì?,0,0,1
+Laptop có hỗ trợ kết nối Wi-Fi thế hệ mới không?,0,0,1
+Laptop MSI Gaming Raider GE68 HX 14VIG-496VN có cấu hình như thế nào,0,0,1
+Hệ điều hành được cài sẵn trên laptop là gì?,0,0,1
+"Laptop văn phòng nào tốt nhất, cấu hình mạnh, hiển thị màu sắc rực rỡ, chạy tốt mọi phần mềm?",0,1,0
+Thời gian bảo hành sản phẩm là bao lâu?,0,0,1
+Máy có hỗ trợ sạc nhanh không?,0,0,1
+Thiết kế của Asus Vivobook S 14 OLED có gì đặc biệt?,0,0,1
+cấu hình chi tiết sản phẩm,0,0,1
+Trọng lượng máy là bao nhiêu và mang đi làm hàng ngày có tiện không?,0,1,1
+Thiết kế HP Envy x360 14-fc0089TU có gì đặc biệt?,0,0,1
+Máy này có phải laptop AI không,0,0,1
+Máy này có cài sẵn Office không?,0,0,1
+Laptop làm bằng gì và có bền không?,0,0,1
+Máy có hệ thống tản nhiệt như thế nào?,0,0,1
+Dung lượng RAM và ổ cứng của máy là bao nhiêu?,0,0,1
+Lenovo Gaming Legion 9 16IRX8 i9 13980HX có cấu hình như thế nào?,0,0,1
+Máy có card màn hình rời không và tên là gì?,0,0,1
+Màn hình máy này có cảm ứng không?,0,0,1
+Tần số quét bao nhiêu?,0,0,1
+Laptop này có độ bền như thế nào?,0,0,1
+Dung lượng pin thế nào?,0,0,1
+Có thể sử dụng để chỉnh sửa video không?,0,1,0
+Sản phẩm có hệ thống âm thanh gì?,0,0,1
+Laptop có chơi game được không?,0,1,0
+Laptop có hỗ trợ kết nối Wi-Fi 6 không?,0,0,1
+Sản phẩm chạy hệ điều hành gì?,0,0,1
+Máy có RAM bao nhiêu?,0,0,1
+Sự khác biệt giữa cổng HDMI 2.1 và 2.0 là gì,0,0,1
+Tản nhiệt của MacBook Pro 14 2023 có tốt không,0,0,1
+Camera trước có hỗ trợ Center Stage không,0,0,1
+Có hỗ trợ công nghệ sạc nhanh không,0,0,1
+MacBook Pro 14 M3 Pro có làm nóng khi hoạt động lâu không,0,0,1
+Máy có tốt cho chơi game không,0,1,0
+Chip M3 Pro mạnh cỡ nào,0,0,1
+Máy có trọng lượng bao nhiêu,0,0,1
+Máy có hỗ trợ cổng kết nối nào?,0,0,1
+Màn hình có đặc điểm gì nổi bật?,0,0,1
+Máy có những tùy chọn màu nào,0,0,1
+Thời lượng pin của MacBook Pro 14 M3 Pro 2023 là bao lâu?,0,0,1
+MacBook Pro 14 M3 Pro 2023 có gì mới so với đời trước,0,0,1
+mua về học đồ họa có phù hợp không,0,1,0
+Dung lượng máy bao nhiêu?,0,0,1
+Có cần đế tản nhiệt không?,0,0,1
+MacBook Pro 16 inch 2023 có quạt không?,0,0,1
+Công nghệ âm thanh thế nào?,0,0,1
+"Máy chạy hệ điều hành nào?
+",0,0,1
+Tần số quét MacBook bao nhiêu?,0,0,1
+Máy dùng wifi nào?,0,0,1
+Cổng sạc của máy là gì?,0,0,1
+MacBook Pro 16 inch 2023 có chơi game được không?,0,1,0
+Trọng lượng của MacBook Pro 16 2023 là bao nhiêu?,0,0,1
+MSI Gaming Katana 15 có được trang bị các tính năng tối ưu cho game thủ như bàn phím với đèn LED hoặc tính năng phản hồi nhanh không?,0,1,1
+"Laptop này có các cổng kết nối hiện đại như USB-C, HDMI hoặc Thunderbolt để kết nối với các thiết bị ngoại vi không?",0,0,1
+"Thời lượng pin của MSI Gaming Katana 15 khi chơi game hoặc làm việc lâu dài là bao lâu, có đủ dùng cho các buổi chơi game dài không?
+",0,1,1
+"MSI Gaming Katana 15 có hệ thống loa như thế nào, có hỗ trợ công nghệ âm thanh chất lượng cao cho game thủ không?",0,1,1
+Card đồ họa rời trên MSI Gaming Katana 15 có giúp chạy các game AAA ở cấu hình cao không?,0,1,1
+"MSI Gaming Katana 15 có hỗ trợ nâng cấp RAM và ổ cứng không, dung lượng tối đa có thể nâng cấp là bao nhiêu?",0,1,1
+"Laptop này có hỗ trợ công nghệ làm mát đặc biệt nào để duy trì hiệu suất khi chơi game lâu dài không?
+",0,1,1
+"MSI Gaming Katana 15 được trang bị màn hình với độ phân giải và tần số quét bao nhiêu, có phù hợp cho game thủ không?
+",0,1,1
+"Với bộ vi xử lý Ryzen 7 8845HS, MSI Gaming Katana 15 có thể đáp ứng tốt những tác vụ nặng như chơi game hay làm việc đồ họa không?",0,1,1
+Hệ thống quạt trên máy có ồn không khi chạy ở hiệu suất cao?,0,0,1
+Máy này có hỗ trợ VR (thực tế ảo) không?,0,0,1
+Thời lượng pin trung bình của máy khi chơi game là bao lâu?,0,0,1
+Máy có tích hợp đèn RGB không và có thể tùy chỉnh màu sắc được không?,0,0,1
+RAM 32GB DDR5 có thể nâng cấp thêm không hay bị cố định?,0,0,1
+Bộ vi xử lý Intel Core i9-14900HX trên máy này có mạnh hơn dòng i7 không?,0,0,1
+Laptop có hỗ trợ công nghệ Smart Amp không?,0,0,1
+Laptop có hỗ trợ khe cắm thẻ nhớ microSD không?,0,0,1
+Có hỗ trợ công nghệ AURA SYNC không?,0,0,1
+Laptop có hỗ trợ webcam IR cho Windows Hello không?,0,0,1
+Laptop có hỗ trợ sạc nhanh không?,0,0,1
+"Laptop có hỗ trợ công nghệ AI Noise-Canceling không?
+
+",0,0,1
+Laptop có hỗ trợ kết nối Wi-Fi 6E không?,0,0,1
+Laptop có hỗ trợ nâng cấp RAM không?,0,0,1
+Laptop Asus Gaming ROG Zephyrus G16 GU603VU-N4019W có cấu hình như thế nào?,0,0,1
+Laptop này có thể sử dụng để học thiết kế đồ hoạ được không?,0,1,0
+Laptop có chạy được phần mềm đồ hoạ mạnh và sử dụng được phần mềm Adobe không?,0,0,1
+Máy có tính năng bảo mật nào khác ngoài cảm biến vân tay không?,0,0,1
+Dung lượng ổ cứng của Asus Vivobook S14 S5406MA-PP161W là bao nhiêu?,0,0,1
+Asus Vivobook S14 S5406MA-PP161W có webcam không?,0,0,1
+Máy có hỗ trợ đèn nền bàn phím không?,0,0,1
+Asus Vivobook S14 S5406MA-PP161W có phù hợp để chơi game không?,0,1,0
+Asus Vivobook S14 S5406MA-PP161W sử dụng hệ điều hành nào?,0,0,1
+Máy có hỗ trợ bảo mật vân tay không?,0,0,1
+Asus Vivobook S14 S5406MA-PP161W có phù hợp cho thiết kế đồ họa không?,0,1,0
+Hiệu năng của Asus Vivobook S14 S5406MA-PP161W như thế nào?,0,0,1
+Màn hình Asus Vivobook S14 S5406MA-PP161W có đặc điểm gì?,0,0,1
+Asus Vivobook S14 S5406MA-PP161W có thiết kế như thế nào?,0,0,1
+"Máy này có phù hợp cho học lập trình, đồ họa, giải trí và làm việc không?",0,1,0
+Màn hình của máy là FullHD hay OLED ?,0,0,1
+"Asus Vivobook A1505VA-L1113W có tương thích với các phụ kiện không dây như chuột, bàn phím không?",0,0,1
+"Laptop nào có cấu hình cao, CPU Intel dòng H, cài phần mềm thoải mái, khởi động nhanh mượt, xử lý nhanh các tác vụ nặng?",0,1,1
+Kích thước và độ phân giải như thế nào?,0,0,1
+Máy có sẵn Windows và Office không?,0,0,1
+"Dung lượng RAM và SSD của Asus Vivobook A1505VA-L1113W là bao nhiêu, có hỗ trợ nâng RAM và SSD không?",0,0,1
+Asus Vivobook A1505VA-L1113W có hỗ trợ card đồ họa rời không?,0,0,1
+Cấu hình máy này?,0,0,1
+"Laptop cấu hình cao phù hợp học tập, giải trí, chơi game nhẹ, đa nhiệm tốt và có bảo mật vân tay một chạm mở máy nhanh.",0,1,1
+"Laptop nào tốt nhất trong phân khúc 20 triệu, hiệu năng cao, CPU chuyên game?",1,1,0
+"Laptop nào phù hợp cho công việc giảng dạy, học tập, xử lý dữ liệu, văn bản và phần mềm tính toán?",0,1,0
+"Laptop thiết kế chuyên dụng cho công việc và học tập, cấu hình rất mạnh cho sinh viên học lập trình đồ họa 2D.",0,1,0
+"máy nào phù hợp với nhu cầu học tập của học sinh, sinh viên và công việc giảng dạy, có màn hình lớn, bàn phím đầy đủ?",0,1,0
+"Laptop nào tốt nhất cho công việc kế toán và lưu trữ hồ sơ, cần cấu hình mạnh, RAM lớn để xử lý dữ liệu mượt mà?",0,1,0
+"Gợi ý laptop phù hợp cho công việc và kinh doanh với giá hợp lý, cấu hình mạnh mẽ và hiệu năng cao.",1,1,0
+"Laptop nào có cấu hình mạnh, chip hiệu năng cao, RAM 16GB, SSD 512GB để xử lý các phần mềm nặng?",0,1,1
+"Máy nào tối ưu cho công việc học tập, xử lý dữ liệu, tài liệu, ít liên quan đến đồ họa nhưng vẫn chạy tốt phần mềm đồ họa 2D?",0,1,0
+"laptop nào tốt nhất cho công việc văn phòng với bàn phím số đầy đủ, hành trình phím sâu và màn hình đẹp?",0,1,0
+"Laptop nào phù hợp cho công việc văn phòng, học tập, hiệu năng mạnh mẽ cho các tác vụ xử lý tính toán (Excel, bảng tính) và chơi game ở mức độ khá ổn?",0,1,0
+"Laptop nào phù hợp cho công việc văn phòng hàng ngày, chạy mượt mà, ổn định, ít bị treo và có màn hình sáng nét?",0,1,0
+"Laptop nào phù hợp cho công việc xử lý dữ liệu, kế toán, Excel file lớn, báo cáo thuế, thống kê, yêu cầu RAM lớn và chip mạnh?",0,1,0
+Màn hình của HP Spectre x360 14 có hỗ trợ cảm ứng không?,0,0,1
+"Laptop nào mỏng nhẹ, màn hình đẹp, hiệu năng cao, phù hợp cho nhân viên kinh doanh và kế toán chuyên nghiệp?",0,1,1
+"Laptop có CPU mạnh như dòng gaming, màn hình đẹp, sáng, chơi game giải trí nhẹ.",0,1,1
+"Laptop nào phù hợp cho công việc kế toán, thống kê và chuyên ngành văn bản báo chí?",0,1,0
+"Gợi ý laptop nhỏ gọn, nhẹ, pin lâu, cấu hình tốt cho nhân viên văn phòng.",0,1,0
+Máy phù hợp cho nhân viên kế toán cần xử lý nhiều dòng dữ liệu Excel và các phần mềm chuyên môn với hiệu năng cao,0,1,0
+"Laptop nào thích hợp cho nhân viên marketing, cần màn hình hiển thị màu sắc chi tiết?",0,1,0
+"Máy tính văn phòng mạnh mẽ, đa nhiệm, cấu hình cao, xử lý nhiều tác vụ và phần mềm báo cáo dữ liệu.",0,1,0
+"Laptop tốt nhất dành cho công việc văn phòng, chạy tốt mọi ứng dụng văn phòng, đa nhiệm tốt, kết nối và lướt web nhanh chóng?",0,1,0
+Độ bền chuẩn quân đội là gì?,0,0,1
+Máy này có chơi được game FO4 không?,0,1,0
+Sản phẩm có cài Windows sẵn không?,0,0,1
+Máy này chơi game FIFA Online 4 ổn không?,0,1,0
+"Máy cao cấp dành cho doanh nhân và nhân viên kinh doanh cần máy mỏng nhỏ gọn, hiệu năng cao và đầy đủ tính năng.",0,1,0
+"Máy mạnh, màn hình chống chói và có chuẩn sRGB 100% phù hợp cho ai làm đồ họa vector hoặc in ấn?",0,1,1
+"Laptop nào phù hợp cho học sinh, sinh viên, công việc hàng ngày và đồ họa, thiết kế, xây dựng?",0,1,0
+"Máy có giá hợp lý, đồ họa mạnh mẽ, hiệu năng cao, độ bền chuẩn quân đội.",1,1,0
+Máy lắp được thêm RAM không?,0,0,1
+Máy này có sử dụng Photoshop được không?,0,0,1
+Thời điểm ra mắt sản phẩm khi nào?,0,0,1
+Số lượng loa là bao nhiêu?,0,0,1
+Đèn bàn phím thế nào?,0,0,1
+Độ phủ màu như thế nào?,0,0,1
+Màn hình máy này là loại gì?,0,0,1
+Độ phân giải màn hình của máy là bao nhiêu?,0,0,1
+Máy có sẵn Windows 11 không?,0,0,1
+Laptop này phù hợp với đối tượng nào?,0,1,0
+Bàn phím gõ êm và có đèn nền hỗ trợ làm việc ban đêm.,0,0,1
+Bản slim 5 light nâng RAM lên 16GB được không?,0,0,1
+Màn hình này 60Hz phải không?,0,0,1
+có thể nâng cấp RAM được không?,0,0,1
+Thời điểm ra mắt là khi nào?,0,0,1
+Bàn phím LED RGB có tùy chỉnh?,0,0,1
+Độ phân giải FHD là gì?,0,0,1
+Tần số quét màn hình là bao nhiêu?,0,0,1
+Laptop có phù hợp để lập trình không?,0,1,0
+Trọng lượng laptop là bao nhiêu?,0,0,1
+Máy có hỗ trợ chơi game nặng không?,0,1,0
+MacBook Air M2 có cổng HDMI không?,0,0,1
+MacBook Air M2 có chống nước không? Máy này có phải hàng chính hãng không?,0,0,1
+Máy có dễ bị trầy xước không?,0,0,1
+Có thể nâng cấp RAM và SSD không?,0,0,1
+MacBook Air M2 có hỗ trợ eGPU không?,0,0,1
+Máy có phù hợp để chơi game không?,0,1,0
+MacBook Air M2 có tương thích với AppleCare không?,0,0,1
+Cổng kết nối trên MacBook Air M2?,0,0,1
+Thiết kế của MacBook Air M2 có gì nổi bật? Thời gian bảo hành bao lâu?,0,0,1
+MacBook Air M2 có gì khác biệt so với MacBook Air M1?,0,0,1
+Kích thước và độ phân giải màn hình MacBook Air M2 2022?,0,0,1
+RAM và dung lượng lưu trữ của máy là bao nhiêu?,0,0,1
+MacBook Air M2 13 inch 2022 sử dụng chip gì?,0,0,1
+Thời gian bảo hành của máy này là bao lâu?,0,0,1
+Sản phẩm này giá bao nhiêu?,1,0,0
+Sản phẩm này có đi kèm bộ sạc không?,0,0,1
+có hỗ trợ cài đặt Windows không?,0,0,1
+MacBook Air M2 có hỗ trợ Microsoft Office không?,0,0,1
+"SP dùng lâu có nóng máy không, chịu nhiệt được không?",0,0,1
+chơi game trên máy này được không?,0,1,0
+Sản phẩm này có hỗ trợ phần mềm chỉnh sửa video và hình ảnh không?,0,1,0
+MacBook Air M2 có hỗ trợ Wi-Fi 6 không?,0,0,1
+MacBook Air M2 có nâng cấp cấu hình được không?,0,0,1
+màu sắc của máy này?,0,0,1
+có hỗ trợ sạc nhanh không?,0,0,1
+Máy có bao nhiêu phiên bản RAM và dung lượng lưu trữ?,0,0,1
+Máy này có touch ID không?,0,0,1
+Trọng lượng và kích thước máy như thế nào?,0,0,1
+Sản phẩm này có những cổng nào? Không có USB hay HDMI?,0,0,1
+"thời lượng sử dụng pin là bao lâu, pin có trâu không?",0,0,1
+máy này dùng màn hình gì?,0,0,1
+Máy có thể xử lý các tác vụ AI hoặc machine learning không?,0,1,1
+Máy này có hỗ trợ FaceTime HD không?,0,0,1
+mở nhiều ứng dụng cùng lúc có bị đơ không?,0,0,1
+MacBook Pro 13 M1 có True Tone không?,0,0,1
+Máy có bị nóng không?,0,0,1
+MacBook Pro 13 M1 có cài đặt và sử dụng Windows được không?,0,0,1
+máy có dùng được Touch Bar không?,0,0,1
+MacBook Pro 13 M1 trọng lượng bao nhiêu?,0,0,1
+có những cổng kết nối nào?,0,0,1
+Thời lượng pin của MacBook Pro 13 M1 là bao lâu?,0,0,1
+Độ phân giải màn hình của MacBook Pro 13 M1 là bao nhiêu?,0,0,1
+máy có nâng cấp RAM được không?,0,0,1
+Dung lượng lưu trữ bao nhiêu?,0,0,1
+MacBook Pro 13 M1 có hệ điều hành nào?,0,0,1
+máy có đáp ứng đồ họa tốt không?,0,1,1
+MacBook Pro 13 M1 khác biệt gì so với các dòng MacBook trước đó?,0,0,1
+có hỗ trợ Microsoft Office không?,0,0,1
+Laptop có cấu hình mạnh mẽ để chơi game và dùng cho thiết kế?,0,1,0
+Màn hình bao nhiêu % sRGB?,0,0,1
+Laptop dùng loại RAM gì?,0,0,1
+Nâng cấp RAM lên 16GB thì giá khoảng bao nhiêu?,0,0,1
+"Laptop cấu hình mạnh chơi game tốt với card đồ họa rời, cần nâng cấp RAM.",0,1,1
+"Máy tính dùng tốt cho 4 năm học tập, cấu hình mạnh mẽ không cần nâng cấp",0,1,0
+Laptop cao cấp trong tầm giá 30 triệu?,1,0,0
+"máy có cấu hình mạnh, hiệu năng tốt, đồ họa 3D mạnh, dùng tốt cho sinh viên đại học.",0,1,0
+Màn hình có độ sáng cao đạt chuẩn màu 100 sRGB dùng để chỉnh sửa in ấn thiết kế?,0,0,1
+Laptop có card đồ họa rời RTX 4060 chạy tốt các phần mềm đồ họa và dùng tốt trong 3-4 năm?,0,0,1
+Laptop thiết kế cho đồ họa và truyền thông đa phương tiện,0,1,0
+Cấu hình đồ họa i7 và 8GB có đáp ứng tốt các phần mềm 3D và game đồ họa cao?,0,1,1
+Laptop cấu hình mạnh mẽ để làm nội dung 3D và sáng tạo nội dung.,0,1,0
+Máy này có cổng Thunderbolt không?,0,0,1
+laptop này sử dụng wifi gì?,0,0,1
+chất liệu máy là gì?,0,0,1
+SSD của máy là gì?,0,0,1
+thông tin card rời theo máy,0,0,1
+lựa chọn laptop tốt nhất cho sinh viên học tập lập trình đồ họa và các ngành sáng tạo thiết kế,0,1,0
+"máy có hiệu năng xuất sắc, dùng được nhiều năm, đồ họa đẹp và màn hình tốt?",0,1,1
+"Máy tính chuyên dùng để chơi game và đồ họa, đầy đủ cổng kết nối.",0,1,0
+"Máy dùng để thiết kế sản phẩm, chỉnh sửa video và audio hiệu năng cao?",0,1,0
+Laptop phù hợp cho thiết kế và dựng video 2D/3D. Cần thêm ổ cứng ngoài nếu xử lý video 4K.,0,1,0
+"Máy có RAM 16GB, card đồ họa 4GB và CPU dòng H có thể chơi game nặng và đồ họa nặng tốt không?",0,1,1
+"Laptop chơi game mượt, hiệu năng tốt cho văn phòng, học tập và đồ họa, có thể nâng cấp RAM.",0,1,1
+"laptop hoạt động mượt, cấu hình cao và bàn phím êm, thuận tiện soạn thảo văn bản",0,1,1
+"Máy dùng làm đồ họa và video tốt, xuất video nhanh.",0,1,0
+"Máy có cấu hình mạnh, phục vụ tốt cho game thủ, học sinh, sinh viên học tập và giải trí, wifi 6 bắt sóng tốt.",0,1,1
+"Laptop có card đồ họa rời mạnh mẽ, CPU dòng H hiệu năng cao, đa nhiệm và học tập đồ họa tốt?",0,1,1
+"máy thiết kế cho công việc, có card đồ họa rời, wifi 6 và camera full HD cho họp online",0,1,1
+"laptop nào tốt cho sinh viên IT, truyền thông đa phương tiện, giải trí, lập trình web, đồ họa mạnh và wifi 6 nhanh?",0,1,0
+Laptop trang bị GPU 4GB có chạy tốt các phần mềm đồ họa hiện nay và đa nhiệm tốt không?,0,0,1
+"Laptop chất lượng tốt, hiệu năng mạnh, độ bền cao dùng cho công trình xây dựng.",0,1,0
+Làm thế nào để nâng cấp ổ cứng?,0,0,1
+Đặc điểm nổi bật của màn hình Asus Vivobook Pro K3405VC-KM070W?,0,0,1
+Công nghệ âm thanh DTS:X Ultra trên máy có cải thiện trải nghiệm khi chơi game không?,0,0,1
+Acer Nitro V 16 có hỗ trợ phần mềm NitroSense để kiểm soát hiệu năng không?,0,0,1
+Máy này có đáp ứng được nhu cầu học đồ họa và chơi game không?,0,1,0
+Có thay card khác được không?,0,0,1
+"Laptop nào chuyên dùng cho công việc đồ họa, giải trí, chỉnh sửa video, xuất hình và có âm thanh tốt?",0,1,0
+"Laptop nào đáp ứng mọi công việc, đầy đủ cổng kết nối, có cổng LAN để làm việc liên tục, kết nối mạng ổn định và hiệu quả cao?",0,1,1
+Máy có hỗ trợ nâng ram không?,0,0,1
+thông tin pin của máy?,0,0,1
+Công nghệ đèn bàn phím là gì?,0,0,1
+máy này dung lượng SSD bao nhiêu?,0,0,1
+Tốc độ RAM bao nhiêu?,0,0,1
+máy có RAM bao nhiêu GB?,0,0,1
+Máy này có khả năng nâng thêm SSD mà không phải tháo ổ cũ ra không?,0,0,1
+Laptop này có hỗ trợ xuất hình qua cổng Type-C không?,0,0,1
+Nâng cấp RAM giá bao nhiêu?,0,0,1
+Kích thước màn hình là bao nhiêu?,0,0,1
+Máy này có mấy thanh RAM?,0,0,1
+Máy có phù hợp cho việc thiết kế đồ họa không?,0,1,0
+Asus Vivobook Pro 14 OLED K3405ZF-KM184W có cấu hình như thế nào?,0,0,1
+Máy có phù hợp cho công việc đồ họa và chơi game không?,0,1,0
+Bàn phím của MSI Creator M16 B13VE-830VN có đặc điểm gì?,0,0,1
+MSI Creator M16 B13VE-830VN có hiệu suất chơi game như thế nào?,0,0,1
+màn hình có cảm ứng không?,0,0,1
+Có kết nối Bluetooth không?,0,0,1
+Độ phân giải thế nào?,0,0,1
+"Dung lượng RAM là bao nhiêu?
+",0,0,1
+Laptop có kích thước màn hình bao nhiêu?,0,0,1
+Máy có bị nóng khi sử dụng lâu không?,0,0,1
+Máy này có vân tay không?,0,0,1
+RAM mẫu này là hãng gì? Có thể nâng cấp thêm 8GB tương tự không?,0,0,1
+Có laptop nào cùng tầm giá để dùng cơ bản không?,1,1,0
+pin máy này sử dụng được bao lâu?,0,0,1
+"Máy này có thể làm việc văn phòng mượt mà không, như Word, Excel, PowerPoint?",0,1,0
+"Cấu hình máy Acer Aspire 3 A315-58-53S6 như thế nào, chơi game ổn không?",0,1,1
+"Máy có thể xuất hình ảnh ra màn hình khác từ card rời NVIDIA được không, hay chỉ xuất được từ card tích hợp?",0,0,1
+SSD của máy có thể nâng lên 1TB được không?,0,0,1
+sản phẩm có bao nhiêu cổng USB và hỗ trợ kết nối ngoài không?,0,0,1
+Máy này dùng làm việc văn phòng hay học online có ổn không?,0,1,0
+Sử dụng lâu dài có bị nóng không?,0,0,1
+Máy chơi được game PUBG hay Apex Legends không?,0,1,0
+"Màn hình máy có tần số quét cao không, có phù hợp với game thủ không?",0,1,1
+Đây có phải hàng chính hãng không?,0,0,1
+"Laptop nào chạy mượt mọi ứng dụng văn phòng như Word, PowerPoint và các phần mềm đồ họa như Photoshop, AutoCAD?",0,1,0
+"Laptop nhanh mượt, chạy tốt hầu hết các phần mềm học tập và giải trí, âm thanh hay, chip đồ họa tương thích tốt nhiều game.",0,1,0
+Máy này có kết nối Wi-Fi 6 không?,0,0,1
+Máy này có bàn phím RGB không?,0,0,1
+Trọng lượng máy bao nhiêu?,0,0,1
+Máy này chạy hệ điều hành nào?,0,0,1
+Dòng này có nâng cấp được không?,0,0,1
+Thời lượng pin của máy này sử dụng liên tục được bao lâu?,0,0,1
+Dòng này có chơi được game nặng như Cyberpunk 2077 không?,0,1,0
+Mẫu này có thể dùng để học IT và chơi Liên Minh không?,0,1,0
