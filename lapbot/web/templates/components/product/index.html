@@ -1,0 +1,39 @@
+{% comment %} {% load humanize %}
+<!-- TẢI BỘ FILTER HUMANIZE VÀO TEMPLATE -->
+{% endcomment %} 
+ {% load static %}
+ {% load random_images %}
+
+<c-vars class=""></c-vars>
+
+<a
+    href="{{ data.url_path }}"
+    class="bg-white rounded-2xl flex flex-col justify-start items-center w-[16rem] h-[25rem] shadow-full-2 m-auto {{ class }}"
+>
+    <div class="flex justify-center items-center">
+        <img src="{% random_demo_laptop_image %}" alt="Laptop" class="w-full aspect-[4/3] object-contain">
+    </div>
+
+    <div class="flex-1 flex flex-col justify-start gap-2 px-4 py-2">
+        <p class="line-clamp-3 break-all">{{ data.name }}</p>
+
+        <div class="flex flex-row gap-2 items-end">
+            <span class="text-base font-bold text-transparent bg-clip-text bg-gradient-to-r from-teal-600 to-teal-400">
+                <span class="price_vnd">{{ data.discounted_price }}</span><span class="text-sm">đ</span>
+            </span>
+            {% if data.discounted_price != data.root_price %}
+                <span class="text-[12px] relative bottom-0.5 text-black/40 line-through">
+                    <span class="price_vnd">{{ data.root_price }}</span><span>đ</span>
+                </span>
+            {% endif %}
+        </div>
+
+        <div class="w-full flex flex-wrap gap-2 py-1">
+            {% for usage_need in data.usage_needs %}
+            <c-badge variant="secondary">
+                <span class="text-[8px] font-normal">{{ usage_need }}</span>
+            </c-badge>
+            {% endfor %}
+        </div>
+    </div>
+</a>

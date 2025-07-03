@@ -1,0 +1,14 @@
+/* CSS Code */
+.swiper-wrapper {
+    /* width: 100%; */
+    height: max-content !important;
+    -webkit-transition-timing-function: linear !important;
+    transition-timing-function: linear !important;
+    position: relative;
+}
+
+.swiper-button-disabled {
+  opacity: 0.3;
+  pointer-events: none;
+  cursor: default;
+}

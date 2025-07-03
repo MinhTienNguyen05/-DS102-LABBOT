@@ -1,0 +1,169 @@
+<c-vars class=""></c-vars>
+
+<div class="flex justify-start mb-8 {{ class }}">
+    {% if data.intent_codes|length >= 2 %}
+
+    <div class="text-sm">
+        <p class="font-bold text-xl mb-2">
+            Dưới đây là một số laptop chúng tôi gợi ý dựa trên thông tin bạn đã cung cấp :
+        </p>
+        {% for item in data.ai_response %}
+        <div class="relative mb-4">
+            <h3 class="mb-2">
+                Với nhóm <strong>{{ item.persona }}</strong>, giá cần chuẩn bị khoảng :
+                <span class="text-xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-teal-600 to-teal-400">
+                    <span class='price_vnd'>{{ item.general_price }}</span><span class="text-sm">đ</span>
+                </span>
+            </h3>
+            <!-- Carousel -->
+            <div class="swiper multiple-slide-carousel swiper-container relative overflow-scroll w-4xl">
+                <div class="swiper-wrapper -z-10">
+                    {% for product in item.suggested_laptops %}
+                    <div class="swiper-slide flex p-2">
+                        <c-product :data="product"></c-product>
+                    </div>
+                    {% endfor %}
+                </div>
+
+                <button
+                    class="slider-button-prev z-10 absolute h-18 w-18 left-0 bg-white/40 top-1/2 -translate-y-1/2 -translate-x-1/2 !rounded-full shadow-full-4 !flex !justify-end items-center hover:cursor-pointer hover:bg-white transition-all"
+                    data-carousel-prev
+                >
+                    <c-icon.left-arrow class="text-default-black h-8 w-8 mr-1"></c-icon.left-arrow>
+                </button>
+                <button
+                    class="slider-button-next z-10 absolute h-18 w-18 right-0 bg-white/40 top-1/2 -translate-y-1/2 translate-x-1/2 !rounded-full shadow-full-4 !flex !justify-start items-center hover:cursor-pointer hover:bg-white transition-all"
+                    data-carousel-next
+                >
+                    <c-icon.right-arrow class="text-default-black h-8 w-8 ml-1"></c-icon.right-arrow>
+                </button>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+    {% elif data.intent_codes|first == -1 %}
+
+    <div class="markdown">{{ data.ai_response|safe }}</div>
+
+    {% elif data.intent_codes|first == 0 %}
+
+    <div class="text-sm">
+        <div class="relative mb-4">
+            <h3 class="mb-2">
+                Dựa vào ngân sách của bạn, tôi sẽ gợi ý các laptop trong khoảng
+                <span class="text-xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-teal-600 to-teal-400">
+                    <span class='price_vnd'>{{ data.ai_response.min_price }}</span><span class="text-sm">đ</span>
+                </span>
+                đến 
+                <span class="text-xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-teal-600 to-teal-400">
+                    <span class='price_vnd'>{{ data.ai_response.max_price }}</span><span class="text-sm">đ</span>
+                </span>
+                :
+            </h3>
+
+            <div class="swiper multiple-slide-carousel swiper-container relative overflow-scroll w-4xl">
+                <div class="swiper-wrapper -z-10">
+                    {% for product in data.ai_response.suggested_laptops %}
+                    <div class="swiper-slide flex p-2">
+                        <c-product :data="product"></c-product>
+                    </div>
+                    {% endfor %}
+                </div>
+
+                <button
+                    class="slider-button-prev z-10 absolute h-18 w-18 left-0 bg-white/40 top-1/2 -translate-y-1/2 -translate-x-1/2 !rounded-full shadow-full-4 !flex !justify-end items-center hover:cursor-pointer hover:bg-white transition-all"
+                    data-carousel-prev
+                >
+                    <c-icon.left-arrow class="text-default-black h-8 w-8 mr-1"></c-icon.left-arrow>
+                </button>
+                <button
+                    class="slider-button-next z-10 absolute h-18 w-18 right-0 bg-white/40 top-1/2 -translate-y-1/2 translate-x-1/2 !rounded-full shadow-full-4 !flex !justify-start items-center hover:cursor-pointer hover:bg-white transition-all"
+                    data-carousel-next
+                >
+                    <c-icon.right-arrow class="text-default-black h-8 w-8 ml-1"></c-icon.right-arrow>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    {% elif data.intent_codes|first == 1 %}
+
+    <div class="text-sm">
+        <div class="relative mb-4">
+            <h3 class="mb-2">
+                Với nhu cầu của bạn là
+                <span class="text-xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-teal-600 to-teal-400">
+                    <span>{{ data.ai_response.persona }}</span>
+                </span>
+                , thì chúng tôi có một số gợi ý như sau :
+            </h3>
+
+            <div class="swiper multiple-slide-carousel swiper-container relative overflow-scroll w-4xl">
+                <div class="swiper-wrapper -z-10">
+                    {% for product in data.ai_response.suggested_laptops %}
+                    <div class="swiper-slide flex p-2">
+                        <c-product :data="product"></c-product>
+                    </div>
+                    {% endfor %}
+                </div>
+
+                <button
+                    class="slider-button-prev z-10 absolute h-18 w-18 left-0 bg-white/40 top-1/2 -translate-y-1/2 -translate-x-1/2 !rounded-full shadow-full-4 !flex !justify-end items-center hover:cursor-pointer hover:bg-white transition-all"
+                    data-carousel-prev
+                >
+                    <c-icon.left-arrow class="text-default-black h-8 w-8 mr-1"></c-icon.left-arrow>
+                </button>
+                <button
+                    class="slider-button-next z-10 absolute h-18 w-18 right-0 bg-white/40 top-1/2 -translate-y-1/2 translate-x-1/2 !rounded-full shadow-full-4 !flex !justify-start items-center hover:cursor-pointer hover:bg-white transition-all"
+                    data-carousel-next
+                >
+                    <c-icon.right-arrow class="text-default-black h-8 w-8 ml-1"></c-icon.right-arrow>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    {% elif data.intent_codes|first == 2 %}
+
+    <div class="text-sm">
+        <p class="font-bold text-xl mb-2">
+            Dưới đây là một số laptop chúng tôi gợi ý dựa trên thông tin bạn đã cung cấp :
+        </p>
+        {% for item in data.ai_response %}
+        <div class="relative mb-4">
+            <h3 class="mb-2">
+                Với nhóm <strong>{{ item.persona }}</strong>, giá cần chuẩn bị khoảng :
+                <span class="text-xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-teal-600 to-teal-400">
+                    <span class='price_vnd'>{{ item.general_price }}</span><span class="text-sm">đ</span>
+                </span>
+            </h3>
+            <!-- Carousel -->
+            <div class="swiper multiple-slide-carousel swiper-container relative overflow-scroll w-4xl">
+                <div class="swiper-wrapper -z-10">
+                    {% for product in item.suggested_laptops %}
+                    <div class="swiper-slide flex p-2">
+                        <c-product :data="product"></c-product>
+                    </div>
+                    {% endfor %}
+                </div>
+
+                <button
+                    class="slider-button-prev z-10 absolute h-18 w-18 left-0 bg-white/40 top-1/2 -translate-y-1/2 -translate-x-1/2 !rounded-full shadow-full-4 !flex !justify-end items-center hover:cursor-pointer hover:bg-white transition-all"
+                    data-carousel-prev
+                >
+                    <c-icon.left-arrow class="text-default-black h-8 w-8 mr-1"></c-icon.left-arrow>
+                </button>
+                <button
+                    class="slider-button-next z-10 absolute h-18 w-18 right-0 bg-white/40 top-1/2 -translate-y-1/2 translate-x-1/2 !rounded-full shadow-full-4 !flex !justify-start items-center hover:cursor-pointer hover:bg-white transition-all"
+                    data-carousel-next
+                >
+                    <c-icon.right-arrow class="text-default-black h-8 w-8 ml-1"></c-icon.right-arrow>
+                </button>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+    {% endif %}
+</div>
